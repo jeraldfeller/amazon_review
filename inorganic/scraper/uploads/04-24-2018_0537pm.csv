@@ -1,0 +1,513 @@
+time,keyword,message,asin,brand,title,position
+"2018-04-24 17:34:05",nespresso,"Macchine Nespresso® - Per un caffè sempre perfetto",,Nespresso,,1
+"2018-04-24 17:34:08",nespresso,,B00I64VOES,Nespresso,,2
+"2018-04-24 17:34:08",nespresso,,B004JV77QQ,Nespresso,,3
+"2018-04-24 17:34:08",nespresso,,B01JUC9CDY,Nespresso,,4
+"2018-04-24 17:34:08",nespresso,,B01IBOHDUQ,Lavazza,,5
+"2018-04-24 17:34:08",nespresso,,B00G98EJHM,Nespresso,,6
+"2018-04-24 17:34:08",nespresso,,B007ISDTF0,Nespresso,,7
+"2018-04-24 17:34:05","cialde nespresso","Macchine Nespresso® - Per un caffè sempre perfetto",,Nespresso,,1
+"2018-04-24 17:34:08","cialde nespresso",,B01N98S9FS,"Caffè Carracci",,2
+"2018-04-24 17:34:08","cialde nespresso",,B00I64VOES,Nespresso,,3
+"2018-04-24 17:34:08","cialde nespresso",,B004JV77QQ,Nespresso,,4
+"2018-04-24 17:34:08","cialde nespresso",,B01JUC9CDY,Nespresso,,5
+"2018-04-24 17:34:08","cialde nespresso",,B00G98EJHM,Nespresso,,6
+"2018-04-24 17:34:15","cialde nespresso",,B004IZOAFO,Nespresso,,7
+"2018-04-24 17:34:10","capsule nespresso","Macchine Nespresso® - Per un caffè sempre perfetto",,Nespresso,,1
+"2018-04-24 17:34:08","capsule nespresso",,B00I64VOES,Nespresso,,2
+"2018-04-24 17:34:08","capsule nespresso",,B004JV77QQ,Nespresso,,3
+"2018-04-24 17:34:08","capsule nespresso",,B01JUC9CDY,Nespresso,,4
+"2018-04-24 17:34:15","capsule nespresso",,B00V87K450,Lavazza,,5
+"2018-04-24 17:34:08","capsule nespresso",,B00G98EJHM,Nespresso,,6
+"2018-04-24 17:34:08","capsule nespresso",,B007ISDTF0,Nespresso,,7
+"2018-04-24 17:34:10","capsule dolce gusto","Prova le nostre compatibili dolce gusto",,"POP CAFFE'",,1
+"2018-04-24 17:34:15","capsule dolce gusto",,B016IL75S4,"Vahdam Teas",,2
+"2018-04-24 17:34:15","capsule dolce gusto",,B073TYDQ2N,"POP CAFFE'",,3
+"2018-04-24 17:34:15","capsule dolce gusto",,B01M8LP7O3,"Vahdam Teas",,4
+"2018-04-24 17:34:15","capsule dolce gusto",,B005J3I4BU,"Chupa Chups",,5
+"2018-04-24 17:34:10","dolce gusto","Prova le nostre compatibili dolce gusto",,"POP CAFFE'",,1
+"2018-04-24 17:34:15","dolce gusto",,B00H4X8DVE,Babavoom®,,2
+"2018-04-24 17:34:15","dolce gusto",,B0714JVV43,V.I.P.,,3
+"2018-04-24 17:34:15","dolce gusto",,B01N97DB4W,HiveNets,,4
+"2018-04-24 17:34:15","dolce gusto",,B01CP3YXSE,Babavoom®,,5
+"2018-04-24 17:34:22","dolce gusto",,B00RMWTHC6,Babavoom®,,6
+"2018-04-24 17:34:16","lavazza a modo mio","Scopri la novità Tiny, in sei varianti di colore",,Lavazza,,1
+"2018-04-24 17:34:08","lavazza a modo mio",,B01IBOHDUQ,Lavazza,,2
+"2018-04-24 17:34:22","lavazza a modo mio",,B079SY8N18,"Lavazza A Modo Mio",,3
+"2018-04-24 17:34:22","lavazza a modo mio",,B071FGZMGN,Lavazza,,4
+"2018-04-24 17:34:15","lavazza a modo mio",,B01N97DB4W,HiveNets,,5
+"2018-04-24 17:34:22","lavazza a modo mio",,B01IBNX50E,Lavazza,,6
+"2018-04-24 17:34:22","lavazza a modo mio",,B071LNGV75,Lavazza,,7
+"2018-04-24 17:34:16","cialde borbone",,,,,1
+"2018-04-24 17:34:22","cialde borbone",,B07BRCDT6C,DERASHOP,,2
+"2018-04-24 17:34:22","cialde borbone",,B074ND3YDV,"Lavazza A Modo Mio",,3
+"2018-04-24 17:34:22","cialde borbone",,B072XHM4FD,yespresso,,4
+"2018-04-24 17:34:22","cialde borbone",,B077GZNWVG,"POP CAFFE'",,5
+"2018-04-24 17:34:19","cialde lavazza a modo mio","Scopri la novità Tiny, in sei varianti di colore",,Lavazza,,1
+"2018-04-24 17:34:26","cialde lavazza a modo mio",,B077BBPZ2G,"La Compatibile.it",,2
+"2018-04-24 17:34:26","cialde lavazza a modo mio",,B079K69BF3,Gocce,,3
+"2018-04-24 17:34:15","cialde lavazza a modo mio",,B00V87K450,Lavazza,,4
+"2018-04-24 17:34:26","cialde lavazza a modo mio",,B071LDYG9R,"Il Caffè Italiano",,5
+"2018-04-24 17:34:23","caffe borbone","Prova le nostre capsule compatibili",,"POP CAFFE'",,1
+"2018-04-24 17:34:26","caffe borbone",,B0754JC6VN,"Caffè Borbone",,2
+"2018-04-24 17:34:26","caffe borbone",,B079Z7LRTB,"Caffè Borbone",,3
+"2018-04-24 17:34:22","caffe borbone",,B072XHM4FD,yespresso,,4
+"2018-04-24 17:34:26","caffe borbone",,B01N98SFT6,"Caffè Carracci",,5
+"2018-04-24 17:34:23","caffe borbone cialde","Prova le nostre capsule compatibili",,"POP CAFFE'",,1
+"2018-04-24 17:34:22","caffe borbone cialde",,B072XHM4FD,yespresso,,2
+"2018-04-24 17:34:26","caffe borbone cialde",,B01N98SFT6,"Caffè Carracci",,3
+"2018-04-24 17:34:22","caffe borbone cialde",,B077GZNWVG,"POP CAFFE'",,4
+"2018-04-24 17:34:26","caffe borbone cialde",,B073Q1B4PS,"Il Caffè Italiano",,5
+"2018-04-24 17:34:28",caffe,"Colazione in Stile Retrò",,"Russell Hobbs",,1
+"2018-04-24 17:34:33",caffe,,B01MZFQOIG,"Philips Macchine da caffè Automatiche",,2
+"2018-04-24 17:34:33",caffe,,B079JZ9R6L,"Philips Macchine da caffè Automatiche",,3
+"2018-04-24 17:34:15",caffe,,B00V87K450,Lavazza,,4
+"2018-04-24 17:34:33",caffe,,B00TYF8BB2,"Philips Macchine da caffè Automatiche",,5
+"2018-04-24 17:34:33",caffe,,B0772MJ2D6,"Philips Macchine da caffè Automatiche",,6
+"2018-04-24 17:34:28","a modo mio capsule","Scopri la novità Tiny, in sei varianti di colore",,Lavazza,,1
+"2018-04-24 17:34:28","a modo mio macchina caffe","Scopri la novità Tiny, in sei varianti di colore",,Lavazza,,1
+"2018-04-24 17:34:08","a modo mio macchina caffe",,B01IBOHDUQ,Lavazza,,2
+"2018-04-24 17:34:22","a modo mio macchina caffe",,B071FGZMGN,Lavazza,,3
+"2018-04-24 17:34:22","a modo mio macchina caffe",,B071LNGV75,Lavazza,,4
+"2018-04-24 17:34:33","a modo mio macchina caffe",,B019S0LWKE,"Il Caffè Italiano",,5
+"2018-04-24 17:34:22","a modo mio macchina caffe",,B01IBNX50E,Lavazza,,6
+"2018-04-24 17:34:15","a modo mio macchina caffe",,B00V87K450,Lavazza,,7
+"2018-04-24 17:34:28","a modo mio","Scopri la novità Tiny, in sei varianti di colore",,Lavazza,,1
+"2018-04-24 17:34:08","a modo mio",,B01IBOHDUQ,Lavazza,,2
+"2018-04-24 17:34:33","a modo mio",,B077RDGM4P,"Caffè Borbone",,3
+"2018-04-24 17:34:22","a modo mio",,B071FGZMGN,Lavazza,,4
+"2018-04-24 17:34:22","a modo mio",,B071LNGV75,Lavazza,,5
+"2018-04-24 17:34:22","a modo mio",,B01IBNX50E,Lavazza,,6
+"2018-04-24 17:34:33","a modo mio",,B078XKFBZG,"Caffè Borbone",,7
+"2018-04-24 17:34:30","caffe americano","Colazione in Stile Retrò",,"Russell Hobbs",,1
+"2018-04-24 17:34:33","caffe americano",,B01KOOOKUM,"Coffee Gator",,2
+"2018-04-24 17:34:33","caffe americano",,B06XQ1B88X,Luxebell,,3
+"2018-04-24 17:34:15","caffe americano",,B00V87K450,Lavazza,,4
+"2018-04-24 17:34:40","caffe americano",,B015V6F1TC,LifeStory,,5
+"2018-04-24 17:34:40","caffe americano",,B01H5Z4TK4,"Life Story",,6
+"2018-04-24 17:34:40","caffe americano",,B0772SDBKX,Luxebell,,7
+"2018-04-24 17:34:34","capsule lavazza a modo mio","Scopri la novità Tiny, in sei varianti di colore",,Lavazza,,1
+"2018-04-24 17:34:40","capsule lavazza a modo mio",,B01LBLFNX0,BeShiny,,2
+"2018-04-24 17:34:26","capsule lavazza a modo mio",,B079K69BF3,Gocce,,3
+"2018-04-24 17:34:40","capsule lavazza a modo mio",,B01D4L36NE,"Caffè Vergnano",,4
+"2018-04-24 17:34:40","capsule lavazza a modo mio",,B075731YJX,"Caffè Cremeo",,5
+"2018-04-24 17:34:34","capsule compatibili nespresso","Macchine Nespresso® - Per un caffè sempre perfetto",,Nespresso,,1
+"2018-04-24 17:34:40","capsule compatibili nespresso",,B075MG62QH,"Caffè H24",,2
+"2018-04-24 17:34:40","capsule compatibili nespresso",,B0719KDYXF,yespresso,,3
+"2018-04-24 17:34:40","capsule compatibili nespresso",,B01HF6YB56,yespresso,,4
+"2018-04-24 17:34:40","capsule compatibili nespresso",,B075L8YLJ7,BATTISTINO,,5
+"2018-04-24 17:34:44","capsule compatibili nespresso",,B01M7ZFZ8C,yespresso,,6
+"2018-04-24 17:34:26","capsule compatibili nespresso",,B01N98SFT6,"Caffè Carracci",,7
+"2018-04-24 17:34:44","capsule compatibili nespresso",,B079K6DJYJ,Gocce,,8
+"2018-04-24 17:34:44","capsule compatibili nespresso",,B07CL28WPF,"Il Caffè Italiano",,9
+"2018-04-24 17:34:42","capsule nescafe dolce gusto",,,,,1
+"2018-04-24 17:34:44","capsule nescafe dolce gusto",,B071RBCN6V,Lictin,,2
+"2018-04-24 17:34:44","capsule nescafe dolce gusto",,B00CIS117I,"NESCAFÉ Dolce Gusto",,3
+"2018-04-24 17:34:22","capsule nescafe dolce gusto",,B072XHM4FD,yespresso,,4
+"2018-04-24 17:34:15","capsule nescafe dolce gusto",,B01N97DB4W,HiveNets,,5
+"2018-04-24 17:34:15","capsule nescafe dolce gusto",,B01CP3YXSE,Babavoom®,,6
+"2018-04-24 17:34:44","capsule nescafe dolce gusto",,B07BN19VMY,"POP CAFFE'",,7
+"2018-04-24 17:34:42","cialde caffe","Capsule compatibili Nespresso®. Qualità italiana.",,"Caffè Carracci",,1
+"2018-04-24 17:34:44","cialde caffe",,B0792HPNPT,"Le cinèma cafè",,2
+"2018-04-24 17:34:44","cialde caffe",,B074QKLJS8,"Caffè Cremeo",,3
+"2018-04-24 17:34:15","cialde caffe",,B00V87K450,Lavazza,,4
+"2018-04-24 17:34:48","cialde caffe",,B00Q6FM6GY,"Vahdam Teas",,5
+"2018-04-24 17:34:48","cialde caffe",,B01NAUUMR3,"DICOSOLACAFFE' S.G.L. VENDING SNC",,6
+"2018-04-24 17:34:45",cialde,,,,,1
+"2018-04-24 17:34:48",cialde,,B016D9G0JQ,Didiesse,,2
+"2018-04-24 17:34:48",cialde,,B019S0LZPQ,"Il Caffè Italiano",,3
+"2018-04-24 17:34:48",cialde,,B003U6VDGQ,"NESCAFÉ Dolce Gusto",,4
+"2018-04-24 17:34:48",cialde,,B00NHXH8D4,"NESCAFÉ Dolce Gusto",,5
+"2018-04-24 17:34:45","cialde lavazza","Scopri la novità Tiny, in sei varianti di colore",,Lavazza,,1
+"2018-04-24 17:34:48","cialde lavazza",,B077QWSRVK,RossoCrema,,2
+"2018-04-24 17:34:48","cialde lavazza",,B077QWM7S5,RossoCrema,,3
+"2018-04-24 17:34:15","cialde lavazza",,B00V87K450,Lavazza,,4
+"2018-04-24 17:34:44","cialde lavazza",,B01M7ZFZ8C,yespresso,,5
+"2018-04-24 17:34:48","cialde lavazza",,B01NAUUMR3,"DICOSOLACAFFE' S.G.L. VENDING SNC",,6
+"2018-04-24 17:34:49","cialde a modo mio","Scopri la novità Tiny, in sei varianti di colore",,Lavazza,,1
+"2018-04-24 17:34:52","cialde a modo mio",,B0756ZDZB9,"Caffè Cremeo",,2
+"2018-04-24 17:34:52","cialde a modo mio",,B079K69BFD,Gocce,,3
+"2018-04-24 17:34:15","cialde a modo mio",,B00V87K450,Lavazza,,4
+"2018-04-24 17:34:40","cialde a modo mio",,B0719KDYXF,yespresso,,5
+"2018-04-24 17:34:48","cialde a modo mio",,B01NAUUMR3,"DICOSOLACAFFE' S.G.L. VENDING SNC",,6
+"2018-04-24 17:34:49","caffe verde","Colazione in Stile Retrò",,"Russell Hobbs",,1
+"2018-04-24 17:34:52","caffe verde",,B01LB2EZCY,"Cute Nutrition",,2
+"2018-04-24 17:34:52","caffe verde",,B015OFTIXU,Formafit,,3
+"2018-04-24 17:34:52","caffe verde",,B07281RM9X,"Garcinia Cambogia",,4
+"2018-04-24 17:34:52","caffe verde",,B00O8SS1HO,"ABS All Brake Systems",,5
+"2018-04-24 17:34:49","caffe in grani","Colazione in Stile Retrò",,"Russell Hobbs",,1
+"2018-04-24 17:34:52","caffe in grani",,B01CTBP278,"360° rundum ehrlich",,2
+"2018-04-24 17:34:56","caffe in grani",,B01N9WH808,"San Agustín algunos vicios son inconfesables",,3
+"2018-04-24 17:34:48","caffe in grani",,B00Q6FM6GY,"Vahdam Teas",,4
+"2018-04-24 17:34:56","caffe in grani",,B074159SYG,Torrisi,,5
+"2018-04-24 17:34:53","caffe vergnano",,,,,1
+"2018-04-24 17:34:56","caffe vergnano",,B073VM19T8,"POP CAFFE'",,2
+"2018-04-24 17:34:40","caffe vergnano",,B01D4L36NE,"Caffè Vergnano",,3
+"2018-04-24 17:34:48","caffe vergnano",,B00NHXH8D4,"NESCAFÉ Dolce Gusto",,4
+"2018-04-24 17:34:56","caffe vergnano",,B073V2833N,"POP CAFFE'",,5
+"2018-04-24 17:34:53","caffe borbone a modo mio","Scopri la novità Tiny, in sei varianti di colore",,Lavazza,,1
+"2018-04-24 17:34:26","caffe borbone a modo mio",,B01N98SFT6,"Caffè Carracci",,2
+"2018-04-24 17:34:56","caffe borbone a modo mio",,B07571TX7C,"Caffè Cremeo",,3
+"2018-04-24 17:34:56","caffe borbone a modo mio",,B073VM19T8,"POP CAFFE'",,4
+"2018-04-24 17:34:56","caffe borbone a modo mio",,B071HW8FJF,yespresso,,5
+"2018-04-24 17:34:40","caffe borbone a modo mio",,B01HF6YB56,yespresso,,6
+"2018-04-24 17:34:26","caffe borbone a modo mio",,B073Q1B4PS,"Il Caffè Italiano",,7
+"2018-04-24 17:34:56","caffe borbone a modo mio",,B075CRPRQX,Myristretto,,8
+"2018-04-24 17:34:22","caffe borbone a modo mio",,B077GZNWVG,"POP CAFFE'",,9
+"2018-04-24 17:34:58","caffe solubile",,,,,1
+"2018-04-24 17:34:56","caffe solubile",,B073VM19T8,"POP CAFFE'",,2
+"2018-04-24 17:35:05","caffe solubile",,B001SEQMCM,"NESCAFÉ Dolce Gusto",,3
+"2018-04-24 17:34:26","caffe solubile",,B071LDYG9R,"Il Caffè Italiano",,4
+"2018-04-24 17:35:05","caffe solubile",,B072N2WMXN,"Il Caffè Italiano",,5
+"2018-04-24 17:35:05","caffe solubile",,B079BRLPQL,Lovespresso,,6
+"2018-04-24 17:35:05","caffe solubile",,B01M14IDGS,Lovespresso,,7
+"2018-04-24 17:34:58","caffe lavazza","Scopri la novità Tiny, in sei varianti di colore",,Lavazza,,1
+"2018-04-24 17:34:48","caffe lavazza",,B01NAUUMR3,"DICOSOLACAFFE' S.G.L. VENDING SNC",,2
+"2018-04-24 17:34:52","caffe lavazza",,B0756ZDZB9,"Caffè Cremeo",,3
+"2018-04-24 17:34:15","caffe lavazza",,B00V87K450,Lavazza,,4
+"2018-04-24 17:34:44","caffe lavazza",,B01M7ZFZ8C,yespresso,,5
+"2018-04-24 17:34:58","caffe cialde","Capsule compatibili Nespresso®. Qualità italiana.",,"Caffè Carracci",,1
+"2018-04-24 17:34:44","caffe cialde",,B0792HPNPT,"Le cinèma cafè",,2
+"2018-04-24 17:35:05","caffe cialde",,B01NBVPCMB,yespresso,,3
+"2018-04-24 17:34:15","caffe cialde",,B00V87K450,Lavazza,,4
+"2018-04-24 17:34:48","caffe cialde",,B00Q6FM6GY,"Vahdam Teas",,5
+"2018-04-24 17:34:48","caffe cialde",,B01NAUUMR3,"DICOSOLACAFFE' S.G.L. VENDING SNC",,6
+"2018-04-24 17:34:58","caffe nespresso","Macchine Nespresso® - Per un caffè sempre perfetto",,Nespresso,,1
+"2018-04-24 17:35:05","caffe nespresso",,B00ST7MHFW,"La Compatibile.it",,2
+"2018-04-24 17:34:26","caffe nespresso",,B01N98SFT6,"Caffè Carracci",,3
+"2018-04-24 17:34:40","caffe nespresso",,B0719KDYXF,yespresso,,4
+"2018-04-24 17:35:05","caffe nespresso",,B00URY58A6,yespresso,,5
+"2018-04-24 17:34:15","caffe nespresso",,B01N97DB4W,HiveNets,,6
+"2018-04-24 17:35:00","caffe decaffeinato","Capsule compatibili Nespresso®. Qualità italiana.",,"Caffè Carracci",,1
+"2018-04-24 17:35:05","caffe decaffeinato",,B078THW9JQ,"Caffè Barbaro",,2
+"2018-04-24 17:35:05","caffe decaffeinato",,B075XTPP4F,"Zero Decaffeinato",,3
+"2018-04-24 17:35:05","caffe decaffeinato",,B01NBVPCMB,yespresso,,4
+"2018-04-24 17:34:26","caffe decaffeinato",,B01N98SFT6,"Caffè Carracci",,5
+"2018-04-24 17:35:06","caffe borbone nespresso","Macchine Nespresso® - Per un caffè sempre perfetto",,Nespresso,,1
+"2018-04-24 17:34:26","caffe borbone nespresso",,B079Z7LRTB,"Caffè Borbone",,2
+"2018-04-24 17:34:40","caffe borbone nespresso",,B01HF6YB56,yespresso,,3
+"2018-04-24 17:34:26","caffe borbone nespresso",,B01N98SFT6,"Caffè Carracci",,4
+"2018-04-24 17:35:09","caffe borbone nespresso",,B073V1YPQB,"POP CAFFE'",,5
+"2018-04-24 17:34:22","caffe borbone nespresso",,B077GZNWVG,"POP CAFFE'",,6
+"2018-04-24 17:35:09","caffe borbone nespresso",,B01N23DQMS,yespresso,,7
+"2018-04-24 17:34:48","caffe borbone nespresso",,B00NHXH8D4,"NESCAFÉ Dolce Gusto",,8
+"2018-04-24 17:35:09","caffe borbone nespresso",,B079K88CVG,Gocce,,9
+"2018-04-24 17:34:40","caffe borbone nespresso",,B075L8YLJ7,BATTISTINO,,10
+"2018-04-24 17:35:06","caffe espresso","Capsule compatibili Nespresso®. Qualità italiana.",,"Caffè Carracci",,1
+"2018-04-24 17:34:15","caffe espresso",,B00V87K450,Lavazza,,2
+"2018-04-24 17:34:40","caffe espresso",,B0719KDYXF,yespresso,,3
+"2018-04-24 17:34:26","caffe espresso",,B01N98SFT6,"Caffè Carracci",,4
+"2018-04-24 17:34:44","caffe espresso",,B01M7ZFZ8C,yespresso,,5
+"2018-04-24 17:35:06","caffe illy",,,,,1
+"2018-04-24 17:35:09","caffe illy",,B075GT2BLF,Myristretto,,2
+"2018-04-24 17:35:09","caffe illy",,B00TIKA2J2,"SELF CAP",,3
+"2018-04-24 17:35:09","caffe illy",,B077GXYTX9,"POP CAFFE'",,4
+"2018-04-24 17:35:09","caffe illy",,B0747Q2YK4,"POP CAFFE'",,5
+"2018-04-24 17:35:11","caffe borbone respresso","Prova le nostre capsule compatibili",,"POP CAFFE'",,1
+"2018-04-24 17:35:13","caffe borbone respresso",,B071K8W9DD,"Il Caffè Italiano",,2
+"2018-04-24 17:34:26","caffe borbone respresso",,B079Z7LRTB,"Caffè Borbone",,3
+"2018-04-24 17:34:08","caffe borbone respresso",,B01N98S9FS,"Caffè Carracci",,4
+"2018-04-24 17:34:40","caffe borbone respresso",,B01D4L36NE,"Caffè Vergnano",,5
+"2018-04-24 17:35:11","caffe italiano",,,,,1
+"2018-04-24 17:35:05","caffe italiano",,B00URY58A6,yespresso,,2
+"2018-04-24 17:35:13","caffe italiano",,B0798S6HJV,"Il Caffè Italiano",,3
+"2018-04-24 17:34:56","caffe italiano",,B073VM19T8,"POP CAFFE'",,4
+"2018-04-24 17:35:13","caffe italiano",,B01M1DB5LT,"Caffè Carracci",,5
+"2018-04-24 17:35:11","caffe in cialde","Colazione in Stile Retrò",,"Russell Hobbs",,1
+"2018-04-24 17:34:44","caffe in cialde",,B0792HPNPT,"Le cinèma cafè",,2
+"2018-04-24 17:34:44","caffe in cialde",,B074QKLJS8,"Caffè Cremeo",,3
+"2018-04-24 17:34:15","caffe in cialde",,B00V87K450,Lavazza,,4
+"2018-04-24 17:34:40","caffe in cialde",,B0719KDYXF,yespresso,,5
+"2018-04-24 17:35:11","caffe pellini",,,,,1
+"2018-04-24 17:35:13","caffe pellini",,B077X6YVJQ,"Caffè A. Nannini",,2
+"2018-04-24 17:35:13","caffe pellini",,B077X96KCM,"Caffè A. Nannini",,3
+"2018-04-24 17:35:13","caffe pellini",,B075QKHH7S,"Il Caffè Italiano",,4
+"2018-04-24 17:35:18","caffe pellini",,B01H8MYITQ,RECAPS,,5
+"2018-04-24 17:35:09","caffe pellini",,B00TIKA2J2,"SELF CAP",,6
+"2018-04-24 17:35:15","caffè borbone","Prova le nostre capsule compatibili",,"POP CAFFE'",,1
+"2018-04-24 17:35:18","caffè borbone",,B00C7N1QRO,"NESCAFÉ Dolce Gusto",,2
+"2018-04-24 17:35:18","caffè borbone",,B00C7N1TQW,"NESCAFÉ Dolce Gusto",,3
+"2018-04-24 17:34:22","caffè borbone",,B072XHM4FD,yespresso,,4
+"2018-04-24 17:34:26","caffè borbone",,B01N98SFT6,"Caffè Carracci",,5
+"2018-04-24 17:35:15","caffè borbone cialde","Prova le nostre capsule compatibili",,"POP CAFFE'",,1
+"2018-04-24 17:35:18","caffè borbone cialde",,B079TG4BWM,NEROORO,,2
+"2018-04-24 17:35:18","caffè borbone cialde",,B01MXXDHW3,"Caffè Carracci",,3
+"2018-04-24 17:34:22","caffè borbone cialde",,B072XHM4FD,yespresso,,4
+"2018-04-24 17:35:18","caffè borbone cialde",,B01HI24152,"Caffè Musetti",,5
+"2018-04-24 17:35:15",caffè,"Capsule compatibili Nespresso®. Qualità italiana.",,"Caffè Carracci",,1
+"2018-04-24 17:34:33",caffè,,B00TYF8BB2,"Philips Macchine da caffè Automatiche",,2
+"2018-04-24 17:35:18",caffè,,B00SGO5HL4,"Philips Macchine da caffè Automatiche",,3
+"2018-04-24 17:34:15",caffè,,B00V87K450,Lavazza,,4
+"2018-04-24 17:34:33",caffè,,B0772MJ2D6,"Philips Macchine da caffè Automatiche",,5
+"2018-04-24 17:34:33",caffè,,B079JZ9R6L,"Philips Macchine da caffè Automatiche",,6
+"2018-04-24 17:35:19","a modo mio macchina caffè","Scopri la novità Tiny, in sei varianti di colore",,Lavazza,,1
+"2018-04-24 17:35:19","caffè americano","Colazione in Stile Retrò",,"Russell Hobbs",,1
+"2018-04-24 17:34:15","caffè americano",,B00V87K450,Lavazza,,2
+"2018-04-24 17:35:32","caffè americano",,B01MRINR35,"Coffee Gator",,3
+"2018-04-24 17:34:40","caffè americano",,B0772SDBKX,Luxebell,,4
+"2018-04-24 17:35:32","caffè americano",,B06XFMJZL4,VeoHome,,5
+"2018-04-24 17:35:32","caffè americano",,B06XGT4SQR,"Caffe Italia",,6
+"2018-04-24 17:34:15","caffè americano",,B01CP3YXSE,Babavoom®,,7
+"2018-04-24 17:35:19","cialde caffè","Capsule compatibili Nespresso®. Qualità italiana.",,"Caffè Carracci",,1
+"2018-04-24 17:34:44","cialde caffè",,B0792HPNPT,"Le cinèma cafè",,2
+"2018-04-24 17:35:18","cialde caffè",,B01HI24152,"Caffè Musetti",,3
+"2018-04-24 17:34:15","cialde caffè",,B00V87K450,Lavazza,,4
+"2018-04-24 17:34:48","cialde caffè",,B00Q6FM6GY,"Vahdam Teas",,5
+"2018-04-24 17:35:19","caffè verde",,,,,1
+"2018-04-24 17:35:32","caffè verde",,B015OEQYGU,Formafit,,2
+"2018-04-24 17:35:32","caffè verde",,B00B4YM7WK,OMADA,,3
+"2018-04-24 17:35:32","caffè verde",,B01MT9RLQB,"Rush Pharma",,4
+"2018-04-24 17:35:32","caffè verde",,B00B4YMNO2,OMADA,,5
+"2018-04-24 17:35:32","caffè verde",,B078V365BY,PPD,,6
+"2018-04-24 17:35:32","caffè verde",,B0763P6F1S,V.I.P.,,7
+"2018-04-24 17:35:22","caffè in grani","Nannini Caffè e Pasticceria",,Nannini,,1
+"2018-04-24 17:35:32","caffè in grani",,B01NBZ7DPZ,"San Agustín algunos vicios son inconfesables",,2
+"2018-04-24 17:35:36","caffè in grani",,B079552YN3,CORCOVADO,,3
+"2018-04-24 17:34:48","caffè in grani",,B00Q6FM6GY,"Vahdam Teas",,4
+"2018-04-24 17:35:36","caffè in grani",,B079548Y53,CORCOVADO,,5
+"2018-04-24 17:35:34","caffè vergnano",,,,,1
+"2018-04-24 17:34:40","caffè vergnano",,B01D4L36NE,"Caffè Vergnano",,2
+"2018-04-24 17:34:48","caffè vergnano",,B00NHXH8D4,"NESCAFÉ Dolce Gusto",,3
+"2018-04-24 17:35:36","caffè vergnano",,B00GZU4H4Y,yespresso,,4
+"2018-04-24 17:35:36","caffè vergnano",,B00HR8PJW2,yespresso,,5
+"2018-04-24 17:35:34","caffè borbone a modo mio","Scopri la novità Tiny, in sei varianti di colore",,Lavazza,,1
+"2018-04-24 17:35:36","caffè borbone a modo mio",,B075NHMQJV,101CAFFE',,2
+"2018-04-24 17:34:44","caffè borbone a modo mio",,B079K6DJYJ,Gocce,,3
+"2018-04-24 17:34:56","caffè borbone a modo mio",,B073VM19T8,"POP CAFFE'",,4
+"2018-04-24 17:35:36","caffè borbone a modo mio",,B073S83Y7Z,"POP CAFFE'",,5
+"2018-04-24 17:35:34","caffè solubile",,,,,1
+"2018-04-24 17:35:05","caffè solubile",,B072N2WMXN,"Il Caffè Italiano",,2
+"2018-04-24 17:35:36","caffè solubile",,B078RS9F6G,Lovespresso,,3
+"2018-04-24 17:35:05","caffè solubile",,B001SEQMCM,"NESCAFÉ Dolce Gusto",,4
+"2018-04-24 17:35:49","caffè solubile",,B07BHLB5P4,"Gold Choice",,5
+"2018-04-24 17:35:49","caffè solubile",,B06WWBZVW4,Lovespresso,,6
+"2018-04-24 17:35:37","caffè lavazza","Scopri la novità Tiny, in sei varianti di colore",,Lavazza,,1
+"2018-04-24 17:35:37","caffè cialde","Capsule compatibili Nespresso®. Qualità italiana.",,"Caffè Carracci",,1
+"2018-04-24 17:35:18","caffè cialde",,B01HI24152,"Caffè Musetti",,2
+"2018-04-24 17:34:22","caffè cialde",,B072XHM4FD,yespresso,,3
+"2018-04-24 17:34:15","caffè cialde",,B00V87K450,Lavazza,,4
+"2018-04-24 17:34:40","caffè cialde",,B0719KDYXF,yespresso,,5
+"2018-04-24 17:35:37","caffè nespresso","Macchine Nespresso® - Per un caffè sempre perfetto",,Nespresso,,1
+"2018-04-24 17:35:49","caffè nespresso",,B0756F76D8,Myristretto,,2
+"2018-04-24 17:35:49","caffè nespresso",,B0748M7F11,Dallmayr,,3
+"2018-04-24 17:34:40","caffè nespresso",,B0719KDYXF,yespresso,,4
+"2018-04-24 17:35:05","caffè nespresso",,B00URY58A6,yespresso,,5
+"2018-04-24 17:34:15","caffè nespresso",,B01N97DB4W,HiveNets,,6
+"2018-04-24 17:35:49","caffè nespresso",,B075BLXGLQ,Dallmayr,,7
+"2018-04-24 17:35:37","caffè decaffèinato",,,,,1
+"2018-04-24 17:35:49","caffè decaffèinato",,B079Y7NDF6,"Caffè Cremeo",,2
+"2018-04-24 17:35:49","caffè decaffèinato",,B07BJ5YB4Z,"Café Royal",,3
+"2018-04-24 17:35:49","caffè decaffèinato",,B00V3SSUVE,"Brown Bear",,4
+"2018-04-24 17:34:26","caffè decaffèinato",,B01N98SFT6,"Caffè Carracci",,5
+"2018-04-24 17:35:49","caffè decaffèinato",,B07BJ5QS1Y,"Café Royal",,6
+"2018-04-24 17:35:40","caffè borbone nespresso","Macchine Nespresso® - Per un caffè sempre perfetto",,Nespresso,,1
+"2018-04-24 17:35:49","caffè borbone nespresso",,B00SMXJ5FS,"La Compatibile.it",,2
+"2018-04-24 17:35:53","caffè borbone nespresso",,B00SMXJ8T6,"La Compatibile.it",,3
+"2018-04-24 17:34:22","caffè borbone nespresso",,B072XHM4FD,yespresso,,4
+"2018-04-24 17:35:49","caffè borbone nespresso",,B0756F76D8,Myristretto,,5
+"2018-04-24 17:35:50","caffè espresso","Capsule compatibili Nespresso®. Qualità italiana.",,"Caffè Carracci",,1
+"2018-04-24 17:35:53","caffè espresso",,B0798RZR3D,O'ccaffe,,2
+"2018-04-24 17:35:53","caffè espresso",,B0748MM5T8,Dallmayr,,3
+"2018-04-24 17:34:15","caffè espresso",,B00V87K450,Lavazza,,4
+"2018-04-24 17:34:40","caffè espresso",,B0719KDYXF,yespresso,,5
+"2018-04-24 17:35:49","caffè espresso",,B0748M7F11,Dallmayr,,6
+"2018-04-24 17:35:53","caffè espresso",,B07C158HSN,Dallmayr,,7
+"2018-04-24 17:35:50","caffè illy",,,,,1
+"2018-04-24 17:35:09","caffè illy",,B00TIKA2J2,"SELF CAP",,2
+"2018-04-24 17:34:22","caffè illy",,B077GZNWVG,"POP CAFFE'",,3
+"2018-04-24 17:35:54","caffè illy",,B013BWL8F4,yespresso,,4
+"2018-04-24 17:35:36","caffè illy",,B00GZU4H4Y,yespresso,,5
+"2018-04-24 17:35:50","caffè borbone respresso",,,,,1
+"2018-04-24 17:34:26","caffè borbone respresso",,B01N98SFT6,"Caffè Carracci",,2
+"2018-04-24 17:34:22","caffè borbone respresso",,B077GZNWVG,"POP CAFFE'",,3
+"2018-04-24 17:35:13","caffè borbone respresso",,B077X6YVJQ,"Caffè A. Nannini",,4
+"2018-04-24 17:35:54","caffè borbone respresso",,B077XBQZTP,"Caffè A. Nannini",,5
+"2018-04-24 17:35:50","caffè italiano",,,,,1
+"2018-04-24 17:35:58","caffè italiano",,B0777N6J6W,"Il Caffè Italiano",,2
+"2018-04-24 17:35:58","caffè italiano",,B0777QNZWL,"Il Caffè Italiano",,3
+"2018-04-24 17:35:58","caffè italiano",,B07CLRLV2T,"Il Caffè Italiano",,4
+"2018-04-24 17:35:05","caffè italiano",,B00URY58A6,yespresso,,5
+"2018-04-24 17:35:56","caffè in cialde",,,,,1
+"2018-04-24 17:34:44","caffè in cialde",,B0792HPNPT,"Le cinèma cafè",,2
+"2018-04-24 17:35:18","caffè in cialde",,B01HI24152,"Caffè Musetti",,3
+"2018-04-24 17:34:15","caffè in cialde",,B00V87K450,Lavazza,,4
+"2018-04-24 17:34:48","caffè in cialde",,B00Q6FM6GY,"Vahdam Teas",,5
+"2018-04-24 17:35:58","caffè in cialde",,B075BJMPGX,Jacobs,,6
+"2018-04-24 17:35:58","caffè in cialde",,B0746HW5KM,Tassimo,,7
+"2018-04-24 17:35:56","caffè pellini",,,,,1
+"2018-04-24 17:35:13","caffè pellini",,B077X6YVJQ,"Caffè A. Nannini",,2
+"2018-04-24 17:35:13","caffè pellini",,B077X96KCM,"Caffè A. Nannini",,3
+"2018-04-24 17:35:13","caffè pellini",,B075QKHH7S,"Il Caffè Italiano",,4
+"2018-04-24 17:35:18","caffè pellini",,B01H8MYITQ,RECAPS,,5
+"2018-04-24 17:35:09","caffè pellini",,B00TIKA2J2,"SELF CAP",,6
+"2018-04-24 17:35:56",Keywords,,,,,1
+"2018-04-24 17:35:56","rasoio elettrico","Goditi una rasatura perfetta con i rasoi Philips",,Philips,,1
+"2018-04-24 17:35:58","rasoio elettrico",,B00T2XY1EC,Remington,,2
+"2018-04-24 17:36:03","rasoio elettrico",,B0757MQXRV,RIWA,,3
+"2018-04-24 17:36:03","rasoio elettrico",,B072L1YTRV,Runwe,,4
+"2018-04-24 17:36:03","rasoio elettrico",,B077T5V7PG,HATTEKER,,5
+"2018-04-24 17:36:03","rasoio elettrico",,B01H6YAJXA,SweetLF,,6
+"2018-04-24 17:36:03","rasoio elettrico",,B0130EOG0C,Remington,,7
+"2018-04-24 17:36:03","rasoio elettrico",,B079JHRXJN,Super-VIP,,8
+"2018-04-24 17:36:03","rasoio elettrico",,B07B66QWNC,Breett,,9
+"2018-04-24 17:36:00",rasoio,,,,,1
+"2018-04-24 17:36:03",rasoio,,B01B4POC3A,Gillette,,2
+"2018-04-24 17:36:03",rasoio,,B01B0OB6HK,Gillette,,3
+"2018-04-24 17:36:08",rasoio,,B01N7FK0NC,Gillette,,4
+"2018-04-24 17:36:08",rasoio,,B01KLXFRVW,Remington,,5
+"2018-04-24 17:36:08",rasoio,,B077V6SDYY,Sapiens,,6
+"2018-04-24 17:36:03",rasoio,,B0130EOG0C,Remington,,7
+"2018-04-24 17:35:58",rasoio,,B00T2XY1EC,Remington,,8
+"2018-04-24 17:36:08",rasoio,,B06XTJSH52,"The Goodfellas' smile",,9
+"2018-04-24 17:36:05","rasoio a mano libera","Scopri la miglior rasatura Gillette",,"Gillette (IT)",,1
+"2018-04-24 17:36:08","rasoio a mano libera",,B077V6SDYY,Sapiens,,2
+"2018-04-24 17:36:03","rasoio a mano libera",,B01B4POC3A,Gillette,,3
+"2018-04-24 17:36:08","rasoio a mano libera",,B01AXMKH2A,"Philips OneBlade",,4
+"2018-04-24 17:36:08","rasoio a mano libera",,B073WG4HXQ,"BARBER TOOLS",,5
+"2018-04-24 17:36:05","rasoio philips","Compra in offerta, noi doniamo a Save the Children",,"Braun (IT)",,1
+"2018-04-24 17:36:08","rasoio philips",,B00ZM66C1I,Braun,,2
+"2018-04-24 17:36:12","rasoio philips",,B01IN8LBS0,Braun,,3
+"2018-04-24 17:36:12","rasoio philips",,B071WVXLDZ,Braun,,4
+"2018-04-24 17:36:03","rasoio philips",,B01B4POC3A,Gillette,,5
+"2018-04-24 17:36:10","rasoio di sicurezza","Stanley Tsa - La sicurezza ovunque",,"Spectrum Brands Italia s.r.l",,1
+"2018-04-24 17:36:08","rasoio di sicurezza",,B01N7FK0NC,Gillette,,2
+"2018-04-24 17:36:12","rasoio di sicurezza",,B01MUWBVV9,Gillette,,3
+"2018-04-24 17:36:12","rasoio di sicurezza",,B075KKJBV5,,,4
+"2018-04-24 17:36:12","rasoio di sicurezza",,B06XT58FZY,"The Goodfellas' smile",,5
+"2018-04-24 17:36:12","rasoio di sicurezza",,B06XK32HSR,Sincewe,,6
+"2018-04-24 17:36:10",wilkinson,,,,,1
+"2018-04-24 17:36:12",wilkinson,,B008E0697Q,SHAVE-LAB,,2
+"2018-04-24 17:36:13",wilkinson,,B00ABHSMIO,SHAVE-LAB,,3
+"2018-04-24 17:36:22",wilkinson,,B01HQROAEQ,"Benny's of London",,4
+"2018-04-24 17:36:14","rasoio sicurezza","Benny's of London -  Governare di lusso Co.",,"Benny's of London",,1
+"2018-04-24 17:36:12","rasoio sicurezza",,B075KKJBV5,,,2
+"2018-04-24 17:36:22","rasoio sicurezza",,B06XPJ6M47,QSHAVE,,3
+"2018-04-24 17:36:08","rasoio sicurezza",,B01N7FK0NC,Gillette,,4
+"2018-04-24 17:36:12","rasoio sicurezza",,B01MUWBVV9,Gillette,,5
+"2018-04-24 17:36:12","rasoio sicurezza",,B06XK32HSR,Sincewe,,6
+"2018-04-24 17:36:14","rasoio di sicurezza gillette","Scopri la miglior rasatura Gillette",,"Gillette ",,1
+"2018-04-24 17:36:08","rasoio di sicurezza gillette",,B01N7FK0NC,Gillette,,2
+"2018-04-24 17:36:22","rasoio di sicurezza gillette",,B06XPJ6M47,QSHAVE,,3
+"2018-04-24 17:36:22","rasoio di sicurezza gillette",,B008BGLQG2,Gillette,,4
+"2018-04-24 17:36:03","rasoio di sicurezza gillette",,B01B4POC3A,Gillette,,5
+"2018-04-24 17:36:14","wilkinson classic",,,,,1
+"2018-04-24 17:36:22","wilkinson classic",,B06XGVRQKP,QSHAVE,,2
+"2018-04-24 17:36:22","wilkinson classic",,B01NBEJQAS,ONOGAL,,3
+"2018-04-24 17:36:22","wilkinson classic",,B01HQROAEQ,"Benny's of London",,4
+"2018-04-24 17:36:22","wilkinson classic",,B01N7P3UI0,KANZY,,5
+"2018-04-24 17:36:17","wilkinson sword",,,,,1
+"2018-04-24 17:36:22","wilkinson sword",,B000ORV4X6,"Wilkinson Sword",,2
+"2018-04-24 17:36:22","wilkinson sword",,B00N54IITS,WILKINSON,,3
+"2018-04-24 17:36:23","lame rasoio","Risparmia sulle lame con Gillette club",,"Gillette (IT)",,1
+"2018-04-24 17:36:26","lame rasoio",,B078122ZNH,Sapiens,,2
+"2018-04-24 17:36:26","lame rasoio",,B00RMJJ5A8,Gillette,,3
+"2018-04-24 17:36:26","lame rasoio",,B00RMIKFVW,Gillette,,4
+"2018-04-24 17:36:26","lame rasoio",,B00RMIKEW2,Gillette,,5
+"2018-04-24 17:36:23","rasoio di sicurezza regolabile","Benny's of London -  Governare di lusso Co.",,"Benny's of London",,1
+"2018-04-24 17:36:26","rasoio di sicurezza regolabile",,B078N658G7,GRUTTI,,2
+"2018-04-24 17:36:22","rasoio di sicurezza regolabile",,B06XPJ6M47,QSHAVE,,3
+"2018-04-24 17:36:08","rasoio di sicurezza regolabile",,B01N7FK0NC,Gillette,,4
+"2018-04-24 17:36:12","rasoio di sicurezza regolabile",,B01MUWBVV9,Gillette,,5
+"2018-04-24 17:36:12","rasoio di sicurezza regolabile",,B06XK32HSR,Sincewe,,6
+"2018-04-24 17:36:23","wilkinson intuition",,,,,1
+"2018-04-24 17:36:23","lame rasoio philips","Compra in offerta, noi doniamo a Save the Children",,"Braun (IT)",,1
+"2018-04-24 17:36:08","lame rasoio philips",,B00ZM66C1I,Braun,,2
+"2018-04-24 17:36:12","lame rasoio philips",,B01IN8LBS0,Braun,,3
+"2018-04-24 17:36:26","lame rasoio philips",,B078122ZNH,Sapiens,,4
+"2018-04-24 17:36:03","lame rasoio philips",,B01B4POC3A,Gillette,,5
+"2018-04-24 17:36:27","lamette rasoio sicurezza","Scopri tutti gli accessori OneBlade",,Philips,,1
+"2018-04-24 17:36:22","lamette rasoio sicurezza",,B06XGVRQKP,QSHAVE,,2
+"2018-04-24 17:36:08","lamette rasoio sicurezza",,B01AXMKH2A,"Philips OneBlade",,3
+"2018-04-24 17:36:29","lamette rasoio sicurezza",,B00RMIK9FO,Gillette,,4
+"2018-04-24 17:36:29","lamette rasoio sicurezza",,B076PQLT7X,Boldking,,5
+"2018-04-24 17:36:27",dentiera,,,,,1
+"2018-04-24 17:36:27",ortodontici,,,,,1
+"2018-04-24 17:36:30",ortodontici,,B01NCYKOKN,Proguard,,2
+"2018-04-24 17:36:30",ortodontici,,B01DJ137RE,Demiawaking,,3
+"2018-04-24 17:36:27",dentiere,"Tutto quello che ti può servire per la dentiera",,Nocavity,,1
+"2018-04-24 17:36:30",dentiere,,B01M5F5NBM,LifeBasis,,2
+"2018-04-24 17:36:30",dentiere,,B00U3B6BHC,Oral-B,,3
+"2018-04-24 17:36:34",dentiere,,B06XHY6QZ2,Cadrim,,4
+"2018-04-24 17:36:34",dentiere,,B075KLT6HZ,Philonext,,5
+"2018-04-24 17:36:31",protesi,,,,,1
+"2018-04-24 17:36:31",kukident,,,,,1
+"2018-04-24 17:36:31",cukident,,,,,1
+"2018-04-24 17:36:31",polident,,,,,1
+"2018-04-24 17:36:31","cemento dentale","I professionisti dello sbiancamento dentale",,Clinodent,,1
+"2018-04-24 17:36:34","cemento dentale",,B06ZXVRY4P,Pontefix,,2
+"2018-04-24 17:36:34","cemento dentale",,B00JAHJKMS,Protesan,,3
+"2018-04-24 17:36:34","cemento dentale",,B072L7FXJ4,,,4
+"2018-04-24 17:36:37","cemento dentale",,B00N3S8V2K,BeautyTrack,,5
+"2018-04-24 17:36:35",algasiv,,,,,1
+"2018-04-24 17:36:35","protesi dentale",,,,,1
+"2018-04-24 17:36:34","protesi dentale",,B06ZXVRY4P,Pontefix,,2
+"2018-04-24 17:36:37","protesi dentale",,B01LXR45ZD,CREADENT,,3
+"2018-04-24 17:36:34","protesi dentale",,B00JAHJKMS,Protesan,,4
+"2018-04-24 17:36:34","protesi dentale",,B072L7FXJ4,,,5
+"2018-04-24 17:36:35",protesan,,,,,1
+"2018-04-24 17:36:34",protesan,,B00JAHJKMS,Protesan,,2
+"2018-04-24 17:36:35","cuscinetti adesivi",,,,,1
+"2018-04-24 17:36:37","cuscinetti adesivi",,B079237LCW,Hestya,,2
+"2018-04-24 17:36:37","cuscinetti adesivi",,B078T9HQ1B,Hestya,,3
+"2018-04-24 17:36:37","cuscinetti adesivi",,B06X9HWF66,SOAIY,,4
+"2018-04-24 17:36:37","cuscinetti adesivi",,B078NWKD6B,Canwn,,5
+"2018-04-24 17:36:45","cuscinetti adesivi",,B078NLBRKB,Hettich,,6
+"2018-04-24 17:36:45","cuscinetti adesivi",,B06XCH81C5,Maveek,,7
+"2018-04-24 17:36:39","kit riparazione denti","Set di cacciaviti",,Deyard,,1
+"2018-04-24 17:36:45","kit riparazione denti",,B078DMZVB3,Lineawhite,,2
+"2018-04-24 17:36:45","kit riparazione denti",,B076JGX3LZ,IK,,3
+"2018-04-24 17:36:45","kit riparazione denti",,B071F8XW73,Nocavity,,4
+"2018-04-24 17:36:34","kit riparazione denti",,B00JAHJKMS,Protesan,,5
+"2018-04-24 17:36:39","spazzolini curaprox",,,,,1
+"2018-04-24 17:36:45","spazzolini curaprox",,B0012MCP5I,Curaprox,,2
+"2018-04-24 17:36:45","spazzolini curaprox",,B00SYI1M0W,Curaprox,,3
+"2018-04-24 17:36:45","spazzolini curaprox",,B0012MGL7G,Curaprox,,4
+"2018-04-24 17:36:45","spazzolini curaprox",,B06XHZ9WV9,Dentive,,5
+"2018-04-24 17:36:42",curaprox,,,,,1
+"2018-04-24 17:36:45",curaprox,,B00SYI1M0W,Curaprox,,2
+"2018-04-24 17:36:45",curaprox,,B0012MCP5I,Curaprox,,3
+"2018-04-24 17:36:45",curaprox,,B0012MGL7G,Curaprox,,4
+"2018-04-24 17:36:46","spazzolino morbido","È come lavarsi i denti per la prima volta",,Philips,,1
+"2018-04-24 17:36:49","spazzolino morbido",,B06VWD8NY3,Fairywill,,2
+"2018-04-24 17:36:49","spazzolino morbido",,B074TFS49P,HSYTEK,,3
+"2018-04-24 17:36:49","spazzolino morbido",,B073TRY2CL,Fairywill,,4
+"2018-04-24 17:36:49","spazzolino morbido",,B072JC3X5V,Fairywill,,5
+"2018-04-24 17:36:46","spazzolini morbidi",,,,,1
+"2018-04-24 17:36:49","spazzolini morbidi",,B06VWD8NY3,Fairywill,,2
+"2018-04-24 17:36:49","spazzolini morbidi",,B074TFS49P,HSYTEK,,3
+"2018-04-24 17:36:49","spazzolini morbidi",,B073TRY2CL,Fairywill,,4
+"2018-04-24 17:36:49","spazzolini morbidi",,B072JC3X5V,Fairywill,,5
+"2018-04-24 17:36:51","spazzolini setole morbide",,,,,1
+"2018-04-24 17:36:54","spazzolini setole morbide",,B076VQN73J,PRO-SYS,,2
+"2018-04-24 17:36:54","spazzolini setole morbide",,B076VK68YG,PRO-SYS,,3
+"2018-04-24 17:36:49","spazzolini setole morbide",,B074TFS49P,HSYTEK,,4
+"2018-04-24 17:36:49","spazzolini setole morbide",,B06VWD8NY3,Fairywill,,5
+"2018-04-24 17:36:51","spazzolino setole","È come lavarsi i denti per la prima volta",,Philips,,1
+"2018-04-24 17:36:54","spazzolino setole",,B0788WLFGC,"Oralteck US",,2
+"2018-04-24 17:36:54","spazzolino setole",,B073DFWJD6,"Mouth Watchers",,3
+"2018-04-24 17:36:49","spazzolino setole",,B06VWD8NY3,Fairywill,,4
+"2018-04-24 17:36:49","spazzolino setole",,B074TFS49P,HSYTEK,,5
+"2018-04-24 17:36:51","ultra soft",,,,,1
+"2018-04-24 17:36:54","ultra soft",,B01LZBIV42,iMucc,,2
+"2018-04-24 17:36:54","ultra soft",,B077QCN66W,SLEO,,3
+"2018-04-24 17:36:54","ultra soft",,B077RRHKD9,iVoler,,4
+"2018-04-24 17:36:59","ultra soft",,B00OK4YNI2,FINTIE,,5
+"2018-04-24 17:36:59","ultra soft",,B075J8X1HW,POOPHUNS,,6
+"2018-04-24 17:36:59","ultra soft",,B073ZDLKHQ,ESR,,7
+"2018-04-24 17:36:56","oral b proexpert",,,,,1
+"2018-04-24 17:36:59","oral b proexpert",,B018SPBRTG,Oral-B,,2
+"2018-04-24 17:36:59","oral b proexpert",,B0744G2F8H,LEBOTE,,3
+"2018-04-24 17:36:59","oral b proexpert",,B072FH8GMK,LEBOTE,,4
+"2018-04-24 17:36:59","oral b proexpert",,B013GEUPQA,"Philips Sonicare",,5
+"2018-04-24 17:36:56","curaprox soft",,,,,1
+"2018-04-24 17:36:59","curaprox soft",,B009LJIEXG,Curaprox,,2
+"2018-04-24 17:37:01","curaprox ultrasoft",,,,,1
+"2018-04-24 17:37:01","spazzolino manuale","È come lavarsi i denti per la prima volta",,Philips,,1
+"2018-04-24 17:37:03","spazzolino manuale",,B018YRAQV8,Swissdent,,2
+"2018-04-24 17:37:03","spazzolino manuale",,B00ZG6ISFW,Oral-B,,3
+"2018-04-24 17:36:49","spazzolino manuale",,B06VWD8NY3,Fairywill,,4
+"2018-04-24 17:37:03","spazzolino manuale",,B0744NM5K9,TePe,,5
+"2018-04-24 17:37:03","spazzolino manuale",,B073RD1FK1,Genkent,,6
+"2018-04-24 17:37:01","spazzolini sensodyne",,,,,1
+"2018-04-24 17:36:49","spazzolini sensodyne",,B06VWD8NY3,Fairywill,,2
+"2018-04-24 17:37:03","spazzolini sensodyne",,B01C1I8K1O,AOLEVA,,3

@@ -1,0 +1,31 @@
+time,keyword,message,asin,brand,title,position
+"2018-04-21 03:14:42",café,,,,,1
+"2018-04-21 03:14:42",café,,B00CN4TPMU,L'OR,,2
+"2018-04-21 03:14:42",café,,B00AFWXPZ0,Lavazza,,3
+"2018-04-21 03:14:42",café,,B0765M7F26,Azanaz,,4
+"2018-04-21 03:14:42",café,,B074KQB4B1,Philips,,5
+"2018-04-21 03:14:44",café,,B0765N6FPX,Azanaz,,6
+"2018-04-21 03:14:44",café,,B01LZ47GH1,Philips,,7
+"2018-04-21 03:14:44",lavazza,,,,,1
+"2018-04-21 03:14:42",lavazza,,B00AFWXPZ0,Lavazza,,2
+"2018-04-21 03:14:44",lavazza,,B01INFY2LG,Lavazza,,3
+"2018-04-21 03:14:44",lavazza,,B01LTI24YQ,Lavazza,,4
+"2018-04-21 03:14:46",lavazza,,B06VVNSPL8,AquaHouse,,5
+"2018-04-21 03:14:46",lavazza,,B00GUDJLY2,Lavazza,,6
+"2018-04-21 03:14:46",lavazza,,B009YPU0I4,Lavazza,,7
+"2018-04-21 03:14:46","lavazza café","Lavazza A Modo Mio café Lungo Dolce  x36 capsules",,Lavazza,,1
+"2018-04-21 03:14:46","lavazza café",,B0756KRXX5,"BaristaItaliano FR",,2
+"2018-04-21 03:14:48","lavazza café",,B01INFU832,Lavazza,,3
+"2018-04-21 03:14:48","lavazza café",,B00GM42SS0,"Gimoka Coffee",,4
+"2018-04-21 03:14:48","lavazza café",,B01LTIQ36Q,Tassimo,,5
+"2018-04-21 03:14:48","lavazza café",,B01LTIQHL2,Tassimo,,6
+"2018-04-21 03:14:48","lavazza café",,B003QNZ4YK,Lavazza,,7
+"2018-04-21 03:14:50",ariston,,,,,1
+"2018-04-21 03:14:50",ferrero,,,,,1
+"2018-04-21 03:14:50","capsules nespresso","Capsules Lungo Elegante - Compatibles Nespresso",,L'OR,,1
+"2018-04-21 03:14:50","capsules nespresso",,B0711Z2RKJ,HiveNets,,2
+"2018-04-21 03:14:50","capsules nespresso",,B01NAZEDLR,2xCAP,,3
+"2018-04-21 03:14:52","capsules nespresso",,B00RO7H546,Babavoom®,,4
+"2018-04-21 03:14:52","capsules nespresso",,B00XZVP7U4,"Cafe Royal",,5
+"2018-04-21 03:14:52","capsules nespresso",,B01N97DB4W,HiveNets,,6
+"2018-04-21 03:14:52","capsules nespresso",,B079MJH5F3,Aicok,,7

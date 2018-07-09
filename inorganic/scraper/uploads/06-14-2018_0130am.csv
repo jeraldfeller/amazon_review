@@ -1,0 +1,182 @@
+time,keyword,message,asin,brand,title,position
+"2018-06-14 01:10:20",nespresso,"Capsule compatibili Nespresso compostabili",,"Caffè Vergnano 1882",,1
+"2018-06-14 01:10:22",nespresso,,B01D4L36HA,"Caffe' Vergnano 1882",,2
+"2018-06-14 01:10:22",nespresso,,B01NAZEDLR,2xCAP,,3
+"2018-06-14 01:10:22",nespresso,,B00UFOXOQS,Lavazza,,4
+"2018-06-14 01:10:22",nespresso,,B01IBO1MBM,Lavazza,,5
+"2018-06-14 01:10:22",nespresso,,B076TZ45Q6,"Philips Macchine da caffè Automatiche",,6
+"2018-06-14 01:10:22",nespresso,,B00SGO5HL4,"Philips Macchine da caffè Automatiche",,7
+"2018-06-14 01:10:20","caffè borbone","Capsule compatibili Nespresso compostabili",,"Caffè Vergnano 1882",,1
+"2018-06-14 01:10:22","caffè borbone",,B072136RHZ,"Caffe' Borbone",,2
+"2018-06-14 01:10:22","caffè borbone",,B07DH4ZXQZ,"Caffè Borbone",,3
+"2018-06-14 01:10:26","caffè borbone",,B01D4L36RU,"Caffe' Vergnano 1882",,4
+"2018-06-14 01:10:26","caffè borbone",,B072J3JXPN,yespresso,,5
+"2018-06-14 01:10:26","caffè borbone",,B07BHM6P96,"Dolci Aveja",,6
+"2018-06-14 01:10:24",lavazza,"Scopri la novità Tiny, in sei varianti di colore",,Lavazza,,1
+"2018-06-14 01:10:22",lavazza,,B00UFOXOQS,Lavazza,,2
+"2018-06-14 01:10:22",lavazza,,B01IBO1MBM,Lavazza,,3
+"2018-06-14 01:10:26",lavazza,,B071LNGV75,Lavazza,,4
+"2018-06-14 01:10:26",lavazza,,B00SJN3FGQ,"SELF CAP",,5
+"2018-06-14 01:10:26",lavazza,,B01IBNEANA,Lavazza,,6
+"2018-06-14 01:10:26",lavazza,,B071FGZMGN,Lavazza,,7
+"2018-06-14 01:10:24","lavazza a modo mio","Scopri la novità Tiny, in sei varianti di colore",,Lavazza,,1
+"2018-06-14 01:10:22","lavazza a modo mio",,B00UFOXOQS,Lavazza,,2
+"2018-06-14 01:10:22","lavazza a modo mio",,B01IBO1MBM,Lavazza,,3
+"2018-06-14 01:10:26","lavazza a modo mio",,B071LNGV75,Lavazza,,4
+"2018-06-14 01:10:30","lavazza a modo mio",,B01D4L36NE,"Caffè Vergnano",,5
+"2018-06-14 01:10:26","lavazza a modo mio",,B01IBNEANA,Lavazza,,6
+"2018-06-14 01:10:26","lavazza a modo mio",,B071FGZMGN,Lavazza,,7
+"2018-06-14 01:10:28","a modo mio","Scopri la novità Tiny, in sei varianti di colore",,Lavazza,,1
+"2018-06-14 01:10:22","a modo mio",,B00UFOXOQS,Lavazza,,2
+"2018-06-14 01:10:30","a modo mio",,B07DH67D6T,"Caffè Borbone",,3
+"2018-06-14 01:10:22","a modo mio",,B01IBO1MBM,Lavazza,,4
+"2018-06-14 01:10:26","a modo mio",,B071LNGV75,Lavazza,,5
+"2018-06-14 01:10:26","a modo mio",,B01IBNEANA,Lavazza,,6
+"2018-06-14 01:10:26","a modo mio",,B071FGZMGN,Lavazza,,7
+"2018-06-14 01:10:28",caffè,"Scopri la Promo Speciale Macchine Dolce Gusto®",,"Nescafé Dolce Gusto",,1
+"2018-06-14 01:10:30",caffè,,B0075O4WKS,"Weasel Premium Vietnamese Coffees",,2
+"2018-06-14 01:10:30",caffè,,B06XRRPC45,"Faber Italia",,3
+"2018-06-14 01:10:30",caffè,,B07C8L7D66,Sundried,,4
+"2018-06-14 01:10:30",caffè,,B076CPSYGG,"Il Caffè Italiano",,5
+"2018-06-14 01:10:22",caffè,,B076TZ45Q6,"Philips Macchine da caffè Automatiche",,6
+"2018-06-14 01:10:30",caffè,,B079JZ9R6L,"Philips Macchine da caffè Automatiche",,7
+"2018-06-14 01:10:28",espresso,,,,,1
+"2018-06-14 01:10:22",espresso,,B00UFOXOQS,Lavazza,,2
+"2018-06-14 01:10:22",espresso,,B01IBO1MBM,Lavazza,,3
+"2018-06-14 01:10:34",espresso,,B01MRM9W9K,ZNYSTAR,,4
+"2018-06-14 01:10:26",espresso,,B071LNGV75,Lavazza,,5
+"2018-06-14 01:10:26",espresso,,B01IBNEANA,Lavazza,,6
+"2018-06-14 01:10:26",espresso,,B071FGZMGN,Lavazza,,7
+"2018-06-14 01:10:32","caffè in grani","L'Espresso perfetto",,"Viaggio Espresso",,1
+"2018-06-14 01:10:34","caffè in grani",,B0742J5VTK,"Il Caffè Italiano",,2
+"2018-06-14 01:10:34","caffè in grani",,B07955CDYJ,CORCOVADO,,3
+"2018-06-14 01:10:34","caffè in grani",,B0798RZR3D,O'ccaffe,,4
+"2018-06-14 01:10:34","caffè in grani",,B079548Y53,CORCOVADO,,5
+"2018-06-14 01:10:32","caffè lavazza","Espresso perfetto grazie alle macine in ceramica",,Philips,,1
+"2018-06-14 01:10:34","caffè lavazza",,B077T6WCDG,"Espresso Experience",,2
+"2018-06-14 01:10:34","caffè lavazza",,B00XJK9WYI,"La Compatibile.it",,3
+"2018-06-14 01:10:34","caffè lavazza",,B0723515JM,yespresso,,4
+"2018-06-14 01:10:38","caffè lavazza",,B0723517Q3,yespresso,,5
+"2018-06-14 01:10:38","caffè lavazza",,B07B11KL5G,"Lavazza A Modo Mio",,6
+"2018-06-14 01:10:36","caffè macinato","Espresso perfetto grazie alle macine in ceramica",,Philips,,1
+"2018-06-14 01:10:38","caffè macinato",,B0120S5RZC,,,2
+"2018-06-14 01:10:38","caffè macinato",,B00J41BQG8,,,3
+"2018-06-14 01:10:38","caffè macinato",,B06XQ5DCYJ,NaturaleBio,,4
+"2018-06-14 01:10:38","caffè macinato",,B01M4NJ3BS,"Caffè Barbera 1870",,5
+"2018-06-14 01:10:36","caffè espresso","L'Espresso perfetto",,"Viaggio Espresso",,1
+"2018-06-14 01:10:38","caffè espresso",,B07BJ656T5,"Café Royal",,2
+"2018-06-14 01:10:38","caffè espresso",,B07BJ65QPG,"Café Royal",,3
+"2018-06-14 01:10:42","caffè espresso",,B079V12TGG,"NERO ESPRESSO",,4
+"2018-06-14 01:10:42","caffè espresso",,B0798XP1QT,Rösttrommel,,5
+"2018-06-14 01:10:40","capsule espresso","Capsule compatibili Nespresso compostabili",,"Caffè Vergnano 1882",,1
+"2018-06-14 01:10:42","capsule espresso",,B07B19HJCT,"Caffè Cremeo",,2
+"2018-06-14 01:10:42","capsule espresso",,B075DC52K2,"Caffè Cremeo",,3
+"2018-06-14 01:10:26","capsule espresso",,B01D4L36RU,"Caffe' Vergnano 1882",,4
+"2018-06-14 01:10:42","capsule espresso",,B01LBLFNX0,BeShiny,,5
+"2018-06-14 01:10:40","cialde caffè","Capsule compatibili Nespresso compostabili",,"Caffè Vergnano 1882",,1
+"2018-06-14 01:10:42","cialde caffè",,B07CTRGPLS,Torrisi,,2
+"2018-06-14 01:10:34","cialde caffè",,B077T6WCDG,"Espresso Experience",,3
+"2018-06-14 01:10:26","cialde caffè",,B01D4L36RU,"Caffe' Vergnano 1882",,4
+"2018-06-14 01:10:42","cialde caffè",,B0719KDYXF,yespresso,,5
+"2018-06-14 01:10:40","capsule lavazza a modo mio","Capsule compatibili Nespresso compostabili",,"Caffè Vergnano 1882",,1
+"2018-06-14 01:10:38","capsule lavazza a modo mio",,B07B11KL5G,"Lavazza A Modo Mio",,2
+"2018-06-14 01:10:46","capsule lavazza a modo mio",,B0756G89HP,Myristretto,,3
+"2018-06-14 01:10:26","capsule lavazza a modo mio",,B01D4L36RU,"Caffe' Vergnano 1882",,4
+"2018-06-14 01:10:34","capsule lavazza a modo mio",,B0723515JM,yespresso,,5
+"2018-06-14 01:10:46","capsule lavazza a modo mio",,B07B7XGTTF,"Lavazza A Modo Mio",,6
+"2018-06-14 01:10:44",cialde,"Scegli la qualità dei nostri caffè espressi",,"Nescafé Dolce Gusto",,1
+"2018-06-14 01:10:46",cialde,,B01N2ZHKOO,"Caffè Borbone",,2
+"2018-06-14 01:10:46",cialde,,B01MU682VN,"Caffè Borbone",,3
+"2018-06-14 01:10:46",cialde,,B00QIUFPII,borbone,,4
+"2018-06-14 01:10:22",cialde,,B072136RHZ,"Caffe' Borbone",,5
+"2018-06-14 01:10:44","cialde borbone",,,,,1
+"2018-06-14 01:10:46","cialde borbone",,B07C65G8JP,"Caffe' Borbone",,2
+"2018-06-14 01:10:46","cialde borbone",,B01NBPMGBJ,"Caffè Borbone",,3
+"2018-06-14 01:10:46","cialde borbone",,B06XBNH5QH,"Caffè Borbone",,4
+"2018-06-14 01:10:50","cialde borbone",,B07D1ZN4FF,"Caffè Borbone",,5
+"2018-06-14 01:10:26","cialde borbone",,B01D4L36RU,"Caffe' Vergnano 1882",,6
+"2018-06-14 01:10:26","cialde borbone",,B072J3JXPN,yespresso,,7
+"2018-06-14 01:10:34","cialde borbone",,B077T6WCDG,"Espresso Experience",,8
+"2018-06-14 01:10:50","cialde borbone",,B075D9BW52,"Caffè Cremeo",,9
+"2018-06-14 01:10:48","cialde lavazza a modo mio","Scopri la novità Tiny, in sei varianti di colore",,Lavazza,,1
+"2018-06-14 01:10:50","cialde lavazza a modo mio",,B014LFQHZ6,"Lavazza A Modo Mio",,2
+"2018-06-14 01:10:50","cialde lavazza a modo mio",,B014LFQJD6,"Lavazza A Modo Mio",,3
+"2018-06-14 01:10:26","cialde lavazza a modo mio",,B01D4L36RU,"Caffe' Vergnano 1882",,4
+"2018-06-14 01:10:26","cialde lavazza a modo mio",,B072J3JXPN,yespresso,,5
+"2018-06-14 01:10:48","cialde lavazza","Scopri la novità Tiny, in sei varianti di colore",,Lavazza,,1
+"2018-06-14 01:10:34","cialde lavazza",,B077T6WCDG,"Espresso Experience",,2
+"2018-06-14 01:10:50","cialde lavazza",,B01F5480E8,Macché,,3
+"2018-06-14 01:10:26","cialde lavazza",,B01D4L36RU,"Caffe' Vergnano 1882",,4
+"2018-06-14 01:10:34","cialde lavazza",,B0723515JM,yespresso,,5
+"2018-06-14 01:10:48","capsule caffè","Capsule compatibili Nespresso compostabili",,"Caffè Vergnano 1882",,1
+"2018-06-14 01:10:50","capsule caffè",,B07DFN4F2K,"Il Caffè Italiano",,2
+"2018-06-14 01:10:50","capsule caffè",,B07DFKCKGJ,"Il Caffè Italiano",,3
+"2018-06-14 01:10:54","capsule caffè",,B015OEQYGU,Formafit,,4
+"2018-06-14 01:10:54","capsule caffè",,B07CG84FBM,"Il Caffè Italiano",,5
+"2018-06-14 01:10:52","capsule compatibili lavazza a modo mio","Capsule compatibili Nespresso compostabili",,"Caffè Vergnano 1882",,1
+"2018-06-14 01:10:54","capsule compatibili lavazza a modo mio",,B072331QB3,"Il Caffè Italiano",,2
+"2018-06-14 01:10:46","capsule compatibili lavazza a modo mio",,B0756G89HP,Myristretto,,3
+"2018-06-14 01:10:54","capsule compatibili lavazza a modo mio",,B071K8W9DD,"Il Caffè Italiano",,4
+"2018-06-14 01:10:54","capsule compatibili lavazza a modo mio",,B00VTQVI5K,"La Compatibile.it",,5
+"2018-06-14 01:10:54","capsule compatibili lavazza a modo mio",,B01CWAX5LG,"Caffè H24",,6
+"2018-06-14 01:10:54","capsule compatibili lavazza a modo mio",,B01EX39GMM,"Caffè H24",,7
+"2018-06-14 01:10:54","capsule compatibili lavazza a modo mio",,B073VN649N,"POP CAFFE'",,8
+"2018-06-14 01:10:54","capsule compatibili lavazza a modo mio",,B07BTJQRMC,"Caffè Carracci",,9
+"2018-06-14 01:10:56","cialde caffè borbone","Capsule compatibili Nespresso compostabili",,"Caffè Vergnano 1882",,1
+"2018-06-14 01:10:46","cialde caffè borbone",,B07C65G8JP,"Caffe' Borbone",,2
+"2018-06-14 01:10:22","cialde caffè borbone",,B072136RHZ,"Caffe' Borbone",,3
+"2018-06-14 01:10:26","cialde caffè borbone",,B01D4L36RU,"Caffe' Vergnano 1882",,4
+"2018-06-14 01:10:26","cialde caffè borbone",,B072J3JXPN,yespresso,,5
+"2018-06-14 01:10:56","capsule a modo mio","Capsule compatibili Nespresso compostabili",,"Caffè Vergnano 1882",,1
+"2018-06-14 01:10:46","capsule a modo mio",,B0756G89HP,Myristretto,,2
+"2018-06-14 01:10:54","capsule a modo mio",,B072331QB3,"Il Caffè Italiano",,3
+"2018-06-14 01:10:26","capsule a modo mio",,B01D4L36RU,"Caffe' Vergnano 1882",,4
+"2018-06-14 01:10:34","capsule a modo mio",,B0723515JM,yespresso,,5
+"2018-06-14 01:10:56","caffè cialde","Capsule compatibili Nespresso compostabili",,"Caffè Vergnano 1882",,1
+"2018-06-14 01:10:58","caffè cialde",,B01N9W59EP,"Caffè Barbera 1870",,2
+"2018-06-14 01:10:42","caffè cialde",,B07CTRGPLS,Torrisi,,3
+"2018-06-14 01:10:26","caffè cialde",,B01D4L36RU,"Caffe' Vergnano 1882",,4
+"2018-06-14 01:10:42","caffè cialde",,B0719KDYXF,yespresso,,5
+"2018-06-14 01:10:56","capsule caffè italy","Capsule compatibili Nespresso compostabili",,"Caffè Vergnano 1882",,1
+"2018-06-14 01:10:26","capsule caffè italy",,B01D4L36RU,"Caffe' Vergnano 1882",,2
+"2018-06-14 01:10:54","capsule caffè italy",,B07CG84FBM,"Il Caffè Italiano",,3
+"2018-06-14 01:10:58","capsule caffè italy",,B075GSJXWP,"Il Caffè Italiano",,4
+"2018-06-14 01:10:58","capsule caffè italy",,B01LB2EZCY,"Cute Nutrition",,5
+"2018-06-14 01:10:56","capsule caffè borbone",,,,,1
+"2018-06-14 01:10:26","capsule caffè borbone",,B01D4L36RU,"Caffe' Vergnano 1882",,2
+"2018-06-14 01:10:42","capsule caffè borbone",,B01LBLFNX0,BeShiny,,3
+"2018-06-14 01:10:58","capsule caffè borbone",,B0777LWSTN,"Il Caffè Italiano",,4
+"2018-06-14 01:10:54","capsule caffè borbone",,B072331QB3,"Il Caffè Italiano",,5
+"2018-06-14 01:10:56","capsule compatibili nespresso","Capsule compatibili Nespresso compostabili",,"Caffè Vergnano 1882",,1
+"2018-06-14 01:10:26","capsule compatibili nespresso",,B01D4L36RU,"Caffe' Vergnano 1882",,2
+"2018-06-14 01:10:42","capsule compatibili nespresso",,B0719KDYXF,yespresso,,3
+"2018-06-14 01:11:02","capsule compatibili nespresso",,B077B5CZVK,MasterChef,,4
+"2018-06-14 01:11:02","capsule compatibili nespresso",,B00SMXJCSS,"La Compatibile.it",,5
+"2018-06-14 01:11:02","capsule compatibili nespresso",,B00SMXJ0GC,"La Compatibile.it",,6
+"2018-06-14 01:11:02","capsule compatibili nespresso",,B0756F76D8,Myristretto,,7
+"2018-06-14 01:11:02","capsule compatibili nespresso",,B07DJFCDVC,Capsulissima,,8
+"2018-06-14 01:11:02","capsule compatibili nespresso",,B07DJB7M7Y,Capsulissima,,9
+"2018-06-14 01:11:00","cialde nespresso","Capsule compatibili Nespresso compostabili",,"Caffè Vergnano 1882",,1
+"2018-06-14 01:10:22","cialde nespresso",,B01NAZEDLR,2xCAP,,2
+"2018-06-14 01:10:22","cialde nespresso",,B01D4L36HA,"Caffe' Vergnano 1882",,3
+"2018-06-14 01:10:22","cialde nespresso",,B00UFOXOQS,Lavazza,,4
+"2018-06-14 01:10:22","cialde nespresso",,B01IBO1MBM,Lavazza,,5
+"2018-06-14 01:10:26","cialde nespresso",,B01IBNEANA,Lavazza,,6
+"2018-06-14 01:11:02","cialde nespresso",,B003XN432C,"NESCAFÉ Dolce Gusto",,7
+"2018-06-14 01:11:00","nespresso capsule","Capsule compatibili Nespresso compostabili",,"Caffè Vergnano 1882",,1
+"2018-06-14 01:10:22","nespresso capsule",,B01D4L36HA,"Caffe' Vergnano 1882",,2
+"2018-06-14 01:10:22","nespresso capsule",,B01NAZEDLR,2xCAP,,3
+"2018-06-14 01:11:02","nespresso capsule",,B01DWHEJ90,"THE SUB",,4
+"2018-06-14 01:10:22","nespresso capsule",,B00UFOXOQS,Lavazza,,5
+"2018-06-14 01:10:22","nespresso capsule",,B01IBO1MBM,Lavazza,,6
+"2018-06-14 01:11:02","nespresso capsule",,B003XN432C,"NESCAFÉ Dolce Gusto",,7
+"2018-06-14 01:11:04","cialde compatibili nespresso","Capsule compatibili Nespresso compostabili",,"Caffè Vergnano 1882",,1
+"2018-06-14 01:11:05","cialde compatibili nespresso",,B07BH57Z6F,Italcaffè,,2
+"2018-06-14 01:10:30","cialde compatibili nespresso",,B01D4L36NE,"Caffè Vergnano",,3
+"2018-06-14 01:10:42","cialde compatibili nespresso",,B0719KDYXF,yespresso,,4
+"2018-06-14 01:11:02","cialde compatibili nespresso",,B077B5CZVK,MasterChef,,5
+"2018-06-14 01:11:04","caffè nespresso","Capsule compatibili Nespresso compostabili",,"Caffè Vergnano 1882",,1
+"2018-06-14 01:10:26","caffè nespresso",,B01D4L36RU,"Caffe' Vergnano 1882",,2
+"2018-06-14 01:10:42","caffè nespresso",,B0719KDYXF,yespresso,,3
+"2018-06-14 01:11:02","caffè nespresso",,B077B5CZVK,MasterChef,,4
+"2018-06-14 01:11:05","caffè nespresso",,B0791JPZYT,"Caffè Roko",,5

@@ -1,0 +1,240 @@
+time,keyword,message,asin,brand,title,position
+"2018-06-01 17:10:50",nespresso,"Remise Immédiate sur Nespresso Vertuo Plus",,Nespresso,,1
+"2018-06-01 17:10:51",nespresso,,B01N8T9I8E,Kimbo,,2
+"2018-06-01 17:10:51",nespresso,,B01N7IKJ6L,"Krups Nespresso",,3
+"2018-06-01 17:10:51",nespresso,,B01H8MYITQ,RECAPS,,4
+"2018-06-01 17:10:51",nespresso,,B00ZRW09H0,"Viaggio Espresso",,5
+"2018-06-01 17:10:56",nespresso,,B0711Z2RKJ,HiveNets,,6
+"2018-06-01 17:10:55",senseo,,,,,1
+"2018-06-01 17:10:56",senseo,,B074KQJ8C2,Philips,,2
+"2018-06-01 17:10:56",senseo,,B074KQZV97,Philips,,3
+"2018-06-01 17:10:56",senseo,,B01LZ47GH1,Philips,,4
+"2018-06-01 17:11:01",senseo,,B005XYIW1M,Philips,,5
+"2018-06-01 17:11:00",cafetiere,"Remise Immédiate sur Nespresso Vertuo Plus",,Nespresso,,1
+"2018-06-01 17:11:01",cafetiere,,B06XQ1B88X,Luxebell,,2
+"2018-06-01 17:11:01",cafetiere,,B01N52S30K,Aicok,,3
+"2018-06-01 17:11:01",cafetiere,,B001EOMZ5E,DeLonghi,,4
+"2018-06-01 17:10:51",cafetiere,,B01N7IKJ6L,"Krups Nespresso",,5
+"2018-06-01 17:11:05","dolce gusto","Capsule dolce gusto rechargeable",,RECAPS,,1
+"2018-06-01 17:11:06","dolce gusto",,B01M0QZ0JE,YESPRESSO,,2
+"2018-06-01 17:11:06","dolce gusto",,B00RMWTHC6,Babavoom®,,3
+"2018-06-01 17:11:06","dolce gusto",,B01N02TG8E,WoldoClean,,4
+"2018-06-01 17:11:06","dolce gusto",,B077JMVYRK,SAVORI,,5
+"2018-06-01 17:10:51","dolce gusto",,B01H8MYITQ,RECAPS,,6
+"2018-06-01 17:11:10","dolce gusto",,B0719LCSDR,Cunea,,7
+"2018-06-01 17:11:09",tassimo,"Découvrez la gamme de dosettes cafés Espresso",,Tassimo,,1
+"2018-06-01 17:11:10",tassimo,,B073PWBMWK,HiveNets,,2
+"2018-06-01 17:11:10",tassimo,,B00N6QC6PC,Kaffeereiniger24,,3
+"2018-06-01 17:11:10",tassimo,,B00L42Z1BG,Babavoom®,,4
+"2018-06-01 17:11:14","machine à café","Remise Immédiate sur Nespresso Vertuo Plus",,Nespresso,,1
+"2018-06-01 17:11:15","machine à café",,B074KQB4B1,Philips,,2
+"2018-06-01 17:10:56","machine à café",,B074KQZV97,Philips,,3
+"2018-06-01 17:11:15","machine à café",,B07BXTL2XB,"TC Collection",,4
+"2018-06-01 17:10:56","machine à café",,B01LZ47GH1,Philips,,5
+"2018-06-01 17:11:15","machine à café",,B074KN3GDT,Philips,,6
+"2018-06-01 17:11:15","machine à café",,B01J5FH8L4,Philips,,7
+"2018-06-01 17:11:19","cafetiere expresso","Découvrez la gamme de machines à expresso Saeco",,SAECO,,1
+"2018-06-01 17:11:20","cafetiere expresso",,B00SGO5HL4,Philips,,2
+"2018-06-01 17:11:20","cafetiere expresso",,B074M8KBF7,Philips,,3
+"2018-06-01 17:11:20","cafetiere expresso",,B000OC4EBK,DeLonghi,,4
+"2018-06-01 17:11:20","cafetiere expresso",,B0125ZTZ8K,Philips,,5
+"2018-06-01 17:11:24","cafetiere expresso",,B074M95W3M,Philips,,6
+"2018-06-01 17:11:01","cafetiere expresso",,B01N52S30K,Aicok,,7
+"2018-06-01 17:11:23",expresso,,,,,1
+"2018-06-01 17:11:24",expresso,,B00E9CX1NI,Kamira,,2
+"2018-06-01 17:11:10",expresso,,B00N6QC6PC,Kaffeereiniger24,,3
+"2018-06-01 17:11:01",expresso,,B001EOMZ5E,DeLonghi,,4
+"2018-06-01 17:11:23","machine expresso","Découvrez la gamme de machines à expresso Saeco",,SAECO,,1
+"2018-06-01 17:11:24","machine expresso",,B01CP5GOHA,Philips,,2
+"2018-06-01 17:11:28","machine expresso",,B078Y7L86S,Aicook,,3
+"2018-06-01 17:11:20","machine expresso",,B00SGO5HL4,Philips,,4
+"2018-06-01 17:11:28","machine expresso",,B00XZVP7U4,"Cafe Royal",,5
+"2018-06-01 17:11:28","machine expresso",,B01MUUKO2U,Philips,,6
+"2018-06-01 17:11:20","machine expresso",,B074M8KBF7,Philips,,7
+"2018-06-01 17:11:27",lavazza,"Lavazza A Modo Mio café Lungo Dolce  x36 capsules",,Lavazza,,1
+"2018-06-01 17:11:28",lavazza,,B01LTI24YQ,Lavazza,,2
+"2018-06-01 17:11:32",lavazza,,B01INFY2LG,Lavazza,,3
+"2018-06-01 17:11:32",lavazza,,B004DVOLE8,Lavazza,,4
+"2018-06-01 17:11:32",lavazza,,B06X3VZ5HH,AquaHouse,,5
+"2018-06-01 17:11:32",lavazza,,B00U3V5ETS,Lavazza,,6
+"2018-06-01 17:11:32",lavazza,,B009YPU0I4,Lavazza,,7
+"2018-06-01 17:11:35","expresso machine","Découvrez la gamme de machines à expresso Saeco",,SAECO,,1
+"2018-06-01 17:11:24","expresso machine",,B01CP5GOHA,Philips,,2
+"2018-06-01 17:11:28","expresso machine",,B078Y7L86S,Aicook,,3
+"2018-06-01 17:11:36","expresso machine",,B07255JYBQ,Aicok,,4
+"2018-06-01 17:11:20","expresso machine",,B00SGO5HL4,Philips,,5
+"2018-06-01 17:11:36","expresso machine",,B01MUGL47A,Philips,,6
+"2018-06-01 17:11:20","expresso machine",,B074M8KBF7,Philips,,7
+"2018-06-01 17:11:35","machine à café expresso","Remise Immédiate sur Nespresso Vertuo Plus",,Nespresso,,1
+"2018-06-01 17:11:20","machine à café expresso",,B00SGO5HL4,Philips,,2
+"2018-06-01 17:11:24","machine à café expresso",,B01CP5GOHA,Philips,,3
+"2018-06-01 17:11:28","machine à café expresso",,B00XZVP7U4,"Cafe Royal",,4
+"2018-06-01 17:11:20","machine à café expresso",,B074M8KBF7,Philips,,5
+"2018-06-01 17:11:36","machine à café expresso",,B01MUGL47A,Philips,,6
+"2018-06-01 17:11:20","machine à café expresso",,B0125ZTZ8K,Philips,,7
+"2018-06-01 17:11:40","lavazza a modo mio",,,,,1
+"2018-06-01 17:11:40","lavazza a modo mio",,B00HRA1JD8,,,2
+"2018-06-01 17:11:40","lavazza a modo mio",,B071K8W9DD,"Il Caffè italiano",,3
+"2018-06-01 17:11:40","lavazza a modo mio",,B071K8XB7G,"Il Caffè italiano",,4
+"2018-06-01 17:11:40","lavazza a modo mio",,B00HR8WIRQ,,,5
+"2018-06-01 17:11:44","lavazza a modo mio",,B07232KQL3,"Il Caffè italiano",,6
+"2018-06-01 17:11:44","lavazza a modo mio",,B007Z9P1JY,"Lavazza A Modo Mio",,7
+"2018-06-01 17:11:43","mousseur à lait",,,,,1
+"2018-06-01 17:11:44","mousseur à lait",,B01LYK30JK,KLAGENA,,2
+"2018-06-01 17:11:44","mousseur à lait",,B00IQCWLT2,Kaffeereiniger24,,3
+"2018-06-01 17:11:48","mousseur à lait",,B074SHWL15,Sedhoom,,4
+"2018-06-01 17:11:48","mousseur à lait",,B07BNJYR6K,VABNEER,,5
+"2018-06-01 17:11:48","mousseur à lait",,B074Z67WJ2,Aicok,,6
+"2018-06-01 17:11:49","mousseur à lait",,B073CN8X69,VAVA,,7
+"2018-06-01 17:11:48","machine à café lavazza",,,,,1
+"2018-06-01 17:11:15","machine à café lavazza",,B074KQB4B1,Philips,,2
+"2018-06-01 17:10:56","machine à café lavazza",,B074KQZV97,Philips,,3
+"2018-06-01 17:11:54","machine à café lavazza",,B079NJ4CGS,"Alfa wise",,4
+"2018-06-01 17:10:56","machine à café lavazza",,B01LZ47GH1,Philips,,5
+"2018-06-01 17:11:15","machine à café lavazza",,B074KN3GDT,Philips,,6
+"2018-06-01 17:11:15","machine à café lavazza",,B01J5FH8L4,Philips,,7
+"2018-06-01 17:11:53","machine à café capsules","Remise Immédiate sur Nespresso Vertuo Plus",,Nespresso,,1
+"2018-06-01 17:11:15","machine à café capsules",,B074KQB4B1,Philips,,2
+"2018-06-01 17:10:56","machine à café capsules",,B074KQZV97,Philips,,3
+"2018-06-01 17:11:28","machine à café capsules",,B00XZVP7U4,"Cafe Royal",,4
+"2018-06-01 17:10:56","machine à café capsules",,B01LZ47GH1,Philips,,5
+"2018-06-01 17:11:15","machine à café capsules",,B074KN3GDT,Philips,,6
+"2018-06-01 17:11:15","machine à café capsules",,B01J5FH8L4,Philips,,7
+"2018-06-01 17:11:53","machine à café dosette","Café Extra Long Classique 20 dosettes - Lot de 5",,SENSEO,,1
+"2018-06-01 17:11:28","machine à café dosette",,B00XZVP7U4,"Cafe Royal",,2
+"2018-06-01 17:11:54","machine à café dosette",,B079NJ4CGS,"Alfa wise",,3
+"2018-06-01 17:11:54","machine à café dosette",,B00IQWLSY6,Kaffeereiniger24,,4
+"2018-06-01 17:10:51","machine à café dosette",,B01N7IKJ6L,"Krups Nespresso",,5
+"2018-06-01 17:11:59","machine à café dosette",,B079MCVN13,Mounchain,,6
+"2018-06-01 17:11:10","machine à café dosette",,B00N6QC6PC,Kaffeereiniger24,,7
+"2018-06-01 17:11:59","machine à dosettes","Café Extra Long Classique 20 dosettes - Lot de 5",,SENSEO,,1
+"2018-06-01 17:11:28","machine à dosettes",,B00XZVP7U4,"Cafe Royal",,2
+"2018-06-01 17:11:06","machine à dosettes",,B01N02TG8E,WoldoClean,,3
+"2018-06-01 17:10:51","machine à dosettes",,B01H8MYITQ,RECAPS,,4
+"2018-06-01 17:11:59","a modo mio","Lavazza A Modo Mio café Lungo Dolce  x36 capsules",,Lavazza,,1
+"2018-06-01 17:11:40","a modo mio",,B071K8W9DD,"Il Caffè italiano",,2
+"2018-06-01 17:11:40","a modo mio",,B00HRA1JD8,,,3
+"2018-06-01 17:11:40","a modo mio",,B071K8XB7G,"Il Caffè italiano",,4
+"2018-06-01 17:11:40","a modo mio",,B00HR8WIRQ,,,5
+"2018-06-01 17:11:32","a modo mio",,B009YPU0I4,Lavazza,,6
+"2018-06-01 17:11:44","a modo mio",,B07232KQL3,"Il Caffè italiano",,7
+"2018-06-01 17:11:59","lavazza machine","Lavazza A Modo Mio café Lungo Dolce  x36 capsules",,Lavazza,,1
+"2018-06-01 17:11:40","lavazza machine",,B071K8XB7G,"Il Caffè italiano",,2
+"2018-06-01 17:11:59","lavazza machine",,B07CG9V3F6,INTEY-FR,,3
+"2018-06-01 17:11:10","lavazza machine",,B073PWBMWK,HiveNets,,4
+"2018-06-01 17:12:03","lavazza machine",,B073Q4HQ7L,"Il Caffè italiano",,5
+"2018-06-01 17:12:03","lavazza machine",,B073Q3HC9J,"Il Caffè italiano",,6
+"2018-06-01 17:12:03","lavazza machine",,B073Q1C3J5,"Il Caffè italiano",,7
+"2018-06-01 17:12:03",café,"Découvrez la gamme de dosettes cafés Espresso",,Tassimo,,1
+"2018-06-01 17:12:03",café,,B00CN4TPMU,L'OR,,2
+"2018-06-01 17:12:08",café,,B01LTI24ZA,Lavazza,,3
+"2018-06-01 17:11:24",café,,B00E9CX1NI,Kamira,,4
+"2018-06-01 17:12:08",café,,B077CXJ4JN,Vireo,,5
+"2018-06-01 17:11:10",café,,B00N6QC6PC,Kaffeereiniger24,,6
+"2018-06-01 17:12:08",café,,B072HMNZY4,PureDesign,,7
+"2018-06-01 17:12:08","capsule espresso",,,,,1
+"2018-06-01 17:12:08","capsule espresso",,B00S4RIOCW,Tassimo,,2
+"2018-06-01 17:12:12","capsule espresso",,B01LTIOUIE,Tassimo,,3
+"2018-06-01 17:12:12","capsule espresso",,B074P5WN7T,"Café Royal",,4
+"2018-06-01 17:12:12","capsule espresso",,B01MYO4BJZ,"L'Or Espresso",,5
+"2018-06-01 17:12:12","capsule espresso",,B01N185TD7,"L'Or Espresso",,6
+"2018-06-01 17:12:12","capsule espresso",,B01N5WDI5J,"L'Or Espresso",,7
+"2018-06-01 17:12:16","capsule nespresso","Capsules Café Splendente  - Compatibles Nespresso",,L'OR,,1
+"2018-06-01 17:10:51","capsule nespresso",,B01N7IKJ6L,"Krups Nespresso",,2
+"2018-06-01 17:12:17","capsule nespresso",,B01LTHNHIY,"Cafe Royal",,3
+"2018-06-01 17:11:28","capsule nespresso",,B00XZVP7U4,"Cafe Royal",,4
+"2018-06-01 17:11:06","capsule nespresso",,B00RMWTHC6,Babavoom®,,5
+"2018-06-01 17:12:17","capsule nespresso",,B01LTHO314,"Cafe Royal",,6
+"2018-06-01 17:12:17","capsule nespresso",,B074P69HNZ,"Carte Noire",,7
+"2018-06-01 17:12:16","café en grain","Cafés de torréfaction artisanale",,"HOP CAFE",,1
+"2018-06-01 17:12:21","café en grain",,B0798RZR3D,O'ccaffe,,2
+"2018-06-01 17:12:21","café en grain",,B00GM42SS0,"Gimoka Coffee",,3
+"2018-06-01 17:12:03","café en grain",,B00CN4TPMU,L'OR,,4
+"2018-06-01 17:12:21","café en grain",,B075JN2KYT,"Cooper's Cask Coffee",,5
+"2018-06-01 17:12:21","café en grain",,B01JH521DM,"Cooper's Cask Coffee",,6
+"2018-06-01 17:12:21","café en grain",,B013THFXEI,Tassimo,,7
+"2018-06-01 17:12:24","dosette nespresso","Capsules compatibles Nespresso® - Fairtrade",,Gourmesso,,1
+"2018-06-01 17:12:25","dosette nespresso",,B00H1XWE9Y,YESPRESSO,,2
+"2018-06-01 17:12:25","dosette nespresso",,B01LWLZXIZ,"Cafe Royal",,3
+"2018-06-01 17:10:51","dosette nespresso",,B01N7IKJ6L,"Krups Nespresso",,4
+"2018-06-01 17:12:17","dosette nespresso",,B01LTHNHIY,"Cafe Royal",,5
+"2018-06-01 17:11:06","dosette nespresso",,B00RMWTHC6,Babavoom®,,6
+"2018-06-01 17:12:25","dosette nespresso",,B01LTHO31O,"Cafe Royal",,7
+"2018-06-01 17:12:24",malongo,,,,,1
+"2018-06-01 17:12:28","café moulu","Cafés de torréfaction artisanale",,"HOP CAFE",,1
+"2018-06-01 17:12:29","café moulu",,B0120S5RZC,"Kimera Koffee",,2
+"2018-06-01 17:12:29","café moulu",,B00DKXTBCM,Lavazza,,3
+"2018-06-01 17:12:29","café moulu",,B01LXKDR0P,L'OR,,4
+"2018-06-01 17:12:29","café moulu",,B01LZ6VLTC,L'OR,,5
+"2018-06-01 17:12:33","café moulu",,B073PHRFLQ,"FUDI & CO THE COFFEE FOODIE COMPANY EST 2016",,6
+"2018-06-01 17:12:33","café moulu",,B00S4SAZTQ,Tassimo,,7
+"2018-06-01 17:12:32","café royal","Capsules Café Delizioso - Compatibles Nespresso®",,"JACOBS DOUWE EGBERTS",,1
+"2018-06-01 17:12:12","café royal",,B074P5WN7T,"Café Royal",,2
+"2018-06-01 17:12:33","café royal",,B074P5XG2F,"Café Royal",,3
+"2018-06-01 17:12:33","café royal",,B074P65865,"Café Royal",,4
+"2018-06-01 17:12:25","café royal",,B01LWLZXIZ,"Cafe Royal",,5
+"2018-06-01 17:12:37","café royal",,B076ZH7YNQ,"Café Royal",,6
+"2018-06-01 17:12:37","café royal",,B01LTHLEWA,"Café Royal",,7
+"2018-06-01 17:12:36","l or",,,,,1
+"2018-06-01 17:12:37","l or",,B07331LP9P,Langley,,2
+"2018-06-01 17:12:36","capsule cafe","Découvrez la gamme de dosettes cafés Espresso",,Tassimo,,1
+"2018-06-01 17:12:29","capsule cafe",,B00DKXTBCM,Lavazza,,2
+"2018-06-01 17:11:28","capsule cafe",,B00XZVP7U4,"Cafe Royal",,3
+"2018-06-01 17:12:40","capsule cafe",,B074K8SK4R,"Peak Coffee",,4
+"2018-06-01 17:12:40","capsule cafe",,B01M7Z7USO,"Carte Noire",,5
+"2018-06-01 17:12:17","capsule cafe",,B01LTHO314,"Cafe Royal",,6
+"2018-06-01 17:12:40","capsule cafe",,B01M0QV8ZF,"Cafe Royal",,7
+"2018-06-01 17:12:39","dosette ese","Café Extra Long Classique 20 dosettes - Lot de 5",,SENSEO,,1
+"2018-06-01 17:12:40","dosette ese",,B01JF3T7AQ,Aromataste,,2
+"2018-06-01 17:12:44","dosette ese",,B00G47RUK6,Aromataste,,3
+"2018-06-01 17:12:44","dosette ese",,B01M35H5Q0,Aromataste,,4
+"2018-06-01 17:12:44","dosette ese",,B013EQWTPA,Italcaffè,,5
+"2018-06-01 17:12:44","dosette ese",,B00HYHRXP2,Aromataste,,6
+"2018-06-01 17:12:44","dosette ese",,B00OK96E0C,Aromataste,,7
+"2018-06-01 17:12:47",nescafe,,,,,1
+"2018-06-01 17:12:47","capsule compatible nespresso","Capsules compatibles Nespresso® - Fairtrade",,Gourmesso,,1
+"2018-06-01 17:12:12","capsule compatible nespresso",,B01MYO4BJZ,"L'Or Espresso",,2
+"2018-06-01 17:12:48","capsule compatible nespresso",,B00R50M3IK,"CRU Kafe",,3
+"2018-06-01 17:10:51","capsule compatible nespresso",,B01N8T9I8E,Kimbo,,4
+"2018-06-01 17:12:48","capsule compatible nespresso",,B01N655DPH,"L'Or Espresso",,5
+"2018-06-01 17:12:25","capsule compatible nespresso",,B01LWLZXIZ,"Cafe Royal",,6
+"2018-06-01 17:12:48","capsule compatible nespresso",,B00O28K9H0,"CRU Kafe",,7
+"2018-06-01 17:12:51","dosette café",,,,,1
+"2018-06-01 17:12:52","dosette café",,B01LTHL54M,"Cafe Royal",,2
+"2018-06-01 17:12:17","dosette café",,B01LTHNHIY,"Cafe Royal",,3
+"2018-06-01 17:11:28","dosette café",,B00XZVP7U4,"Cafe Royal",,4
+"2018-06-01 17:12:29","dosette café",,B00DKXTBCM,Lavazza,,5
+"2018-06-01 17:12:40","dosette café",,B074K8SK4R,"Peak Coffee",,6
+"2018-06-01 17:12:52","dosette café",,B01MQKEXT7,"Carte Noire",,7
+"2018-06-01 17:12:51","café soluble",,,,,1
+"2018-06-01 17:12:52","café soluble",,B01LTIQ2AI,Tassimo,,2
+"2018-06-01 17:12:56","café soluble",,B01N42A13Z,"Carte Noire",,3
+"2018-06-01 17:12:56","café soluble",,B073JSGLY9,"Il Caffè italiano",,4
+"2018-06-01 17:12:56","café soluble",,B073P941K5,"Il Caffè italiano",,5
+"2018-06-01 17:12:52","café soluble",,B01MQKEXT7,"Carte Noire",,6
+"2018-06-01 17:12:56","café soluble",,B01N429M3E,"Carte Noire",,7
+"2018-06-01 17:12:55","café lavazza",,,,,1
+"2018-06-01 17:12:21","café lavazza",,B00GM42SS0,"Gimoka Coffee",,2
+"2018-06-01 17:11:40","café lavazza",,B071K8W9DD,"Il Caffè italiano",,3
+"2018-06-01 17:13:01","café lavazza",,B0752HSXS1,Lavazza,,4
+"2018-06-01 17:13:01","café lavazza",,B01LTIPL5U,Lavazza,,5
+"2018-06-01 17:11:28","café lavazza",,B01LTI24YQ,Lavazza,,6
+"2018-06-01 17:11:40","café lavazza",,B071K8XB7G,"Il Caffè italiano",,7
+"2018-06-01 17:13:00","capsule lavazza","Lavazza A Modo Mio café Lungo Dolce  x36 capsules",,Lavazza,,1
+"2018-06-01 17:11:40","capsule lavazza",,B071K8W9DD,"Il Caffè italiano",,2
+"2018-06-01 17:11:40","capsule lavazza",,B00HRA1JD8,,,3
+"2018-06-01 17:11:40","capsule lavazza",,B071K8XB7G,"Il Caffè italiano",,4
+"2018-06-01 17:13:01","capsule lavazza",,B074P6D4YX,Lavazza,,5
+"2018-06-01 17:11:40","capsule lavazza",,B00HR8WIRQ,,,6
+"2018-06-01 17:13:01","capsule lavazza",,B01LTI24YG,Lavazza,,7
+"2018-06-01 17:13:04","lavazza blue","Lavazza A Modo Mio café Lungo Dolce  x36 capsules",,Lavazza,,1
+"2018-06-01 17:13:05","lavazza blue",,B073Q3MY1N,"Il Caffè italiano",,2
+"2018-06-01 17:13:05","lavazza blue",,B018KIB9SK,"SABOREATEYCAFE THE FLAVOUR SHOP",,3
+"2018-06-01 17:13:05","lavazza blue",,B008GDLHP0,Gimoka,,4
+"2018-06-01 17:13:04","dosette lavazza","Lavazza A Modo Mio café Lungo Dolce  x36 capsules",,Lavazza,,1
+"2018-06-01 17:13:01","dosette lavazza",,B0752HSXS1,Lavazza,,2
+"2018-06-01 17:13:01","dosette lavazza",,B074P6D4YX,Lavazza,,3
+"2018-06-01 17:13:09","dosette lavazza",,B074P66YKR,Lavazza,,4
+"2018-06-01 17:11:40","dosette lavazza",,B071K8XB7G,"Il Caffè italiano",,5
+"2018-06-01 17:11:10","dosette lavazza",,B073PWBMWK,HiveNets,,6
+"2018-06-01 17:11:32","dosette lavazza",,B009YPU0I4,Lavazza,,7

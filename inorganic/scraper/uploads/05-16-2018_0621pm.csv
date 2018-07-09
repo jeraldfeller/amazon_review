@@ -1,0 +1,576 @@
+time,keyword,message,asin,brand,title,position
+"2018-05-16 18:12:50",Orologio,,,,,1
+"2018-05-16 18:12:50","daniel wellington",,,,,1
+"2018-05-16 18:12:53","daniel wellington",,B01N47KXCU,MAMONA,,2
+"2018-05-16 18:12:53","daniel wellington",,B01MYM168B,Gemony,,3
+"2018-05-16 18:12:53","daniel wellington",,B01GYKF17Q,Gemony,,4
+"2018-05-16 18:12:53","daniel wellington",,B07BLRHZ6V,MEGALITH,,5
+"2018-05-16 18:12:53","daniel wellington",,B01M2U6J1P,TRUMiRR,,6
+"2018-05-16 18:12:53","daniel wellington",,B071CGG1B5,BUREI,,7
+"2018-05-16 18:12:53","daniel wellington",,B01GYHNVRQ,Gemony,,8
+"2018-05-16 18:12:53","daniel wellington",,B01GYL5FKI,Gemony,,9
+"2018-05-16 18:12:56","daniel wellington",,B01FJPHIIC,MAMONA,,10
+"2018-05-16 18:12:54",casio,,,,,1
+"2018-05-16 18:12:56",casio,,B007EBUBSO,Casio,,2
+"2018-05-16 18:12:56",casio,,B00HEX9IHM,"LAD WEATHER",,3
+"2018-05-16 18:12:56",casio,,B0771FCRY9,"LAD WEATHER",,4
+"2018-05-16 18:12:56",casio,,B072HML7LC,"LAD WEATHER",,5
+"2018-05-16 18:12:56",casio,,B01LXC8I1D,Barbie,,6
+"2018-05-16 18:12:56",casio,,B00N6PO908,"AccessoriesBySej (venditore italiano)",,7
+"2018-05-16 18:12:54","Orologio uomo",,,,,1
+"2018-05-16 18:12:56","Orologio uomo",,B07917T6RT,Time100,,2
+"2018-05-16 18:13:01","Orologio uomo",,B07869ZMJN,JEDIR,,3
+"2018-05-16 18:13:01","Orologio uomo",,B074HBGCFW,MEGALITH,,4
+"2018-05-16 18:12:59",swatch,,,,,1
+"2018-05-16 18:13:01",swatch,,B00AZWW6Y6,Swatch,,2
+"2018-05-16 18:13:01",swatch,,B01IBINR0C,DIDOFà,,3
+"2018-05-16 18:13:01",swatch,,B01C8FIGXW,DIDOFà,,4
+"2018-05-16 18:12:59","Orologio donna",,,,,1
+"2018-05-16 18:13:01","Orologio donna",,B077G79JKD,"MAM Originals",,2
+"2018-05-16 18:13:01","Orologio donna",,B07CXD548S,SUNWH,,3
+"2018-05-16 18:13:01","Orologio donna",,B01C8FHS04,DIDOFà,,4
+"2018-05-16 18:13:03","Orologio uomo elegante",,,,,1
+"2018-05-16 18:13:08","Orologio uomo elegante",,B075VQQNC9,RISTOS,,2
+"2018-05-16 18:13:08","Orologio uomo elegante",,B075VQGTG9,RISTOS,,3
+"2018-05-16 18:13:08","Orologio uomo elegante",,B06WV7MQ13,BINZI,,4
+"2018-05-16 18:13:08","Orologio uomo elegante",,B074CHRVZZ,ROSHT,,5
+"2018-05-16 18:13:08","Orologio uomo elegante",,B078569RKY,MEGALITH,,6
+"2018-05-16 18:13:08","Orologio uomo elegante",,B075VQN1CY,RISTOS,,7
+"2018-05-16 18:13:03","orologio automatico",,,,,1
+"2018-05-16 18:13:08","orologio automatico",,B00AJD526A,"Akribos XXIV",,2
+"2018-05-16 18:13:08","orologio automatico",,B077Z7NWJX,"PRINCE GERA",,3
+"2018-05-16 18:13:08","orologio automatico",,B00CHYT0EE,Stuhrling,,4
+"2018-05-16 18:13:08","orologio automatico",,B00DMRZN5A,"Joshua & Sons",,5
+"2018-05-16 18:13:15","orologio automatico",,B0093FIJYC,"Akribos XXIV",,6
+"2018-05-16 18:13:15","orologio automatico",,B077ZRRWN6,AOKULASIC,,7
+"2018-05-16 18:13:10",tissot,,,,,1
+"2018-05-16 18:13:10",breil,,,,,1
+"2018-05-16 18:13:15",breil,,B01EX76C0C,Breil,,2
+"2018-05-16 18:13:15",breil,,B00FU3JVJS,Breil,,3
+"2018-05-16 18:13:15",breil,,B01EX76BD0,Breil,,4
+"2018-05-16 18:13:15",breil,,B00H3IKTIK,Breil,,5
+"2018-05-16 18:13:10","fossil ",,,,,1
+"2018-05-16 18:13:15","fossil ",,B01M32DGTO,Fossil,,2
+"2018-05-16 18:13:15","fossil ",,B06XVTWCHZ,Toshion,,3
+"2018-05-16 18:13:13","Orologio donna elegante","Vestiti da Cocktail",,MIUSOL,,1
+"2018-05-16 18:13:15","Orologio donna elegante",,B07BD38HLX,"Byron Bond",,2
+"2018-05-16 18:13:19","Orologio donna elegante",,B07BVZH325,watchygo,,3
+"2018-05-16 18:12:53","Orologio donna elegante",,B01N47KXCU,MAMONA,,4
+"2018-05-16 18:13:01","Orologio donna elegante",,B077G79JKD,"MAM Originals",,5
+"2018-05-16 18:13:19","Orologio donna elegante",,B0728D9NYD,"Woodstock Zambon",,6
+"2018-05-16 18:13:01","Orologio donna elegante",,B07CXD548S,SUNWH,,7
+"2018-05-16 18:13:17",OPS,,,,,1
+"2018-05-16 18:13:19",OPS,,B01AX4VCN6,"Ops Objects",,2
+"2018-05-16 18:13:19",OPS,,B06WLLFTJ5,Browning,,3
+"2018-05-16 18:13:17","Orologio donna acciaio",,,,,1
+"2018-05-16 18:13:19","Orologio donna acciaio",,B0795M2CPL,MAMONA,,2
+"2018-05-16 18:13:19","Orologio donna acciaio",,B00BZWV6MS,"Akribos XXIV",,3
+"2018-05-16 18:13:01","Orologio donna acciaio",,B077G79JKD,"MAM Originals",,4
+"2018-05-16 18:13:19","Orologio donna acciaio",,B072JJYLKC,MAMONA,,5
+"2018-05-16 18:13:15","Orologio donna acciaio",,B07BD38HLX,"Byron Bond",,6
+"2018-05-16 18:13:19","Orologio donna acciaio",,B079SZG5YP,GRANTON,,7
+"2018-05-16 18:13:21","orologio uomo acciaio",,,,,1
+"2018-05-16 18:13:21","orologio breil",,,,,1
+"2018-05-16 18:13:23","orologio breil",,B00YCMA9DA,Breil,,2
+"2018-05-16 18:13:23","orologio breil",,B000PD9CHY,Breil,,3
+"2018-05-16 18:13:23","orologio breil",,B0161NWLAG,"Rainbow e-motion of colors",,4
+"2018-05-16 18:13:23","orologio breil",,B074CGXBCN,ROSHT,,5
+"2018-05-16 18:13:23","orologio breil",,B01LT7ZWVY,TStrap,,6
+"2018-05-16 18:13:23","orologio breil",,B077GC8XXW,"MAM Originals",,7
+"2018-05-16 18:13:21","orologio hip hop",,,,,1
+"2018-05-16 18:13:23","orologio hip hop",,B00FPGTL7W,"Hip Hop",,2
+"2018-05-16 18:13:27","orologio hip hop",,B00C3XQ7XQ,"BREIL HIP HOP",,3
+"2018-05-16 18:13:27","orologio hip hop",,B00LFTZNVG,"Hip Hop",,4
+"2018-05-16 18:13:27","orologio hip hop",,B00FPGT758,"Hip Hop",,5
+"2018-05-16 18:13:25","ice watch",,,,,1
+"2018-05-16 18:13:27","ice watch",,B004D3VERI,Ice-Watch,,2
+"2018-05-16 18:13:27","ice watch",,B01I106L9E,MAMONA,,3
+"2018-05-16 18:13:27","ice watch",,B00GBWN2N8,Time100,,4
+"2018-05-16 18:13:27","ice watch",,B01I106DWO,MAMONA,,5
+"2018-05-16 18:13:27","ice watch",,B00GBWN53U,Time100,,6
+"2018-05-16 18:13:27","ice watch",,B01C8FISW6,DIDOFà,,7
+"2018-05-16 18:13:29","orologio ragazzo","ClicTime Orologi e Orologi",,"ClicTime Holdings LTD",,1
+"2018-05-16 18:13:31","orologio ragazzo",,B00JM8KIU8,FORESEEX,,2
+"2018-05-16 18:13:31","orologio ragazzo",,B06XCHYMBF,Kiddus,,3
+"2018-05-16 18:13:31","orologio ragazzo",,B074TCZPD8,INWET,,4
+"2018-05-16 18:13:31","orologio ragazzo",,B01MYLWY5H,LANCARDO,,5
+"2018-05-16 18:13:31","orologio ragazzo",,B01MS91MJ6,LANCARDO,,6
+"2018-05-16 18:13:31","orologio ragazzo",,B075HBWWGF,KDM,,7
+"2018-05-16 18:13:29","orologio ragazza","ClicTime Orologi e Orologi",,"ClicTime Holdings LTD",,1
+"2018-05-16 18:13:31","orologio ragazza",,B074PJH3RB,MANBARA,,2
+"2018-05-16 18:13:31","orologio ragazza",,B0762LCM99,"REN Deal",,3
+"2018-05-16 18:13:35","orologio ragazza",,B016T8CDLA,FORESEEX,,4
+"2018-05-16 18:13:35","orologio ragazza",,B075NYR91T,INWET,,5
+"2018-05-16 18:13:35","orologio ragazza",,B00K523MIA,FORESEEX,,6
+"2018-05-16 18:13:35","orologio ragazza",,B01KXEBF38,INWET,,7
+"2018-05-16 18:13:33","orologio resistente all'acqua",,,,,1
+"2018-05-16 18:13:31","orologio resistente all'acqua",,B00JM8KIU8,FORESEEX,,2
+"2018-05-16 18:13:35","orologio resistente all'acqua",,B00K523MIA,FORESEEX,,3
+"2018-05-16 18:13:35","orologio resistente all'acqua",,B00Z9RXAZ6,FORESEEX,,4
+"2018-05-16 18:12:53","orologio resistente all'acqua",,B071CGG1B5,BUREI,,5
+"2018-05-16 18:13:35","orologio resistente all'acqua",,B014326P2C,FORESEEX,,6
+"2018-05-16 18:13:35","orologio resistente all'acqua",,B078HN8G62,KDM,,7
+"2018-05-16 18:13:33",nespresso,"Capsule compatibili Nespresso®. Qualità italiana.",,"Caffè Carracci",,1
+"2018-05-16 18:13:42",nespresso,,B00SMXJ5FS,"La Compatibile.it",,2
+"2018-05-16 18:13:42",nespresso,,B01N98S9FS,"Caffè Carracci",,3
+"2018-05-16 18:13:42",nespresso,,B01MZFQOIG,"Philips Macchine da caffè Automatiche",,4
+"2018-05-16 18:13:42",nespresso,,B01D4L36NE,"Caffè Vergnano",,5
+"2018-05-16 18:13:42",nespresso,,B01N97DB4W,HiveNets,,6
+"2018-05-16 18:13:37","caffè borbone","Prova le nostre capsule compatibili",,"POP CAFFE'",,1
+"2018-05-16 18:13:42","caffè borbone",,B07BHM2WCS,"Dolci Aveja",,2
+"2018-05-16 18:13:42","caffè borbone",,B07BHM6MDV,"Dolci Aveja",,3
+"2018-05-16 18:13:42","caffè borbone",,B07BHM34CD,"Dolci Aveja",,4
+"2018-05-16 18:13:42","caffè borbone",,B00MXKBXXS,Gourmesso,,5
+"2018-05-16 18:13:42","caffè borbone",,B07BHM6P96,"Dolci Aveja",,6
+"2018-05-16 18:13:44",lavazza,"Prova le nostre capsule compatibili",,"POP CAFFE'",,1
+"2018-05-16 18:13:55",lavazza,,B00SJN3FGQ,"SELF CAP",,2
+"2018-05-16 18:13:55",lavazza,,B079W8XW8V,"Italian Coffee",,3
+"2018-05-16 18:13:55",lavazza,,B078FYBJ8T,"Lavazza Blue e In Black Nims",,4
+"2018-05-16 18:13:55",lavazza,,B078G3TZK4,"Lavazza Blue e In Black Nims",,5
+"2018-05-16 18:13:55",lavazza,,B078FYBNFY,"Lavazza Blue e In Black Nims",,6
+"2018-05-16 18:13:55",lavazza,,B079W2SRGS,"Italian Coffee",,7
+"2018-05-16 18:13:44","lavazza a modo mio","Prova le nostre capsule compatibili",,"POP CAFFE'",,1
+"2018-05-16 18:13:55","lavazza a modo mio",,B071Z6P7WB,"Il Caffè Italiano",,2
+"2018-05-16 18:13:55","lavazza a modo mio",,B00VTQVI5K,"La Compatibile.it",,3
+"2018-05-16 18:13:55","lavazza a modo mio",,B073JKRW84,Thun,,4
+"2018-05-16 18:13:55","lavazza a modo mio",,B00LFOR84G,AmbiClean,,5
+"2018-05-16 18:13:59","lavazza a modo mio",,B010RLCH2U,AmazonBasics,,6
+"2018-05-16 18:13:59","lavazza a modo mio",,B01AW9EKEU,Balvi,,7
+"2018-05-16 18:13:57","a modo mio","Prova le nostre capsule compatibili",,"POP CAFFE'",,1
+"2018-05-16 18:13:59","a modo mio",,B07B3SD62F,GATTOPARDO,,2
+"2018-05-16 18:13:59","a modo mio",,B075HHWHHV,GATTOPARDO,,3
+"2018-05-16 18:13:59","a modo mio",,B078LKXQNT,"Caffè Borbone",,4
+"2018-05-16 18:13:59","a modo mio",,B07B3NV279,GATTOPARDO,,5
+"2018-05-16 18:13:59","a modo mio",,B075HH6R89,GATTOPARDO,,6
+"2018-05-16 18:13:57",caffè,"Capsule compatibili Nespresso®. Qualità italiana.",,"Caffè Carracci",,1
+"2018-05-16 18:13:59",caffè,,B0075O4WKS,"Weasel Premium Vietnamese Coffees",,2
+"2018-05-16 18:14:03",caffè,,B06VXSJ45Z,"Caffè Carracci",,3
+"2018-05-16 18:14:03",caffè,,B079Z1983W,Aicok,,4
+"2018-05-16 18:13:42",caffè,,B01MZFQOIG,"Philips Macchine da caffè Automatiche",,5
+"2018-05-16 18:14:03",caffè,,B076BVN7YV,"LIZA LINE",,6
+"2018-05-16 18:14:03",caffè,,B07215M847,"LIZA LINE",,7
+"2018-05-16 18:14:01",espresso,,,,,1
+"2018-05-16 18:14:03",espresso,,B01N5497J9,ZNYSTAR,,2
+"2018-05-16 18:14:03",espresso,,B01N772B6E,ZNYSTAR,,3
+"2018-05-16 18:14:03",espresso,,B01N52PKIK,ZNYSTAR,,4
+"2018-05-16 18:14:03",espresso,,B06XCGH9H2,RECAPS,,5
+"2018-05-16 18:14:03",espresso,,B01MRKPUSE,ZNYSTAR,,6
+"2018-05-16 18:14:07",espresso,,B07B7D9B24,RECAPS,,7
+"2018-05-16 18:14:05","caffè in grani","Nannini Caffè e Pasticceria",,Nannini,,1
+"2018-05-16 18:14:07","caffè in grani",,B079552YN3,CORCOVADO,,2
+"2018-05-16 18:14:07","caffè in grani",,B07954Q989,CORCOVADO,,3
+"2018-05-16 18:14:07","caffè in grani",,B01N1Q5440,Biotiva,,4
+"2018-05-16 18:14:07","caffè in grani",,B01NBZ7DPZ,"San Agustín algunos vicios son inconfesables",,5
+"2018-05-16 18:14:05","caffè lavazza","Prova le nostre capsule compatibili",,"POP CAFFE'",,1
+"2018-05-16 18:14:07","caffè lavazza",,B07CSX4XGG,Torrisi,,2
+"2018-05-16 18:14:07","caffè lavazza",,B00XJK9Z0E,"La Compatibile.it",,3
+"2018-05-16 18:14:07","caffè lavazza",,B01N1Q5440,Biotiva,,4
+"2018-05-16 18:14:11","caffè lavazza",,B0756KVK3S,"Caffè Cremeo",,5
+"2018-05-16 18:14:09","caffè macinato","Capsule compatibili Nespresso®. Qualità italiana.",,"Caffè Carracci",,1
+"2018-05-16 18:14:11","caffè macinato",,B0744QMRWF,Tassimo,,2
+"2018-05-16 18:14:11","caffè macinato",,B00O1XYDU0,,,3
+"2018-05-16 18:14:11","caffè macinato",,B0744QBK9B,Tassimo,,4
+"2018-05-16 18:14:11","caffè macinato",,B078TH1T4V,"Caffè Barbera 1870",,5
+"2018-05-16 18:14:11","caffè macinato",,B0744QSTVT,Tassimo,,6
+"2018-05-16 18:14:11","caffè macinato",,B0744QHWJM,Tassimo,,7
+"2018-05-16 18:14:09","caffè espresso","Capsule compatibili Nespresso®. Qualità italiana.",,"Caffè Carracci",,1
+"2018-05-16 18:14:11","caffè espresso",,B0744QMRWF,Tassimo,,2
+"2018-05-16 18:14:15","caffè espresso",,B004Z0I6QQ,Italcaffè,,3
+"2018-05-16 18:14:15","caffè espresso",,B0798RZR3D,O'ccaffe,,4
+"2018-05-16 18:14:15","caffè espresso",,B01G9BR6QE,"Emily's Coffee",,5
+"2018-05-16 18:14:13","capsule espresso","Capsule compatibili Nespresso®. Qualità italiana.",,"Caffè Carracci",,1
+"2018-05-16 18:14:15","capsule espresso",,B07B27SCY4,"Coffiamo Caffè",,2
+"2018-05-16 18:14:15","capsule espresso",,B013CFXT6Q,Italcaffè,,3
+"2018-05-16 18:14:15","capsule espresso",,B01LBLFNX0,BeShiny,,4
+"2018-05-16 18:14:15","capsule espresso",,B075BCL24Q,Dallmayr,,5
+"2018-05-16 18:14:15","capsule espresso",,B0748MR3TC,Dallmayr,,6
+"2018-05-16 18:14:13","cialde caffè","Capsule compatibili Nespresso®. Qualità italiana.",,"Caffè Carracci",,1
+"2018-05-16 18:14:19","cialde caffè",,B07CTRGPLS,Torrisi,,2
+"2018-05-16 18:14:15","cialde caffè",,B013CFXT6Q,Italcaffè,,3
+"2018-05-16 18:14:19","cialde caffè",,B074DF46V2,,,4
+"2018-05-16 18:14:19","cialde caffè",,B07B66H815,"Caffè Cremeo",,5
+"2018-05-16 18:14:17","capsule lavazza a modo mio","Prova le nostre capsule compatibili",,"POP CAFFE'",,1
+"2018-05-16 18:13:55","capsule lavazza a modo mio",,B071Z6P7WB,"Il Caffè Italiano",,2
+"2018-05-16 18:14:19","capsule lavazza a modo mio",,B07B24CRJM,"Coffiamo Caffè",,3
+"2018-05-16 18:14:19","capsule lavazza a modo mio",,B075NPHPDM,101CAFFE',,4
+"2018-05-16 18:14:19","capsule lavazza a modo mio",,B078Q33N8Y,"DICOSOLACAFFE' S.G.L. VENDING SNC",,5
+"2018-05-16 18:14:19","capsule lavazza a modo mio",,B00XJKA0NU,"La Compatibile.it",,6
+"2018-05-16 18:14:19","capsule lavazza a modo mio",,B00XJK9WYI,"La Compatibile.it",,7
+"2018-05-16 18:14:03","capsule lavazza a modo mio",,B06VXSJ45Z,"Caffè Carracci",,8
+"2018-05-16 18:14:19","capsule lavazza a modo mio",,B00XJK9TDW,"La Compatibile.it",,9
+"2018-05-16 18:14:21",cialde,,,,,1
+"2018-05-16 18:14:23",cialde,,B01N2ZHECG,"Caffè Borbone",,2
+"2018-05-16 18:14:23",cialde,,B01N2ZHKOO,"Caffè Borbone",,3
+"2018-05-16 18:14:23",cialde,,B019S0LVPU,"Il Caffè Italiano",,4
+"2018-05-16 18:14:23",cialde,,B019S0LY16,"Il Caffè Italiano",,5
+"2018-05-16 18:14:21","cialde borbone",,,,,1
+"2018-05-16 18:14:23","cialde borbone",,B079Z74HMK,"Caffè Borbone",,2
+"2018-05-16 18:14:23","cialde borbone",,B01F547A3U,"Caffè Borbone",,3
+"2018-05-16 18:13:42","cialde borbone",,B00MXKBXXS,Gourmesso,,4
+"2018-05-16 18:14:23","cialde borbone",,B077PZHY7R,"caffe' cagliari",,5
+"2018-05-16 18:14:21","cialde lavazza a modo mio",,,,,1
+"2018-05-16 18:14:27","cialde lavazza a modo mio",,B0784K9RGH,RossoCrema,,2
+"2018-05-16 18:13:55","cialde lavazza a modo mio",,B071Z6P7WB,"Il Caffè Italiano",,3
+"2018-05-16 18:14:27","cialde lavazza a modo mio",,B071K8XB7G,"Il Caffè Italiano",,4
+"2018-05-16 18:14:27","cialde lavazza a modo mio",,B073Q3S3JX,"Il Caffè Italiano",,5
+"2018-05-16 18:14:25","cialde lavazza","Prova le nostre capsule compatibili",,"POP CAFFE'",,1
+"2018-05-16 18:14:27","cialde lavazza",,B013CONRHI,Italcaffè,,2
+"2018-05-16 18:14:27","cialde lavazza",,B013CNKFTC,Italcaffè,,3
+"2018-05-16 18:14:07","cialde lavazza",,B00XJK9Z0E,"La Compatibile.it",,4
+"2018-05-16 18:14:23","cialde lavazza",,B077PZHY7R,"caffe' cagliari",,5
+"2018-05-16 18:14:25","capsule caffè","Capsule compatibili Nespresso®. Qualità italiana.",,"Caffè Carracci",,1
+"2018-05-16 18:14:27","capsule caffè",,B0105WHU0U,Formafit,,2
+"2018-05-16 18:14:27","capsule caffè",,B079L1STKT,Ukia,,3
+"2018-05-16 18:14:27","capsule caffè",,B0777N6J6W,"Il Caffè Italiano",,4
+"2018-05-16 18:14:34","capsule caffè",,B07CL3972C,,,5
+"2018-05-16 18:14:29","capsule compatibili lavazza a modo mio","Prova le nostre capsule compatibili",,"POP CAFFE'",,1
+"2018-05-16 18:13:55","capsule compatibili lavazza a modo mio",,B071Z6P7WB,"Il Caffè Italiano",,2
+"2018-05-16 18:14:27","capsule compatibili lavazza a modo mio",,B071K8XB7G,"Il Caffè Italiano",,3
+"2018-05-16 18:14:15","capsule compatibili lavazza a modo mio",,B01LBLFNX0,BeShiny,,4
+"2018-05-16 18:14:34","capsule compatibili lavazza a modo mio",,B075LNKH6V,"Il Caffè Italiano",,5
+"2018-05-16 18:14:29","cialde caffè borbone","Prova le nostre capsule compatibili",,"POP CAFFE'",,1
+"2018-05-16 18:13:42","cialde caffè borbone",,B00MXKBXXS,Gourmesso,,2
+"2018-05-16 18:14:23","cialde caffè borbone",,B077PZHY7R,"caffe' cagliari",,3
+"2018-05-16 18:14:34","cialde caffè borbone",,B07B68K93K,"Caffè Cremeo",,4
+"2018-05-16 18:13:55","cialde caffè borbone",,B071Z6P7WB,"Il Caffè Italiano",,5
+"2018-05-16 18:14:29","capsule a modo mio","Prova le nostre capsule compatibili",,"POP CAFFE'",,1
+"2018-05-16 18:13:55","capsule a modo mio",,B071Z6P7WB,"Il Caffè Italiano",,2
+"2018-05-16 18:14:27","capsule a modo mio",,B071K8XB7G,"Il Caffè Italiano",,3
+"2018-05-16 18:14:15","capsule a modo mio",,B01LBLFNX0,BeShiny,,4
+"2018-05-16 18:14:34","capsule a modo mio",,B01LCMKLM6,"Cute Nutrition",,5
+"2018-05-16 18:14:29","caffè cialde","Capsule compatibili Nespresso®. Qualità italiana.",,"Caffè Carracci",,1
+"2018-05-16 18:14:19","caffè cialde",,B074DF46V2,,,2
+"2018-05-16 18:14:19","caffè cialde",,B07B66H815,"Caffè Cremeo",,3
+"2018-05-16 18:14:19","caffè cialde",,B07CTRGPLS,Torrisi,,4
+"2018-05-16 18:14:34","caffè cialde",,B079Y9Z6Y9,"Caffè Cremeo",,5
+"2018-05-16 18:14:29","capsule caffè italy",,,,,1
+"2018-05-16 18:14:27","capsule caffè italy",,B0777N6J6W,"Il Caffè Italiano",,2
+"2018-05-16 18:14:34","capsule caffè italy",,B07CL3972C,,,3
+"2018-05-16 18:14:34","capsule caffè italy",,B079MFWZKQ,,,4
+"2018-05-16 18:14:34","capsule caffè italy",,B073Q4HQ7L,"Il Caffè Italiano",,5
+"2018-05-16 18:14:32","capsule caffè borbone","Prova le nostre capsule compatibili",,"POP CAFFE'",,1
+"2018-05-16 18:13:55","capsule caffè borbone",,B071Z6P7WB,"Il Caffè Italiano",,2
+"2018-05-16 18:14:15","capsule caffè borbone",,B01LBLFNX0,BeShiny,,3
+"2018-05-16 18:14:34","capsule caffè borbone",,B01LCMKLM6,"Cute Nutrition",,4
+"2018-05-16 18:13:42","capsule caffè borbone",,B00MXKBXXS,Gourmesso,,5
+"2018-05-16 18:14:36","capsule compatibili nespresso","Prova le nostre capsule compatibili",,"POP CAFFE'",,1
+"2018-05-16 18:14:38","capsule compatibili nespresso",,B075MG62QH,"Caffè H24",,2
+"2018-05-16 18:14:38","capsule compatibili nespresso",,B075BL4KCN,"ITALIAN COFFEE FOR ESPRESSO LOVERS",,3
+"2018-05-16 18:13:42","capsule compatibili nespresso",,B00MXKBXXS,Gourmesso,,4
+"2018-05-16 18:14:38","capsule compatibili nespresso",,B073P872W1,"Il Caffè Italiano",,5
+"2018-05-16 18:14:38","capsule compatibili nespresso",,B073P7FKGS,"Il Caffè Italiano",,6
+"2018-05-16 18:14:38","capsule compatibili nespresso",,B019S0LYFW,"Il Caffè Italiano",,7
+"2018-05-16 18:14:38","capsule compatibili nespresso",,B07BJ5ZDHK,"Cafè Royal",,8
+"2018-05-16 18:14:19","capsule compatibili nespresso",,B00XJKA0NU,"La Compatibile.it",,9
+"2018-05-16 18:14:36","cialde nespresso","Capsule compatibili Nespresso®. Qualità italiana.",,"Caffè Carracci",,1
+"2018-05-16 18:14:38","cialde nespresso",,B01MXXDHW3,"Caffè Carracci",,2
+"2018-05-16 18:14:38","cialde nespresso",,B01H8NOHBY,RECAPS,,3
+"2018-05-16 18:13:42","cialde nespresso",,B01D4L36NE,"Caffè Vergnano",,4
+"2018-05-16 18:14:03","cialde nespresso",,B06VXSJ45Z,"Caffè Carracci",,5
+"2018-05-16 18:14:45","cialde nespresso",,B01N292SLL,Cino,,6
+"2018-05-16 18:14:03","cialde nespresso",,B079Z1983W,Aicok,,7
+"2018-05-16 18:14:40","nespresso capsule","Nannini Caffè e Pasticceria",,Nannini,,1
+"2018-05-16 18:14:38","nespresso capsule",,B019S0LYFW,"Il Caffè Italiano",,2
+"2018-05-16 18:14:45","nespresso capsule",,B01L24MORY,"Café Royal",,3
+"2018-05-16 18:14:03","nespresso capsule",,B079Z1983W,Aicok,,4
+"2018-05-16 18:14:45","nespresso capsule",,B00T4FELUW,"La Compatibile.it",,5
+"2018-05-16 18:13:59","nespresso capsule",,B010RLCH2U,AmazonBasics,,6
+"2018-05-16 18:13:42","nespresso capsule",,B01MZFQOIG,"Philips Macchine da caffè Automatiche",,7
+"2018-05-16 18:14:40","cialde compatibili nespresso","Capsule compatibili Nespresso®. Qualità italiana.",,"Caffè Carracci",,1
+"2018-05-16 18:14:45","cialde compatibili nespresso",,B013CFM0JS,Italcaffè,,2
+"2018-05-16 18:14:15","cialde compatibili nespresso",,B013CFXT6Q,Italcaffè,,3
+"2018-05-16 18:14:38","cialde compatibili nespresso",,B075MG62QH,"Caffè H24",,4
+"2018-05-16 18:13:42","cialde compatibili nespresso",,B00MXKBXXS,Gourmesso,,5
+"2018-05-16 18:14:40","caffè nespresso","Capsule compatibili Nespresso®. Qualità italiana.",,"Caffè Carracci",,1
+"2018-05-16 18:14:45","caffè nespresso",,B079HXBHHY,"Il Caffè Italiano",,2
+"2018-05-16 18:14:45","caffè nespresso",,B0756FRYYM,Myristretto,,3
+"2018-05-16 18:13:42","caffè nespresso",,B00MXKBXXS,Gourmesso,,4
+"2018-05-16 18:13:42","caffè nespresso",,B07BHM6P96,"Dolci Aveja",,5
+"2018-05-16 18:14:40",Orologio,,,,,1
+"2018-05-16 18:14:43","daniel wellington",,,,,1
+"2018-05-16 18:12:53","daniel wellington",,B01N47KXCU,MAMONA,,2
+"2018-05-16 18:12:53","daniel wellington",,B01MYM168B,Gemony,,3
+"2018-05-16 18:12:53","daniel wellington",,B01GYKF17Q,Gemony,,4
+"2018-05-16 18:12:53","daniel wellington",,B07BLRHZ6V,MEGALITH,,5
+"2018-05-16 18:12:53","daniel wellington",,B01M2U6J1P,TRUMiRR,,6
+"2018-05-16 18:12:53","daniel wellington",,B071CGG1B5,BUREI,,7
+"2018-05-16 18:12:53","daniel wellington",,B01GYHNVRQ,Gemony,,8
+"2018-05-16 18:12:53","daniel wellington",,B01GYL5FKI,Gemony,,9
+"2018-05-16 18:12:56","daniel wellington",,B01FJPHIIC,MAMONA,,10
+"2018-05-16 18:14:43",casio,,,,,1
+"2018-05-16 18:12:56",casio,,B007EBUBSO,Casio,,2
+"2018-05-16 18:12:56",casio,,B00HEX9IHM,"LAD WEATHER",,3
+"2018-05-16 18:12:56",casio,,B0771FCRY9,"LAD WEATHER",,4
+"2018-05-16 18:12:56",casio,,B072HML7LC,"LAD WEATHER",,5
+"2018-05-16 18:12:56",casio,,B01LXC8I1D,Barbie,,6
+"2018-05-16 18:12:56",casio,,B00N6PO908,"AccessoriesBySej (venditore italiano)",,7
+"2018-05-16 18:14:45",casio,,B06X91LRXF,"LAD WEATHER",,8
+"2018-05-16 18:14:45",casio,,B06XDH2MVN,"LAD WEATHER",,9
+"2018-05-16 18:14:49",casio,,B06WRRJYWL,"LAD WEATHER",,10
+"2018-05-16 18:14:47","Orologio uomo",,,,,1
+"2018-05-16 18:12:56","Orologio uomo",,B07917T6RT,Time100,,2
+"2018-05-16 18:13:01","Orologio uomo",,B07869ZMJN,JEDIR,,3
+"2018-05-16 18:13:01","Orologio uomo",,B074HBGCFW,MEGALITH,,4
+"2018-05-16 18:14:47",swatch,,,,,1
+"2018-05-16 18:14:47","Orologio donna",,,,,1
+"2018-05-16 18:13:01","Orologio donna",,B077G79JKD,"MAM Originals",,2
+"2018-05-16 18:13:01","Orologio donna",,B07CXD548S,SUNWH,,3
+"2018-05-16 18:13:01","Orologio donna",,B01C8FHS04,DIDOFà,,4
+"2018-05-16 18:14:47","Orologio uomo elegante",,,,,1
+"2018-05-16 18:13:08","Orologio uomo elegante",,B075VQQNC9,RISTOS,,2
+"2018-05-16 18:13:08","Orologio uomo elegante",,B075VQGTG9,RISTOS,,3
+"2018-05-16 18:13:08","Orologio uomo elegante",,B06WV7MQ13,BINZI,,4
+"2018-05-16 18:13:08","Orologio uomo elegante",,B074CHRVZZ,ROSHT,,5
+"2018-05-16 18:13:08","Orologio uomo elegante",,B078569RKY,MEGALITH,,6
+"2018-05-16 18:13:08","Orologio uomo elegante",,B075VQN1CY,RISTOS,,7
+"2018-05-16 18:14:47","orologio automatico",,,,,1
+"2018-05-16 18:13:08","orologio automatico",,B00AJD526A,"Akribos XXIV",,2
+"2018-05-16 18:13:08","orologio automatico",,B077Z7NWJX,"PRINCE GERA",,3
+"2018-05-16 18:13:08","orologio automatico",,B00CHYT0EE,Stuhrling,,4
+"2018-05-16 18:13:08","orologio automatico",,B00DMRZN5A,"Joshua & Sons",,5
+"2018-05-16 18:13:15","orologio automatico",,B0093FIJYC,"Akribos XXIV",,6
+"2018-05-16 18:13:15","orologio automatico",,B077ZRRWN6,AOKULASIC,,7
+"2018-05-16 18:14:47",tissot,,,,,1
+"2018-05-16 18:14:47",breil,,,,,1
+"2018-05-16 18:13:15",breil,,B01EX76C0C,Breil,,2
+"2018-05-16 18:13:15",breil,,B00FU3JVJS,Breil,,3
+"2018-05-16 18:13:15",breil,,B01EX76BD0,Breil,,4
+"2018-05-16 18:13:15",breil,,B00H3IKTIK,Breil,,5
+"2018-05-16 18:14:47","fossil ",,,,,1
+"2018-05-16 18:13:15","fossil ",,B01M32DGTO,Fossil,,2
+"2018-05-16 18:13:15","fossil ",,B06XVTWCHZ,Toshion,,3
+"2018-05-16 18:14:47","Orologio donna elegante","Vestiti da Cocktail",,MIUSOL,,1
+"2018-05-16 18:13:15","Orologio donna elegante",,B07BD38HLX,"Byron Bond",,2
+"2018-05-16 18:13:19","Orologio donna elegante",,B07BVZH325,watchygo,,3
+"2018-05-16 18:12:53","Orologio donna elegante",,B01N47KXCU,MAMONA,,4
+"2018-05-16 18:13:01","Orologio donna elegante",,B077G79JKD,"MAM Originals",,5
+"2018-05-16 18:13:19","Orologio donna elegante",,B0728D9NYD,"Woodstock Zambon",,6
+"2018-05-16 18:13:01","Orologio donna elegante",,B07CXD548S,SUNWH,,7
+"2018-05-16 18:14:51",OPS,,,,,1
+"2018-05-16 18:13:19",OPS,,B01AX4VCN6,"Ops Objects",,2
+"2018-05-16 18:13:19",OPS,,B06WLLFTJ5,Browning,,3
+"2018-05-16 18:14:51","Orologio donna acciaio",,,,,1
+"2018-05-16 18:13:19","Orologio donna acciaio",,B0795M2CPL,MAMONA,,2
+"2018-05-16 18:13:19","Orologio donna acciaio",,B00BZWV6MS,"Akribos XXIV",,3
+"2018-05-16 18:13:01","Orologio donna acciaio",,B077G79JKD,"MAM Originals",,4
+"2018-05-16 18:13:19","Orologio donna acciaio",,B072JJYLKC,MAMONA,,5
+"2018-05-16 18:13:15","Orologio donna acciaio",,B07BD38HLX,"Byron Bond",,6
+"2018-05-16 18:13:19","Orologio donna acciaio",,B079SZG5YP,GRANTON,,7
+"2018-05-16 18:14:51","orologio uomo acciaio",,,,,1
+"2018-05-16 18:14:56","orologio uomo acciaio",,B07B2MGDS9,"Byron Bond",,2
+"2018-05-16 18:13:08","orologio uomo acciaio",,B00AJD526A,"Akribos XXIV",,3
+"2018-05-16 18:13:23","orologio uomo acciaio",,B0161NWLAG,"Rainbow e-motion of colors",,4
+"2018-05-16 18:14:56","orologio uomo acciaio",,B06XF38LRL,omyzam,,5
+"2018-05-16 18:13:08","orologio uomo acciaio",,B074CHRVZZ,ROSHT,,6
+"2018-05-16 18:14:56","orologio uomo acciaio",,B01NA8KCMC,Steinhausen,,7
+"2018-05-16 18:14:51","orologio breil",,,,,1
+"2018-05-16 18:13:23","orologio breil",,B00YCMA9DA,Breil,,2
+"2018-05-16 18:13:23","orologio breil",,B000PD9CHY,Breil,,3
+"2018-05-16 18:13:23","orologio breil",,B0161NWLAG,"Rainbow e-motion of colors",,4
+"2018-05-16 18:13:23","orologio breil",,B074CGXBCN,ROSHT,,5
+"2018-05-16 18:13:23","orologio breil",,B01LT7ZWVY,TStrap,,6
+"2018-05-16 18:13:23","orologio breil",,B077GC8XXW,"MAM Originals",,7
+"2018-05-16 18:14:51","orologio hip hop",,,,,1
+"2018-05-16 18:13:23","orologio hip hop",,B00FPGTL7W,"Hip Hop",,2
+"2018-05-16 18:13:27","orologio hip hop",,B00C3XQ7XQ,"BREIL HIP HOP",,3
+"2018-05-16 18:13:27","orologio hip hop",,B00LFTZNVG,"Hip Hop",,4
+"2018-05-16 18:13:27","orologio hip hop",,B00FPGT758,"Hip Hop",,5
+"2018-05-16 18:14:51","ice watch",,,,,1
+"2018-05-16 18:13:27","ice watch",,B004D3VERI,Ice-Watch,,2
+"2018-05-16 18:13:27","ice watch",,B01I106L9E,MAMONA,,3
+"2018-05-16 18:13:27","ice watch",,B00GBWN2N8,Time100,,4
+"2018-05-16 18:13:27","ice watch",,B01I106DWO,MAMONA,,5
+"2018-05-16 18:13:27","ice watch",,B00GBWN53U,Time100,,6
+"2018-05-16 18:13:27","ice watch",,B01C8FISW6,DIDOFà,,7
+"2018-05-16 18:14:51","orologio ragazzo","ClicTime Orologi e Orologi",,"ClicTime Holdings LTD",,1
+"2018-05-16 18:13:31","orologio ragazzo",,B00JM8KIU8,FORESEEX,,2
+"2018-05-16 18:13:31","orologio ragazzo",,B06XCHYMBF,Kiddus,,3
+"2018-05-16 18:13:31","orologio ragazzo",,B074TCZPD8,INWET,,4
+"2018-05-16 18:13:31","orologio ragazzo",,B01MYLWY5H,LANCARDO,,5
+"2018-05-16 18:13:31","orologio ragazzo",,B01MS91MJ6,LANCARDO,,6
+"2018-05-16 18:13:31","orologio ragazzo",,B075HBWWGF,KDM,,7
+"2018-05-16 18:14:54","orologio ragazza","ClicTime Orologi e Orologi",,"ClicTime Holdings LTD",,1
+"2018-05-16 18:13:31","orologio ragazza",,B074PJH3RB,MANBARA,,2
+"2018-05-16 18:13:31","orologio ragazza",,B0762LCM99,"REN Deal",,3
+"2018-05-16 18:13:35","orologio ragazza",,B016T8CDLA,FORESEEX,,4
+"2018-05-16 18:13:35","orologio ragazza",,B075NYR91T,INWET,,5
+"2018-05-16 18:13:35","orologio ragazza",,B00K523MIA,FORESEEX,,6
+"2018-05-16 18:13:35","orologio ragazza",,B01KXEBF38,INWET,,7
+"2018-05-16 18:14:54","orologio resistente all'acqua",,,,,1
+"2018-05-16 18:13:31","orologio resistente all'acqua",,B00JM8KIU8,FORESEEX,,2
+"2018-05-16 18:13:35","orologio resistente all'acqua",,B00K523MIA,FORESEEX,,3
+"2018-05-16 18:13:35","orologio resistente all'acqua",,B00Z9RXAZ6,FORESEEX,,4
+"2018-05-16 18:12:53","orologio resistente all'acqua",,B071CGG1B5,BUREI,,5
+"2018-05-16 18:13:35","orologio resistente all'acqua",,B014326P2C,FORESEEX,,6
+"2018-05-16 18:13:35","orologio resistente all'acqua",,B078HN8G62,KDM,,7
+"2018-05-16 18:14:54",nespresso,"Capsule compatibili Nespresso®. Qualità italiana.",,"Caffè Carracci",,1
+"2018-05-16 18:13:42",nespresso,,B00SMXJ5FS,"La Compatibile.it",,2
+"2018-05-16 18:13:42",nespresso,,B01N98S9FS,"Caffè Carracci",,3
+"2018-05-16 18:13:42",nespresso,,B01MZFQOIG,"Philips Macchine da caffè Automatiche",,4
+"2018-05-16 18:13:42",nespresso,,B01D4L36NE,"Caffè Vergnano",,5
+"2018-05-16 18:13:42",nespresso,,B01N97DB4W,HiveNets,,6
+"2018-05-16 18:14:54","caffè borbone",,,,,1
+"2018-05-16 18:13:42","caffè borbone",,B07BHM2WCS,"Dolci Aveja",,2
+"2018-05-16 18:13:42","caffè borbone",,B07BHM6MDV,"Dolci Aveja",,3
+"2018-05-16 18:13:42","caffè borbone",,B07BHM34CD,"Dolci Aveja",,4
+"2018-05-16 18:13:42","caffè borbone",,B00MXKBXXS,Gourmesso,,5
+"2018-05-16 18:13:42","caffè borbone",,B07BHM6P96,"Dolci Aveja",,6
+"2018-05-16 18:14:54",lavazza,"Prova le nostre capsule compatibili",,"POP CAFFE'",,1
+"2018-05-16 18:14:54","lavazza a modo mio","Prova le nostre capsule compatibili",,"POP CAFFE'",,1
+"2018-05-16 18:13:55","lavazza a modo mio",,B071Z6P7WB,"Il Caffè Italiano",,2
+"2018-05-16 18:13:55","lavazza a modo mio",,B00VTQVI5K,"La Compatibile.it",,3
+"2018-05-16 18:13:55","lavazza a modo mio",,B073JKRW84,Thun,,4
+"2018-05-16 18:13:55","lavazza a modo mio",,B00LFOR84G,AmbiClean,,5
+"2018-05-16 18:13:59","lavazza a modo mio",,B010RLCH2U,AmazonBasics,,6
+"2018-05-16 18:13:59","lavazza a modo mio",,B01AW9EKEU,Balvi,,7
+"2018-05-16 18:14:54","a modo mio","Prova le nostre capsule compatibili",,"POP CAFFE'",,1
+"2018-05-16 18:13:59","a modo mio",,B07B3SD62F,GATTOPARDO,,2
+"2018-05-16 18:13:59","a modo mio",,B075HHWHHV,GATTOPARDO,,3
+"2018-05-16 18:13:59","a modo mio",,B078LKXQNT,"Caffè Borbone",,4
+"2018-05-16 18:13:59","a modo mio",,B07B3NV279,GATTOPARDO,,5
+"2018-05-16 18:13:59","a modo mio",,B075HH6R89,GATTOPARDO,,6
+"2018-05-16 18:14:58",caffè,"Capsule compatibili Nespresso®. Qualità italiana.",,"Caffè Carracci",,1
+"2018-05-16 18:13:59",caffè,,B0075O4WKS,"Weasel Premium Vietnamese Coffees",,2
+"2018-05-16 18:14:03",caffè,,B06VXSJ45Z,"Caffè Carracci",,3
+"2018-05-16 18:14:03",caffè,,B079Z1983W,Aicok,,4
+"2018-05-16 18:13:42",caffè,,B01MZFQOIG,"Philips Macchine da caffè Automatiche",,5
+"2018-05-16 18:14:03",caffè,,B076BVN7YV,"LIZA LINE",,6
+"2018-05-16 18:14:03",caffè,,B07215M847,"LIZA LINE",,7
+"2018-05-16 18:14:58",espresso,,,,,1
+"2018-05-16 18:14:03",espresso,,B01N5497J9,ZNYSTAR,,2
+"2018-05-16 18:14:03",espresso,,B01N772B6E,ZNYSTAR,,3
+"2018-05-16 18:14:03",espresso,,B01N52PKIK,ZNYSTAR,,4
+"2018-05-16 18:14:03",espresso,,B06XCGH9H2,RECAPS,,5
+"2018-05-16 18:14:03",espresso,,B01MRKPUSE,ZNYSTAR,,6
+"2018-05-16 18:14:07",espresso,,B07B7D9B24,RECAPS,,7
+"2018-05-16 18:14:58","caffè in grani","Nannini Caffè e Pasticceria",,Nannini,,1
+"2018-05-16 18:14:07","caffè in grani",,B079552YN3,CORCOVADO,,2
+"2018-05-16 18:14:07","caffè in grani",,B07954Q989,CORCOVADO,,3
+"2018-05-16 18:14:07","caffè in grani",,B01N1Q5440,Biotiva,,4
+"2018-05-16 18:14:07","caffè in grani",,B01NBZ7DPZ,"San Agustín algunos vicios son inconfesables",,5
+"2018-05-16 18:14:58","caffè lavazza","Prova le nostre capsule compatibili",,"POP CAFFE'",,1
+"2018-05-16 18:14:07","caffè lavazza",,B07CSX4XGG,Torrisi,,2
+"2018-05-16 18:14:07","caffè lavazza",,B00XJK9Z0E,"La Compatibile.it",,3
+"2018-05-16 18:14:07","caffè lavazza",,B01N1Q5440,Biotiva,,4
+"2018-05-16 18:14:11","caffè lavazza",,B0756KVK3S,"Caffè Cremeo",,5
+"2018-05-16 18:14:58","caffè macinato","Capsule compatibili Nespresso®. Qualità italiana.",,"Caffè Carracci",,1
+"2018-05-16 18:14:11","caffè macinato",,B0744QMRWF,Tassimo,,2
+"2018-05-16 18:14:11","caffè macinato",,B00O1XYDU0,,,3
+"2018-05-16 18:14:11","caffè macinato",,B0744QBK9B,Tassimo,,4
+"2018-05-16 18:14:11","caffè macinato",,B078TH1T4V,"Caffè Barbera 1870",,5
+"2018-05-16 18:14:11","caffè macinato",,B0744QSTVT,Tassimo,,6
+"2018-05-16 18:14:11","caffè macinato",,B0744QHWJM,Tassimo,,7
+"2018-05-16 18:14:58","caffè espresso","Capsule compatibili Nespresso®. Qualità italiana.",,"Caffè Carracci",,1
+"2018-05-16 18:14:11","caffè espresso",,B0744QMRWF,Tassimo,,2
+"2018-05-16 18:14:15","caffè espresso",,B004Z0I6QQ,Italcaffè,,3
+"2018-05-16 18:14:15","caffè espresso",,B0798RZR3D,O'ccaffe,,4
+"2018-05-16 18:14:15","caffè espresso",,B01G9BR6QE,"Emily's Coffee",,5
+"2018-05-16 18:14:59","caffè espresso",,B07BJ665H4,"Café Royal",,6
+"2018-05-16 18:14:58","capsule espresso","Capsule compatibili Nespresso®. Qualità italiana.",,"Caffè Carracci",,1
+"2018-05-16 18:14:15","capsule espresso",,B07B27SCY4,"Coffiamo Caffè",,2
+"2018-05-16 18:14:15","capsule espresso",,B013CFXT6Q,Italcaffè,,3
+"2018-05-16 18:14:15","capsule espresso",,B01LBLFNX0,BeShiny,,4
+"2018-05-16 18:14:15","capsule espresso",,B075BCL24Q,Dallmayr,,5
+"2018-05-16 18:14:15","capsule espresso",,B0748MR3TC,Dallmayr,,6
+"2018-05-16 18:14:58","cialde caffè","Capsule compatibili Nespresso®. Qualità italiana.",,"Caffè Carracci",,1
+"2018-05-16 18:14:19","cialde caffè",,B07CTRGPLS,Torrisi,,2
+"2018-05-16 18:14:15","cialde caffè",,B013CFXT6Q,Italcaffè,,3
+"2018-05-16 18:14:19","cialde caffè",,B074DF46V2,,,4
+"2018-05-16 18:14:19","cialde caffè",,B07B66H815,"Caffè Cremeo",,5
+"2018-05-16 18:14:58","capsule lavazza a modo mio","Prova le nostre capsule compatibili",,"POP CAFFE'",,1
+"2018-05-16 18:13:55","capsule lavazza a modo mio",,B071Z6P7WB,"Il Caffè Italiano",,2
+"2018-05-16 18:14:19","capsule lavazza a modo mio",,B07B24CRJM,"Coffiamo Caffè",,3
+"2018-05-16 18:14:19","capsule lavazza a modo mio",,B075NPHPDM,101CAFFE',,4
+"2018-05-16 18:14:19","capsule lavazza a modo mio",,B078Q33N8Y,"DICOSOLACAFFE' S.G.L. VENDING SNC",,5
+"2018-05-16 18:14:19","capsule lavazza a modo mio",,B00XJKA0NU,"La Compatibile.it",,6
+"2018-05-16 18:14:19","capsule lavazza a modo mio",,B00XJK9WYI,"La Compatibile.it",,7
+"2018-05-16 18:14:03","capsule lavazza a modo mio",,B06VXSJ45Z,"Caffè Carracci",,8
+"2018-05-16 18:14:19","capsule lavazza a modo mio",,B00XJK9TDW,"La Compatibile.it",,9
+"2018-05-16 18:15:01",cialde,,,,,1
+"2018-05-16 18:14:23",cialde,,B01N2ZHECG,"Caffè Borbone",,2
+"2018-05-16 18:14:23",cialde,,B01N2ZHKOO,"Caffè Borbone",,3
+"2018-05-16 18:14:23",cialde,,B019S0LVPU,"Il Caffè Italiano",,4
+"2018-05-16 18:14:23",cialde,,B019S0LY16,"Il Caffè Italiano",,5
+"2018-05-16 18:15:01","cialde borbone",,,,,1
+"2018-05-16 18:14:23","cialde borbone",,B079Z74HMK,"Caffè Borbone",,2
+"2018-05-16 18:14:23","cialde borbone",,B01F547A3U,"Caffè Borbone",,3
+"2018-05-16 18:13:42","cialde borbone",,B00MXKBXXS,Gourmesso,,4
+"2018-05-16 18:14:23","cialde borbone",,B077PZHY7R,"caffe' cagliari",,5
+"2018-05-16 18:15:01","cialde lavazza a modo mio","Prova le nostre capsule compatibili",,"POP CAFFE'",,1
+"2018-05-16 18:14:27","cialde lavazza a modo mio",,B0784K9RGH,RossoCrema,,2
+"2018-05-16 18:13:55","cialde lavazza a modo mio",,B071Z6P7WB,"Il Caffè Italiano",,3
+"2018-05-16 18:14:27","cialde lavazza a modo mio",,B071K8XB7G,"Il Caffè Italiano",,4
+"2018-05-16 18:14:27","cialde lavazza a modo mio",,B073Q3S3JX,"Il Caffè Italiano",,5
+"2018-05-16 18:15:01","cialde lavazza","Prova le nostre capsule compatibili",,"POP CAFFE'",,1
+"2018-05-16 18:14:27","cialde lavazza",,B013CONRHI,Italcaffè,,2
+"2018-05-16 18:14:27","cialde lavazza",,B013CNKFTC,Italcaffè,,3
+"2018-05-16 18:14:07","cialde lavazza",,B00XJK9Z0E,"La Compatibile.it",,4
+"2018-05-16 18:14:23","cialde lavazza",,B077PZHY7R,"caffe' cagliari",,5
+"2018-05-16 18:15:01","capsule caffè","Capsule compatibili Nespresso®. Qualità italiana.",,"Caffè Carracci",,1
+"2018-05-16 18:14:27","capsule caffè",,B0105WHU0U,Formafit,,2
+"2018-05-16 18:14:27","capsule caffè",,B079L1STKT,Ukia,,3
+"2018-05-16 18:14:27","capsule caffè",,B0777N6J6W,"Il Caffè Italiano",,4
+"2018-05-16 18:14:34","capsule caffè",,B07CL3972C,,,5
+"2018-05-16 18:15:01","capsule compatibili lavazza a modo mio","Prova le nostre capsule compatibili",,"POP CAFFE'",,1
+"2018-05-16 18:13:55","capsule compatibili lavazza a modo mio",,B071Z6P7WB,"Il Caffè Italiano",,2
+"2018-05-16 18:14:27","capsule compatibili lavazza a modo mio",,B071K8XB7G,"Il Caffè Italiano",,3
+"2018-05-16 18:14:15","capsule compatibili lavazza a modo mio",,B01LBLFNX0,BeShiny,,4
+"2018-05-16 18:14:34","capsule compatibili lavazza a modo mio",,B075LNKH6V,"Il Caffè Italiano",,5
+"2018-05-16 18:15:01","cialde caffè borbone","Prova le nostre capsule compatibili",,"POP CAFFE'",,1
+"2018-05-16 18:13:42","cialde caffè borbone",,B00MXKBXXS,Gourmesso,,2
+"2018-05-16 18:14:23","cialde caffè borbone",,B077PZHY7R,"caffe' cagliari",,3
+"2018-05-16 18:14:34","cialde caffè borbone",,B07B68K93K,"Caffè Cremeo",,4
+"2018-05-16 18:13:55","cialde caffè borbone",,B071Z6P7WB,"Il Caffè Italiano",,5
+"2018-05-16 18:15:01","capsule a modo mio","Prova le nostre capsule compatibili",,"POP CAFFE'",,1
+"2018-05-16 18:13:55","capsule a modo mio",,B071Z6P7WB,"Il Caffè Italiano",,2
+"2018-05-16 18:14:27","capsule a modo mio",,B071K8XB7G,"Il Caffè Italiano",,3
+"2018-05-16 18:14:15","capsule a modo mio",,B01LBLFNX0,BeShiny,,4
+"2018-05-16 18:14:34","capsule a modo mio",,B01LCMKLM6,"Cute Nutrition",,5
+"2018-05-16 18:15:01","caffè cialde","Capsule compatibili Nespresso®. Qualità italiana.",,"Caffè Carracci",,1
+"2018-05-16 18:14:19","caffè cialde",,B074DF46V2,,,2
+"2018-05-16 18:14:19","caffè cialde",,B07B66H815,"Caffè Cremeo",,3
+"2018-05-16 18:14:19","caffè cialde",,B07CTRGPLS,Torrisi,,4
+"2018-05-16 18:14:34","caffè cialde",,B079Y9Z6Y9,"Caffè Cremeo",,5
+"2018-05-16 18:15:01","capsule caffè italy","Capsule compatibili Nespresso®. Qualità italiana.",,"Caffè Carracci",,1
+"2018-05-16 18:14:27","capsule caffè italy",,B0777N6J6W,"Il Caffè Italiano",,2
+"2018-05-16 18:14:34","capsule caffè italy",,B07CL3972C,,,3
+"2018-05-16 18:14:34","capsule caffè italy",,B079MFWZKQ,,,4
+"2018-05-16 18:14:34","capsule caffè italy",,B073Q4HQ7L,"Il Caffè Italiano",,5
+"2018-05-16 18:15:03","capsule caffè borbone","Prova le nostre capsule compatibili",,"POP CAFFE'",,1
+"2018-05-16 18:13:55","capsule caffè borbone",,B071Z6P7WB,"Il Caffè Italiano",,2
+"2018-05-16 18:14:15","capsule caffè borbone",,B01LBLFNX0,BeShiny,,3
+"2018-05-16 18:14:34","capsule caffè borbone",,B01LCMKLM6,"Cute Nutrition",,4
+"2018-05-16 18:13:42","capsule caffè borbone",,B00MXKBXXS,Gourmesso,,5
+"2018-05-16 18:15:03","capsule compatibili nespresso","Prova le nostre capsule compatibili",,"POP CAFFE'",,1
+"2018-05-16 18:14:38","capsule compatibili nespresso",,B075MG62QH,"Caffè H24",,2
+"2018-05-16 18:14:38","capsule compatibili nespresso",,B075BL4KCN,"ITALIAN COFFEE FOR ESPRESSO LOVERS",,3
+"2018-05-16 18:13:42","capsule compatibili nespresso",,B00MXKBXXS,Gourmesso,,4
+"2018-05-16 18:14:38","capsule compatibili nespresso",,B073P872W1,"Il Caffè Italiano",,5
+"2018-05-16 18:14:38","capsule compatibili nespresso",,B073P7FKGS,"Il Caffè Italiano",,6
+"2018-05-16 18:14:38","capsule compatibili nespresso",,B019S0LYFW,"Il Caffè Italiano",,7
+"2018-05-16 18:14:38","capsule compatibili nespresso",,B07BJ5ZDHK,"Cafè Royal",,8
+"2018-05-16 18:14:19","capsule compatibili nespresso",,B00XJKA0NU,"La Compatibile.it",,9
+"2018-05-16 18:15:03","cialde nespresso","Capsule compatibili Nespresso®. Qualità italiana.",,"Caffè Carracci",,1
+"2018-05-16 18:14:38","cialde nespresso",,B01MXXDHW3,"Caffè Carracci",,2
+"2018-05-16 18:14:38","cialde nespresso",,B01H8NOHBY,RECAPS,,3
+"2018-05-16 18:13:42","cialde nespresso",,B01D4L36NE,"Caffè Vergnano",,4
+"2018-05-16 18:14:03","cialde nespresso",,B06VXSJ45Z,"Caffè Carracci",,5
+"2018-05-16 18:14:45","cialde nespresso",,B01N292SLL,Cino,,6
+"2018-05-16 18:14:03","cialde nespresso",,B079Z1983W,Aicok,,7
+"2018-05-16 18:15:03","nespresso capsule","Nannini Caffè e Pasticceria",,Nannini,,1
+"2018-05-16 18:14:38","nespresso capsule",,B019S0LYFW,"Il Caffè Italiano",,2
+"2018-05-16 18:14:45","nespresso capsule",,B01L24MORY,"Café Royal",,3
+"2018-05-16 18:14:03","nespresso capsule",,B079Z1983W,Aicok,,4
+"2018-05-16 18:14:45","nespresso capsule",,B00T4FELUW,"La Compatibile.it",,5
+"2018-05-16 18:13:59","nespresso capsule",,B010RLCH2U,AmazonBasics,,6
+"2018-05-16 18:13:42","nespresso capsule",,B01MZFQOIG,"Philips Macchine da caffè Automatiche",,7
+"2018-05-16 18:15:03","cialde compatibili nespresso","Capsule compatibili Nespresso®. Qualità italiana.",,"Caffè Carracci",,1
+"2018-05-16 18:14:45","cialde compatibili nespresso",,B013CFM0JS,Italcaffè,,2
+"2018-05-16 18:14:15","cialde compatibili nespresso",,B013CFXT6Q,Italcaffè,,3
+"2018-05-16 18:14:38","cialde compatibili nespresso",,B075MG62QH,"Caffè H24",,4
+"2018-05-16 18:13:42","cialde compatibili nespresso",,B00MXKBXXS,Gourmesso,,5
+"2018-05-16 18:15:03","caffè nespresso","Capsule compatibili Nespresso®. Qualità italiana.",,"Caffè Carracci",,1
+"2018-05-16 18:14:45","caffè nespresso",,B079HXBHHY,"Il Caffè Italiano",,2
+"2018-05-16 18:14:45","caffè nespresso",,B0756FRYYM,Myristretto,,3
+"2018-05-16 18:13:42","caffè nespresso",,B00MXKBXXS,Gourmesso,,4
+"2018-05-16 18:13:42","caffè nespresso",,B07BHM6P96,"Dolci Aveja",,5

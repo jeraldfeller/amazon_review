@@ -1,0 +1,573 @@
+time,keyword,message,asin,brand,title,position
+"2018-06-25 05:28:52","nespresso capsules","New Nespresso™ Vertuo. Coffee redefined.",,"Nespresso™ UK",,1
+"2018-06-25 05:28:54","nespresso capsules",,B01D7Z6B8O,Rossomoka,,2
+"2018-06-25 05:28:54","nespresso capsules",,B00O28K9H0,"CRU Kafe",,3
+"2018-06-25 05:28:54","nespresso capsules",,B00IHYCT1Y,L'OR,,4
+"2018-06-25 05:28:54","nespresso capsules",,B00K0NQ8US,Cialdissima,,5
+"2018-06-25 05:28:54","nespresso capsules",,B00IHXQ3L2,L'OR,,6
+"2018-06-25 05:28:54","nespresso capsules",,B00O28K970,"CRU Kafe",,7
+"2018-06-25 05:28:52",coffee,"The greatest pleasure of Nespresso® capsules",,"Viaggio Espresso",,1
+"2018-06-25 05:28:54",coffee,,B0733B51WG,Cafédirect,,2
+"2018-06-25 05:28:54",coffee,,B074VJVKMY,"Taylors of Harrogate",,3
+"2018-06-25 05:28:58",coffee,,B01F8QUYQK,"Taylors of Harrogate",,4
+"2018-06-25 05:28:58",coffee,,B074JBJHJK,"Spiffing Coffee",,5
+"2018-06-25 05:28:58",coffee,,B072JKC162,"Coffee Globetrotter",,6
+"2018-06-25 05:28:58",coffee,,B07DCCN3NP,"Discover Coffee",,7
+"2018-06-25 05:28:58",coffee,,B07DCCZPZR,"Discover Coffee",,8
+"2018-06-25 05:28:58",coffee,,B01LZ8SWP1,Starbucks,,9
+"2018-06-25 05:28:58",coffee,,B01MS3FCZ8,"Viaggio Espresso",,10
+"2018-06-25 05:28:56",starbucks,"Discover the Starbucks range",,Starbucks,,1
+"2018-06-25 05:28:58",starbucks,,B01LZ8SWP1,Starbucks,,2
+"2018-06-25 05:28:58",starbucks,,B077KSJR9Y,Starbucks,,3
+"2018-06-25 05:29:02",starbucks,,B077KQZKD8,Starbucks,,4
+"2018-06-25 05:29:02",starbucks,,B007M8EQ6M,"Taylors of Harrogate",,5
+"2018-06-25 05:29:02",starbucks,,B077KZCKPF,Starbucks,,6
+"2018-06-25 05:29:02",starbucks,,B01LXY47D4,Starbucks,,7
+"2018-06-25 05:29:00",nespresso,"Nespresso™ Coffee Machines - Discover Our Range",,"Nespresso™ UK",,1
+"2018-06-25 05:29:02",nespresso,,B01IHRP8HW,NESPRESSO,,2
+"2018-06-25 05:29:02",nespresso,,B06X9RTZY3,NESPRESSO,,3
+"2018-06-25 05:29:02",nespresso,,B01MZANEBC,NESPRESSO,,4
+"2018-06-25 05:29:02",nespresso,,B01MTQ8Q97,Pressogno,,5
+"2018-06-25 05:29:02",nespresso,,B01IHRPXGS,NESPRESSO,,6
+"2018-06-25 05:29:06",nespresso,,B00IUGBHOE,NESPRESSO,,7
+"2018-06-25 05:29:04",tassimo,"Discover the irresistible taste of L'OR coffee",,Tassimo,,1
+"2018-06-25 05:29:06",tassimo,,B0052TP9ZU,Tassimo,,2
+"2018-06-25 05:29:06",tassimo,,B00DQ8LILS,Tassimo,,3
+"2018-06-25 05:29:06",tassimo,,B007F8TU88,Tassimo,,4
+"2018-06-25 05:29:06",tassimo,,B015FR2SQG,Tassimo,,5
+"2018-06-25 05:29:06",tassimo,,B016DEGFWI,Tassimo,,6
+"2018-06-25 05:29:06",tassimo,,B00JJTG4GC,Tassimo,,7
+"2018-06-25 05:29:04","tassimo pods","Try a variety pack of our most loved hot drinks",,Tassimo,,1
+"2018-06-25 05:29:06","tassimo pods",,B07BHNL9V8,Tassimo,,2
+"2018-06-25 05:29:10","tassimo pods",,B003BZT45I,Tassimo,,3
+"2018-06-25 05:29:10","tassimo pods",,B00J37DSMI,Tassimo,,4
+"2018-06-25 05:29:10","tassimo pods",,B07DNJQNVY,Tassimo,,5
+"2018-06-25 05:29:10","tassimo pods",,B071K8XB7G,"Il Caffè italiano",,6
+"2018-06-25 05:29:10","tassimo pods",,B071K8W9DD,"Il Caffè italiano",,7
+"2018-06-25 05:29:10","tassimo pods",,B008OQBYAC,Tassimo,,8
+"2018-06-25 05:29:10","tassimo pods",,B008OQBXP8,Tassimo,,9
+"2018-06-25 05:29:06","tassimo pods",,B007F8TU88,Tassimo,,10
+"2018-06-25 05:29:08","costa coffee","Enjoy the same authentic taste of a Costa at home",,Tassimo,,1
+"2018-06-25 05:29:10","costa coffee",,B0170ALWUY,"E Bargains UK",,2
+"2018-06-25 05:29:10","costa coffee",,B0090261D4,Fresco,,3
+"2018-06-25 05:29:14","costa coffee",,B01N52S30K,Aicok,,4
+"2018-06-25 05:29:14","costa coffee",,B06Y6D6H34,Pokito,,5
+"2018-06-25 05:29:14","costa coffee",,B0090261ES,Fresco,,6
+"2018-06-25 05:29:14","costa coffee",,B06Y4465TC,SENHAI,,7
+"2018-06-25 05:29:12","dolce gusto","Café Royal. Enjoy our coffee variety.",,"Delica AG",,1
+"2018-06-25 05:29:14","dolce gusto",,B073SCJHF5,"POP CAFFE'",,2
+"2018-06-25 05:29:14","dolce gusto",,B076D43WYP,Lictin,,3
+"2018-06-25 05:29:10","dolce gusto",,B0170ALWUY,"E Bargains UK",,4
+"2018-06-25 05:29:14","dolce gusto",,B010RLCH2U,AmazonBasics,,5
+"2018-06-25 05:29:14","dolce gusto",,B01N9T7P15,"Cooks Professional",,6
+"2018-06-25 05:29:14","dolce gusto",,B075SGV1VD,LIVIVO,,7
+"2018-06-25 05:29:16","dolce gusto pods","Café Royal. Enjoy our coffee variety.",,"Delica AG",,1
+"2018-06-25 05:29:18","dolce gusto pods",,B075GT2BLF,Myristretto,,2
+"2018-06-25 05:29:18","dolce gusto pods",,B074P62TQR,"Café Royal",,3
+"2018-06-25 05:29:14","dolce gusto pods",,B076D43WYP,Lictin,,4
+"2018-06-25 05:29:18","dolce gusto pods",,B074P5XG2F,"Café Royal",,5
+"2018-06-25 05:29:14","dolce gusto pods",,B073SCJHF5,"POP CAFFE'",,6
+"2018-06-25 05:29:18","dolce gusto pods",,B071K8LWXS,"Il Caffè italiano",,7
+"2018-06-25 05:29:16",espresso,"The greatest pleasure of Nespresso® capsules",,"Viaggio Espresso",,1
+"2018-06-25 05:29:18",espresso,,B077QT6X5N,Krups,,2
+"2018-06-25 05:29:18",espresso,,B077Q3X8GD,Krups,,3
+"2018-06-25 05:29:18",espresso,,B00P6B9C1G,Lavazza,,4
+"2018-06-25 05:29:18",espresso,,B00GYYAT70,PureGusto,,5
+"2018-06-25 05:29:22",espresso,,B077PSFGZ6,Krups,,6
+"2018-06-25 05:29:22",espresso,,B077R38Q1Y,Krups,,7
+"2018-06-25 05:29:20","coffee beans",,,,,1
+"2018-06-25 05:29:22","coffee beans",,B00W1R7QPM,"Brown Bear",,2
+"2018-06-25 05:29:22","coffee beans",,B01M1CH6M8,"Gimoka Coffee UK",,3
+"2018-06-25 05:28:58","coffee beans",,B074JBJHJK,"Spiffing Coffee",,4
+"2018-06-25 05:29:22","coffee beans",,B071D45X7G,"BaristaItaliano UK",,5
+"2018-06-25 05:29:22","coffee beans",,B07BR3X3MC,Presto,,6
+"2018-06-25 05:29:22","coffee beans",,B01LEW9HRE,"Good Life Coffee",,7
+"2018-06-25 05:29:22","coffee beans",,B0759J7GF5,UCC,,8
+"2018-06-25 05:29:22","coffee beans",,B00OJ9OBRQ,"Brown Bear",,9
+"2018-06-25 05:29:25","coffee beans",,B079DX48J6,Torrisi,,10
+"2018-06-25 05:29:24","coffee pods","Discover the Starbucks range",,Starbucks,,1
+"2018-06-25 05:28:54","coffee pods",,B00O28K9H0,"CRU Kafe",,2
+"2018-06-25 05:28:54","coffee pods",,B00IHYCT1Y,L'OR,,3
+"2018-06-25 05:28:58","coffee pods",,B077KSJR9Y,Starbucks,,4
+"2018-06-25 05:28:54","coffee pods",,B00IHXQ3L2,L'OR,,5
+"2018-06-25 05:28:54","coffee pods",,B00O28K970,"CRU Kafe",,6
+"2018-06-25 05:28:58","coffee pods",,B01LZ8SWP1,Starbucks,,7
+"2018-06-25 05:29:24","lavazza coffee pod","The greatest pleasure of Nespresso® capsules",,"Viaggio Espresso",,1
+"2018-06-25 05:29:25","lavazza coffee pod",,B00T6M5E4U,cialdissima,,2
+"2018-06-25 05:28:54","lavazza coffee pod",,B00IHYCT1Y,L'OR,,3
+"2018-06-25 05:28:54","lavazza coffee pod",,B00IHXQ3L2,L'OR,,4
+"2018-06-25 05:28:58","lavazza coffee pod",,B01LZ8SWP1,Starbucks,,5
+"2018-06-25 05:29:25","lavazza coffee pod",,B01NCUQHMF,L'OR,,6
+"2018-06-25 05:28:58","lavazza coffee pod",,B077KSJR9Y,Starbucks,,7
+"2018-06-25 05:29:24","ground coffee","The greatest pleasure of Nespresso® capsules",,"Viaggio Espresso",,1
+"2018-06-25 05:29:25","ground coffee",,B0120S5RZC,"Kimera Koffee",,2
+"2018-06-25 05:29:25","ground coffee",,B07DKYVHZS,"Ethical Addictions",,3
+"2018-06-25 05:28:58","ground coffee",,B07DCCN3NP,"Discover Coffee",,4
+"2018-06-25 05:29:22","ground coffee",,B07BR3X3MC,Presto,,5
+"2018-06-25 05:28:54","ground coffee",,B074VJVKMY,"Taylors of Harrogate",,6
+"2018-06-25 05:29:22","ground coffee",,B01LEW9HRE,"Good Life Coffee",,7
+"2018-06-25 05:29:25","ground coffee",,B07DL6C9ML,"Ethical Addictions",,8
+"2018-06-25 05:28:58","ground coffee",,B07DCCZPZR,"Discover Coffee",,9
+"2018-06-25 05:28:54","ground coffee",,B0733B51WG,Cafédirect,,10
+"2018-06-25 05:29:24",lavazza,,,,,1
+"2018-06-25 05:29:28",lavazza,,B0051GN55U,"Taylors of Harrogate",,2
+"2018-06-25 05:29:02",lavazza,,B007M8EQ6M,"Taylors of Harrogate",,3
+"2018-06-25 05:29:28",lavazza,,B01DPSP864,"Nuclear Coffee",,4
+"2018-06-25 05:29:28",lavazza,,B00H2HMSH2,PureGusto,,5
+"2018-06-25 05:29:27","lavazza coffee","The greatest pleasure of Nespresso® capsules",,"Viaggio Espresso",,1
+"2018-06-25 05:29:28","lavazza coffee",,B07CSX4XGG,,,2
+"2018-06-25 05:29:28","lavazza coffee",,B00VTQVXCI,"La Compatibile.it",,3
+"2018-06-25 05:29:02","lavazza coffee",,B077KQZKD8,Starbucks,,4
+"2018-06-25 05:29:02","lavazza coffee",,B077KZCKPF,Starbucks,,5
+"2018-06-25 05:29:28","lavazza coffee",,B075CQKXZB,Myristretto,,6
+"2018-06-25 05:29:28","lavazza coffee",,B00SN1V8VS,"Spiller & Tait",,7
+"2018-06-25 05:29:27","coffee lavazza","The greatest pleasure of Nespresso® capsules",,"Viaggio Espresso",,1
+"2018-06-25 05:29:28","coffee lavazza",,B07CSX4XGG,,,2
+"2018-06-25 05:29:28","coffee lavazza",,B00VTQVXCI,"La Compatibile.it",,3
+"2018-06-25 05:29:32","coffee lavazza",,B0756KRXX5,"BaristaItaliano UK",,4
+"2018-06-25 05:29:02","coffee lavazza",,B077KQZKD8,Starbucks,,5
+"2018-06-25 05:29:02","coffee lavazza",,B077KZCKPF,Starbucks,,6
+"2018-06-25 05:29:28","coffee lavazza",,B075CQKXZB,Myristretto,,7
+"2018-06-25 05:29:31","instant coffee",,,,,1
+"2018-06-25 05:29:31","lavazza coffee beans","The greatest pleasure of Nespresso® capsules",,"Viaggio Espresso",,1
+"2018-06-25 05:29:22","lavazza coffee beans",,B01M1CH6M8,"Gimoka Coffee UK",,2
+"2018-06-25 05:28:58","lavazza coffee beans",,B074JBJHJK,"Spiffing Coffee",,3
+"2018-06-25 05:29:02","lavazza coffee beans",,B077KQZKD8,Starbucks,,4
+"2018-06-25 05:29:32","lavazza coffee beans",,B01M0FEX4U,"Good Life Coffee",,5
+"2018-06-25 05:29:22","lavazza coffee beans",,B00OJ9OBRQ,"Brown Bear",,6
+"2018-06-25 05:29:32","lavazza coffee beans",,B07DCCCSNM,"Discover Coffee",,7
+"2018-06-25 05:29:31","coffee capsule","Discover the Starbucks range",,Starbucks,,1
+"2018-06-25 05:28:58","coffee capsule",,B01MS3FCZ8,"Viaggio Espresso",,2
+"2018-06-25 05:28:54","coffee capsule",,B00IHYCT1Y,L'OR,,3
+"2018-06-25 05:29:32","coffee capsule",,B071VRK528,"Il Caffè italiano",,4
+"2018-06-25 05:29:32","coffee capsule",,B0716ZL29F,"Real Coffee",,5
+"2018-06-25 05:28:54","coffee capsule",,B00IHXQ3L2,L'OR,,6
+"2018-06-25 05:29:32","coffee capsule",,B071LDZBSY,"Il Caffè italiano",,7
+"2018-06-25 05:29:31",illy,"Upgrade to Aromistico, Artisan Coffee Beans",,Aromistico,,1
+"2018-06-25 05:29:34","lavazza capsules",,,,,1
+"2018-06-25 05:29:32","lavazza capsules",,B0756KRXX5,"BaristaItaliano UK",,2
+"2018-06-25 05:29:36","lavazza capsules",,B075XMS3X4,Torrisi,,3
+"2018-06-25 05:28:54","lavazza capsules",,B00IHXQ3L2,L'OR,,4
+"2018-06-25 05:29:36","lavazza capsules",,B00IHXQ1QY,L'OR,,5
+"2018-06-25 05:29:02","lavazza capsules",,B077KQZKD8,Starbucks,,6
+"2018-06-25 05:29:02","lavazza capsules",,B077KZCKPF,Starbucks,,7
+"2018-06-25 05:29:34","lavazza a modo mio",,,,,1
+"2018-06-25 05:29:28","lavazza a modo mio",,B00VTQVXCI,"La Compatibile.it",,2
+"2018-06-25 05:29:36","lavazza a modo mio",,B00ZFW0UXK,Lavazza,,3
+"2018-06-25 05:29:10","lavazza a modo mio",,B0170ALWUY,"E Bargains UK",,4
+"2018-06-25 05:29:36","lavazza a modo mio",,B01AXZD9LS,"Lavazza A Modo Mio",,5
+"2018-06-25 05:29:36","lavazza a modo mio",,B00KJW3M4A,"Lavazza A Modo Mio",,6
+"2018-06-25 05:29:36","lavazza a modo mio",,B01EWWY8T0,"Lavazza A Modo Mio",,7
+"2018-06-25 05:29:34","lavazza pods",,,,,1
+"2018-06-25 05:29:36","lavazza pods",,B00KJW3M4A,"Lavazza A Modo Mio",,2
+"2018-06-25 05:28:54","lavazza pods",,B00IHXQ3L2,L'OR,,3
+"2018-06-25 05:29:32","lavazza pods",,B0756KRXX5,"BaristaItaliano UK",,4
+"2018-06-25 05:29:36","lavazza pods",,B00IHXQ1QY,L'OR,,5
+"2018-06-25 05:29:28","lavazza pods",,B075CQKXZB,Myristretto,,6
+"2018-06-25 05:29:36","lavazza pods",,B075XMS3X4,Torrisi,,7
+"2018-06-25 05:29:38","lavazza ground coffee","The greatest pleasure of Nespresso® capsules",,"Viaggio Espresso",,1
+"2018-06-25 05:29:25","lavazza ground coffee",,B07DL6C9ML,"Ethical Addictions",,2
+"2018-06-25 05:28:58","lavazza ground coffee",,B07DCCN3NP,"Discover Coffee",,3
+"2018-06-25 05:28:54","lavazza ground coffee",,B074VJVKMY,"Taylors of Harrogate",,4
+"2018-06-25 05:28:58","lavazza ground coffee",,B01MS3FCZ8,"Viaggio Espresso",,5
+"2018-06-25 05:29:25","lavazza ground coffee",,B07DKYVHZS,"Ethical Addictions",,6
+"2018-06-25 05:28:58","lavazza ground coffee",,B07DCCZPZR,"Discover Coffee",,7
+"2018-06-25 05:29:38","a modo mio",,,,,1
+"2018-06-25 05:29:32","a modo mio",,B0756KRXX5,"BaristaItaliano UK",,2
+"2018-06-25 05:29:28","a modo mio",,B07CSX4XGG,,,3
+"2018-06-25 05:29:28","a modo mio",,B075CQKXZB,Myristretto,,4
+"2018-06-25 05:29:10","a modo mio",,B071K8XB7G,"Il Caffè italiano",,5
+"2018-06-25 05:29:36","a modo mio",,B075XMS3X4,Torrisi,,6
+"2018-06-25 05:29:10","a modo mio",,B071K8W9DD,"Il Caffè italiano",,7
+"2018-06-25 05:29:38","lavazza instant coffee","Discover the Krups Bean to Cup coffee range",,Krups,,1
+"2018-06-25 05:28:58","lavazza instant coffee",,B077KSJR9Y,Starbucks,,2
+"2018-06-25 05:29:02","lavazza instant coffee",,B077KQZKD8,Starbucks,,3
+"2018-06-25 05:29:40","lavazza instant coffee",,B0040JTLGQ,"PG Tips",,4
+"2018-06-25 05:29:02","lavazza instant coffee",,B077KZCKPF,Starbucks,,5
+"2018-06-25 05:29:40","lavazza instant coffee",,B073VCC227,Alicafe,,6
+"2018-06-25 05:29:40","lavazza instant coffee",,B073TXNZSF,Africafe,,7
+"2018-06-25 05:29:38","coffee machine",,,,,1
+"2018-06-25 05:29:06","coffee machine",,B00IUGBHOE,NESPRESSO,,2
+"2018-06-25 05:29:02","coffee machine",,B06X9RTZY3,NESPRESSO,,3
+"2018-06-25 05:29:40","coffee machine",,B008D5FPJU,NESPRESSO,,4
+"2018-06-25 05:29:40","coffee machine",,B017EOWCH8,Jura,,5
+"2018-06-25 05:29:40","coffee machine",,B071RNP7M3,Sedhoom,,6
+"2018-06-25 05:29:44","coffee machine",,B076QH19Z1,Addis,,7
+"2018-06-25 05:29:44","coffee machine",,B01FWKOGCK,Moccamaster,,8
+"2018-06-25 05:29:44","coffee machine",,B01I75HM9G,Bosch,,9
+"2018-06-25 05:29:02","coffee machine",,B01IHRP8HW,NESPRESSO,,10
+"2018-06-25 05:29:44","coffee machine",,B01N5MGIZG,NESPRESSO,,11
+"2018-06-25 05:29:44","coffee machine",,B01N6EIEOY,NESPRESSO,,12
+"2018-06-25 05:29:44","coffee machine",,B012DK1GDY,Wpro,,13
+"2018-06-25 05:29:42","coffee maker","Nespresso™ Coffee Machines - Discover Our Range",,"Nespresso™ UK",,1
+"2018-06-25 05:29:06","coffee maker",,B00IUGBHOE,NESPRESSO,,2
+"2018-06-25 05:29:02","coffee maker",,B06X9RTZY3,NESPRESSO,,3
+"2018-06-25 05:29:40","coffee maker",,B008D5FPJU,NESPRESSO,,4
+"2018-06-25 05:29:44","coffee maker",,B01JRGC3JI,Viankors,,5
+"2018-06-25 05:29:40","coffee maker",,B071RNP7M3,Sedhoom,,6
+"2018-06-25 05:29:44","coffee maker",,B07BBT2ZNH,Belwares,,7
+"2018-06-25 05:29:44","coffee maker",,B07D28WXZP,AOGETYO,,8
+"2018-06-25 05:29:48","coffee maker",,B079CFGMYX,Youlanda,,9
+"2018-06-25 05:29:02","coffee maker",,B01IHRP8HW,NESPRESSO,,10
+"2018-06-25 05:29:44","coffee maker",,B01N5MGIZG,NESPRESSO,,11
+"2018-06-25 05:29:44","coffee maker",,B01N6EIEOY,NESPRESSO,,12
+"2018-06-25 05:29:48","coffee maker",,B075CQ733D,TDH,,13
+"2018-06-25 05:29:46","milk frother","NEW - Beautifully Crafted Coffee",,Barista&Co,,1
+"2018-06-25 05:29:40","milk frother",,B071RNP7M3,Sedhoom,,2
+"2018-06-25 05:29:48","milk frother",,B07D6KXMF5,HILDA,,3
+"2018-06-25 05:29:48","milk frother",,B076BQW36D,VonShef,,4
+"2018-06-25 05:29:44","milk frother",,B07D28WXZP,AOGETYO,,5
+"2018-06-25 05:29:48","milk frother",,B01LYK30JK,KLAGENA,,6
+"2018-06-25 05:29:48","milk frother",,B078MVFD1G,GOSCIEN,,7
+"2018-06-25 05:29:48","milk frother",,B06Y38964R,Heska,,8
+"2018-06-25 05:29:48","milk frother",,B073D7CWHV,SGCoffee,,9
+"2018-06-25 05:29:48","milk frother",,B07CKVTHDB,Aicok,,10
+"2018-06-25 05:29:51","milk frother",,B07B51DP9N,Heska,,11
+"2018-06-25 05:29:51","milk frother",,B06XXH6Z4D,Aicok,,12
+"2018-06-25 05:29:51","milk frother",,B01M9A7SE4,JoyFork,,13
+"2018-06-25 05:29:50","nespresso machine",,,,,1
+"2018-06-25 05:29:06","nespresso machine",,B00IUGBHOE,NESPRESSO,,2
+"2018-06-25 05:29:02","nespresso machine",,B06X9RTZY3,NESPRESSO,,3
+"2018-06-25 05:29:51","nespresso machine",,B01ISP0KR6,NESPRESSO,,4
+"2018-06-25 05:29:51","nespresso machine",,B07BDFFPJF,Wacaco,,5
+"2018-06-25 05:29:40","nespresso machine",,B071RNP7M3,Sedhoom,,6
+"2018-06-25 05:29:02","nespresso machine",,B01MTQ8Q97,Pressogno,,7
+"2018-06-25 05:29:51","nespresso machine",,B071KTN61F,"THE SUB",,8
+"2018-06-25 05:29:51","nespresso machine",,B01M32KXHV,X-Chef,,9
+"2018-06-25 05:29:02","nespresso machine",,B01IHRP8HW,NESPRESSO,,10
+"2018-06-25 05:29:44","nespresso machine",,B01N6EIEOY,NESPRESSO,,11
+"2018-06-25 05:29:51","nespresso machine",,B004MW56CE,NESPRESSO,,12
+"2018-06-25 05:29:51","nespresso machine",,B06XXH6Z4D,Aicok,,13
+"2018-06-25 05:29:54","espresso machine","Discover the Krups Bean to Cup coffee range",,Krups,,1
+"2018-06-25 05:29:06","espresso machine",,B00IUGBHOE,NESPRESSO,,2
+"2018-06-25 05:29:02","espresso machine",,B06X9RTZY3,NESPRESSO,,3
+"2018-06-25 05:29:40","espresso machine",,B008D5FPJU,NESPRESSO,,4
+"2018-06-25 05:29:51","espresso machine",,B07BDFFPJF,Wacaco,,5
+"2018-06-25 05:29:56","espresso machine",,B00KYRQ6EI,AmbiClean,,6
+"2018-06-25 05:29:56","espresso machine",,B0168KVJD2,FilterLogic,,7
+"2018-06-25 05:29:48","espresso machine",,B079CFGMYX,Youlanda,,8
+"2018-06-25 05:29:56","espresso machine",,B009VWH7P4,Grunwerg,,9
+"2018-06-25 05:29:02","espresso machine",,B01IHRP8HW,NESPRESSO,,10
+"2018-06-25 05:29:44","espresso machine",,B01N5MGIZG,NESPRESSO,,11
+"2018-06-25 05:29:44","espresso machine",,B01N6EIEOY,NESPRESSO,,12
+"2018-06-25 05:29:56","espresso machine",,B06XKR73G3,KINGTOP,,13
+"2018-06-25 05:29:54","tassimo coffee machines",,,,,1
+"2018-06-25 05:29:06","tassimo coffee machines",,B00IUGBHOE,NESPRESSO,,2
+"2018-06-25 05:29:02","tassimo coffee machines",,B06X9RTZY3,NESPRESSO,,3
+"2018-06-25 05:29:02","tassimo coffee machines",,B01IHRPXGS,NESPRESSO,,4
+"2018-06-25 05:29:40","tassimo coffee machines",,B017EOWCH8,Jura,,5
+"2018-06-25 05:29:06","tassimo coffee machines",,B007F8TU88,Tassimo,,6
+"2018-06-25 05:29:06","tassimo coffee machines",,B0052TP9ZU,Tassimo,,7
+"2018-06-25 05:29:06","tassimo coffee machines",,B00DQ8LILS,Tassimo,,8
+"2018-06-25 05:29:56","tassimo coffee machines",,B01FWKOG6G,Moccamaster,,9
+"2018-06-25 05:29:02","tassimo coffee machines",,B01IHRP8HW,NESPRESSO,,10
+"2018-06-25 05:29:44","tassimo coffee machines",,B01N5MGIZG,NESPRESSO,,11
+"2018-06-25 05:29:44","tassimo coffee machines",,B01N6EIEOY,NESPRESSO,,12
+"2018-06-25 05:29:44","tassimo coffee machines",,B01FWKOGCK,Moccamaster,,13
+"2018-06-25 05:29:54","dolce gusto coffee machines","Experience luxury coffee at the touch of a button",,"Jura Products Ltd UK",,1
+"2018-06-25 05:29:14","dolce gusto coffee machines",,B010RLCH2U,AmazonBasics,,2
+"2018-06-25 05:29:56","dolce gusto coffee machines",,B01K86JGOQ,"MGGI Trading",,3
+"2018-06-25 05:29:56","dolce gusto coffee machines",,B072Q5H75W,Lictin,,4
+"2018-06-25 05:29:14","dolce gusto coffee machines",,B076D43WYP,Lictin,,5
+"2018-06-25 05:29:14","dolce gusto coffee machines",,B01N9T7P15,"Cooks Professional",,6
+"2018-06-25 05:29:59","dolce gusto coffee machines",,B071GPRBK4,"Drink Boutique",,7
+"2018-06-25 05:29:58","coffee pod machines","Nespresso™ Coffee Machines - Discover Our Range",,"Nespresso™ UK",,1
+"2018-06-25 05:29:02","coffee pod machines",,B01IHRPXGS,NESPRESSO,,2
+"2018-06-25 05:29:06","coffee pod machines",,B00IUGBHOE,NESPRESSO,,3
+"2018-06-25 05:29:40","coffee pod machines",,B017EOWCH8,Jura,,4
+"2018-06-25 05:29:02","coffee pod machines",,B06X9RTZY3,NESPRESSO,,5
+"2018-06-25 05:29:02","coffee pod machines",,B01IHRP8HW,NESPRESSO,,6
+"2018-06-25 05:29:59","coffee pod machines",,B01IHRLQQO,NESPRESSO,,7
+"2018-06-25 05:29:58","lavazza coffee machine","The greatest pleasure of Nespresso® capsules",,"Viaggio Espresso",,1
+"2018-06-25 05:29:06","lavazza coffee machine",,B00IUGBHOE,NESPRESSO,,2
+"2018-06-25 05:29:02","lavazza coffee machine",,B01MZANEBC,NESPRESSO,,3
+"2018-06-25 05:29:02","lavazza coffee machine",,B01IHRPXGS,NESPRESSO,,4
+"2018-06-25 05:29:40","lavazza coffee machine",,B017EOWCH8,Jura,,5
+"2018-06-25 05:29:02","lavazza coffee machine",,B06X9RTZY3,NESPRESSO,,6
+"2018-06-25 05:29:02","lavazza coffee machine",,B01IHRP8HW,NESPRESSO,,7
+"2018-06-25 05:29:58","coffee machine espresso","Nespresso™ Coffee Machines - Discover Our Range",,"Nespresso™ UK",,1
+"2018-06-25 05:29:59","coffee machine espresso",,B0797T2FYL,Wacaco,,2
+"2018-06-25 05:29:02","coffee machine espresso",,B01IHRPXGS,NESPRESSO,,3
+"2018-06-25 05:29:06","coffee machine espresso",,B00IUGBHOE,NESPRESSO,,4
+"2018-06-25 05:29:02","coffee machine espresso",,B06X9RTZY3,NESPRESSO,,5
+"2018-06-25 05:29:40","coffee machine espresso",,B017EOWCH8,Jura,,6
+"2018-06-25 05:29:02","coffee machine espresso",,B01IHRP8HW,NESPRESSO,,7
+"2018-06-25 05:29:58","nespresso milk frother","Nespresso™ Coffee Machines - Discover Our Range",,"Nespresso™ UK",,1
+"2018-06-25 05:29:02","nespresso milk frother",,B01IHRPXGS,NESPRESSO,,2
+"2018-06-25 05:29:06","nespresso milk frother",,B00IUGBHOE,NESPRESSO,,3
+"2018-06-25 05:29:40","nespresso milk frother",,B071RNP7M3,Sedhoom,,4
+"2018-06-25 05:29:02","nespresso milk frother",,B06X9RTZY3,NESPRESSO,,5
+"2018-06-25 05:29:02","nespresso milk frother",,B01IHRP8HW,NESPRESSO,,6
+"2018-06-25 05:29:59","nespresso milk frother",,B01NGTI2JU,NESPRESSO,,7
+"2018-06-25 05:29:58","milk frother electric","NEW - Beautifully Crafted Coffee",,Barista&Co,,1
+"2018-06-25 05:29:40","milk frother electric",,B071RNP7M3,Sedhoom,,2
+"2018-06-25 05:29:48","milk frother electric",,B07D6KXMF5,HILDA,,3
+"2018-06-25 05:29:48","milk frother electric",,B06Y38964R,Heska,,4
+"2018-06-25 05:29:44","milk frother electric",,B07D28WXZP,AOGETYO,,5
+"2018-06-25 05:29:48","milk frother electric",,B078MVFD1G,GOSCIEN,,6
+"2018-06-25 05:29:48","milk frother electric",,B076BQW36D,VonShef,,7
+"2018-06-25 05:29:48","milk frother electric",,B07CKVTHDB,Aicok,,8
+"2018-06-25 05:29:51","milk frother electric",,B07B51DP9N,Heska,,9
+"2018-06-25 05:29:51","milk frother electric",,B06XXH6Z4D,Aicok,,10
+"2018-06-25 05:29:59","milk frother electric",,B075QC8M73,H-Min,,11
+"2018-06-25 05:30:04","milk frother electric",,B07BSBYGWD,JoyFork,,12
+"2018-06-25 05:30:04","milk frother electric",,B07D47BYLV,STAVERTON,,13
+"2018-06-25 05:30:02","coffee machine with milk frother","Nespresso™ Coffee Machines - Discover Our Range",,"Nespresso™ UK",,1
+"2018-06-25 05:29:02","coffee machine with milk frother",,B06X9RTZY3,NESPRESSO,,2
+"2018-06-25 05:29:06","coffee machine with milk frother",,B00IUGBHOE,NESPRESSO,,3
+"2018-06-25 05:29:02","coffee machine with milk frother",,B01IHRPXGS,NESPRESSO,,4
+"2018-06-25 05:29:40","coffee machine with milk frother",,B017EOWCH8,Jura,,5
+"2018-06-25 05:29:02","coffee machine with milk frother",,B01IHRP8HW,NESPRESSO,,6
+"2018-06-25 05:29:51","coffee machine with milk frother",,B004MW56CE,NESPRESSO,,7
+"2018-06-25 05:30:02","lavazza milk frother","Choose your perfect milk frother",,Ventuci,,1
+"2018-06-25 05:30:04","lavazza milk frother",,B077BPLTP3,Oypla,,2
+"2018-06-25 05:29:48","lavazza milk frother",,B076BQW36D,VonShef,,3
+"2018-06-25 05:29:48","lavazza milk frother",,B06Y38964R,Heska,,4
+"2018-06-25 05:29:48","lavazza milk frother",,B07CKVTHDB,Aicok,,5
+"2018-06-25 05:29:51","lavazza milk frother",,B06XXH6Z4D,Aicok,,6
+"2018-06-25 05:29:51","lavazza milk frother",,B07B51DP9N,Heska,,7
+"2018-06-25 05:30:02","lavazza espresso machine","New Nespresso™ Vertuo. Coffee redefined.",,"Nespresso™ UK",,1
+"2018-06-25 05:30:04","lavazza espresso machine",,B01AXZDLFW,"Lavazza A Modo Mio",,2
+"2018-06-25 05:29:36","lavazza espresso machine",,B01AXZD9LS,"Lavazza A Modo Mio",,3
+"2018-06-25 05:28:58","lavazza espresso machine",,B01MS3FCZ8,"Viaggio Espresso",,4
+"2018-06-25 05:30:04","lavazza espresso machine",,B073JXNC7N,Aromapass,,5
+"2018-06-25 05:30:04","lavazza espresso machine",,B077GXSM22,Sacred,,6
+"2018-06-25 05:30:04","lavazza espresso machine",,B074VJVZX7,"Taylors of Harrogate",,7
+"2018-06-25 05:30:07","lavazza a modo mio coffee machine","Experience luxury coffee at the touch of a button",,"Jura Products Ltd UK",,1
+"2018-06-25 05:29:06","lavazza a modo mio coffee machine",,B00IUGBHOE,NESPRESSO,,2
+"2018-06-25 05:29:02","lavazza a modo mio coffee machine",,B01MZANEBC,NESPRESSO,,3
+"2018-06-25 05:30:08","lavazza a modo mio coffee machine",,B00T4GWD7E,NESPRESSO,,4
+"2018-06-25 05:29:48","lavazza a modo mio coffee machine",,B079CFGMYX,Youlanda,,5
+"2018-06-25 05:30:08","lavazza a modo mio coffee machine",,B01N6RT3HI,NESPRESSO,,6
+"2018-06-25 05:29:28","lavazza a modo mio coffee machine",,B00VTQVXCI,"La Compatibile.it",,7
+"2018-06-25 05:30:07","watch men","AGENT X. Mission Accomplished.",,"AGENT X",,1
+"2018-06-25 05:30:07",watch,,,,,1
+"2018-06-25 05:30:07","watch ladies","Polar M430 Running Watch with advanced features.",,"Polar ",,1
+"2018-06-25 05:30:07","watch womens","Find Your Fit",,Fitbit,,1
+"2018-06-25 05:30:07","watch casio","Toughest watch of all time",,G-SHOCK,,1
+"2018-06-25 05:30:08","watch casio",,B0786QLW88,Casio,,2
+"2018-06-25 05:30:08","watch casio",,B0781Z7XZS,Casio,,3
+"2018-06-25 05:30:12","watch casio",,B079DH1K23,Casio,,4
+"2018-06-25 05:30:12","watch casio",,B0055BWXF4,Fossil,,5
+"2018-06-25 05:30:12","watch casio",,B0781VC5JQ,Casio,,6
+"2018-06-25 05:30:12","watch casio",,B00JOB76OY,Casio,,7
+"2018-06-25 05:30:10",fossil,"When design meets technology",,Fossil,,1
+"2018-06-25 05:30:12",fossil,,B0160JBS5K,"National Geographic",,2
+"2018-06-25 05:30:12",fossil,,9980453931,ukge,,3
+"2018-06-25 05:30:12",fossil,,9980451343,CK,,4
+"2018-06-25 05:30:12",fossil,,B01DBR3I5W,"Junior Geo",,5
+"2018-06-25 05:30:12",fossil,,B01B6XOZS2,Ammonite,,6
+"2018-06-25 05:30:16",fossil,,B00TH7G4RK,CK,,7
+"2018-06-25 05:30:14","daniel wellington",,,,,1
+"2018-06-25 05:30:16","daniel wellington",,B01GYKVEPY,GEMONY,,2
+"2018-06-25 05:30:16","daniel wellington",,B01GYHNV80,GEMONY,,3
+"2018-06-25 05:30:16","daniel wellington",,B01EIN568K,"Archer Watch Straps",,4
+"2018-06-25 05:30:16","daniel wellington",,B01LT7XT0A,TStrap,,5
+"2018-06-25 05:30:16","daniel wellington",,B079MCZ5PW,MEGALITH,,6
+"2018-06-25 05:30:16","daniel wellington",,B01GYKVHIS,GEMONY,,7
+"2018-06-25 05:30:14","watch for boys",,,,,1
+"2018-06-25 05:30:16","watch for boys",,B0772L374H,VenSten,,2
+"2018-06-25 05:30:20","watch for boys",,B01I3I9IMQ,TOPCABIN,,3
+"2018-06-25 05:30:20","watch for boys",,B0774LHDJT,VenSten,,4
+"2018-06-25 05:30:20","watch for boys",,B072JC5M94,VenSten,,5
+"2018-06-25 05:30:20","watch for boys",,B07CKGKLSH,Utimers,,6
+"2018-06-25 05:30:20","watch for boys",,B01IEN9LSG,Timex,,7
+"2018-06-25 05:30:18","watch for girl",,,,,1
+"2018-06-25 05:30:20","watch for girl",,B0772GW473,VenSten,,2
+"2018-06-25 05:30:20","watch for girl",,B01LWWUR2V,"Jo for Girls",,3
+"2018-06-25 05:30:20","watch for girl",,B0772TZND1,VenSten,,4
+"2018-06-25 05:30:20","watch for girl",,B0772K2K9Z,VenSten,,5
+"2018-06-25 05:30:23","watch for girl",,B07CM747FH,AIKURIO,,6
+"2018-06-25 05:30:24","watch for girl",,B019IBV55U,Zeiger,,7
+"2018-06-25 05:30:22",swatch,,,,,1
+"2018-06-25 05:30:22",tissot,,,,,1
+"2018-06-25 05:30:22","ice watch","KRONABY Connected. Not Distracted",,Kronaby,,1
+"2018-06-25 05:30:22","watch waterproof","Polar M430 Running Watch with advanced features.",,"Polar ",,1
+"2018-06-25 05:30:24","watch waterproof",,B0778DHR3X,VenSten,,2
+"2018-06-25 05:30:24","watch waterproof",,B07BPHBC5K,Yomei,,3
+"2018-06-25 05:30:24","watch waterproof",,B006E4IQ8O,Fossil,,4
+"2018-06-25 05:30:24","watch waterproof",,B00O13IJ82,Skagen,,5
+"2018-06-25 05:30:26","automatic watch","Axis Watch Winders - Back In Black",,"Axis Watches",,1
+"2018-06-25 05:30:27","automatic watch",,B01F54QZZ4,Forsining,,2
+"2018-06-25 05:30:27","automatic watch",,B005FEY412,Casio,,3
+"2018-06-25 05:30:27","automatic watch",,B000HZX8UM,Timex,,4
+"2018-06-25 05:30:27","automatic watch",,B000JQJS6M,Invicta,,5
+"2018-06-25 05:30:24","automatic watch",,B006E4IQ8O,Fossil,,6
+"2018-06-25 05:30:27","automatic watch",,B016DTHWUM,Fossil,,7
+"2018-06-25 05:30:27","automatic watch",,B00TSR2BDA,Fossil,,8
+"2018-06-25 05:30:27","automatic watch",,B0009P672Q,Invicta,,9
+"2018-06-25 05:30:26","watch leather strap","Leather Watch Strap",,iStrap,,1
+"2018-06-25 05:30:26","superdry watch","KRONABY Connected. Not Distracted",,Kronaby,,1
+"2018-06-25 05:30:32","superdry watch",,B0796B8WP2,AIKURIO,,2
+"2018-06-25 05:30:32","superdry watch",,B01JJ6WM7O,"Barton Watch Bands",,3
+"2018-06-25 05:30:32","superdry watch",,B073FCVK4K,,,4
+"2018-06-25 05:30:32","superdry watch",,B073GGV4N3,ALPS,,5
+"2018-06-25 05:30:32","superdry watch",,B07BJ64DHB,KDM,,6
+"2018-06-25 05:30:32","superdry watch",,B075D99NDC,BIDEN,,7
+"2018-06-25 05:30:32","superdry watch",,B0787SMLG5,XREXS,,8
+"2018-06-25 05:30:32","superdry watch",,B01MXQCH22,CIVO,,9
+"2018-06-25 05:30:32","superdry watch",,B06Y2ZD2CD,FIZILI,,10
+"2018-06-25 05:30:32","superdry watch",,B01ASOG8TY,"Barton Watch Bands",,11
+"2018-06-25 05:30:36","superdry watch",,B07B54JQ83,Benyar,,12
+"2018-06-25 05:30:36","superdry watch",,B076M5ZKVL,Denvosi,,13
+"2018-06-25 05:30:34","watch quartz","KRONABY Connected. Not Distracted",,Kronaby,,1
+"2018-06-25 05:30:34","breil watch","KRONABY Connected. Not Distracted",,Kronaby,,1
+"2018-06-25 05:30:36","breil watch",,B005UZN4QC,Breil,,2
+"2018-06-25 05:30:36","breil watch",,B0796W35PM,Breil,,3
+"2018-06-25 05:30:36","breil watch",,B077Q5CHC3,"ASWAN Watch",,4
+"2018-06-25 05:30:36","breil watch",,B079H4VSD1,LIGE,,5
+"2018-06-25 05:30:36","breil watch",,B01N9THGHI,Breil,,6
+"2018-06-25 05:30:36","breil watch",,B00N8SPGPK,Breil,,7
+"2018-06-25 05:30:38",breil,,,,,1
+"2018-06-25 05:30:40",breil,,B008BHA49Q,Breil,,2
+"2018-06-25 05:30:40",breil,,B007TK679W,Breil,,3
+"2018-06-25 05:30:38","hip hop watch",,,,,1
+"2018-06-25 05:30:40","hip hop watch",,B01ALKI0H8,JewelryWe,,2
+"2018-06-25 05:30:40","hip hop watch",,B073SWLTFH,VICVIO,,3
+"2018-06-25 05:30:40","hip hop watch",,B0764G8SG4,"Bling Bling Online",,4
+"2018-06-25 05:30:40","hip hop watch",,B0763R88ML,"Bling Bling Online",,5
+"2018-06-25 05:30:40","hip hop watch",,B0763QW5DZ,"Bling Bling Online",,6
+"2018-06-25 05:30:40","hip hop watch",,B00ALZH8JU,.iced-out.,,7
+"2018-06-25 05:30:42","teeth whitener","Buy 100% Natural Teeth Whitening Powder That Works",,PROCOAL,,1
+"2018-06-25 05:30:44","teeth whitener",,B07DRK4X3F,"Amour Noir",,2
+"2018-06-25 05:30:44","teeth whitener",,B071WSQ67M,"PURE T SMILE",,3
+"2018-06-25 05:30:44","teeth whitener",,B06XVFQ956,"PURE T SMILE",,4
+"2018-06-25 05:30:44","teeth whitener",,B0784SF7VB,Colgate,,5
+"2018-06-25 05:30:44","teeth whitener",,B07845W3GT,OALEN,,6
+"2018-06-25 05:30:44","teeth whitener",,B076WTH7G4,morpilot,,7
+"2018-06-25 05:30:44","teeth whitener",,B012CWAL4I,"RAY OF SMILE",,8
+"2018-06-25 05:30:44","teeth whitener",,B01LYD4W8J,BrightWhiteSmiles,,9
+"2018-06-25 05:30:44","teeth whitener",,B07538S9BF,SWIFTWHITE,,10
+"2018-06-25 05:31:00","teeth whitening kit","Teeth whitening strips. Whiter smile from 1st use.",,Swiftwhite,,1
+"2018-06-25 05:31:00",toothpaste,"Unlock the power of your smile",,Colgate,,1
+"2018-06-25 05:31:02",toothpaste,,B00GJU0FG4,OraMD,,2
+"2018-06-25 05:31:02",toothpaste,,B01G6RV69O,FrezyDerm,,3
+"2018-06-25 05:31:02",toothpaste,,B0794W8SPD,"Mgp Bion Organic Herb Company Ltd",,4
+"2018-06-25 05:43:30",toothpaste,,B000KU94IE,,,5
+"2018-06-25 05:31:02",toothpaste,,B074MZL87M,Sensodyne,,6
+"2018-06-25 05:31:02",toothpaste,,B01CWYERWI,"Himalaya Botanique",,7
+"2018-06-25 05:43:26",toothpaste,,B004RSUPUG,,,8
+"2018-06-25 05:31:02",toothpaste,,B00FLYV01S,OraMD,,9
+"2018-06-25 05:42:16",toothpaste,,B01N6ZH1A4,"Arm & Hammer",,10
+"2018-06-25 05:42:13","teeth whitening strips","Teeth whitening strips. Whiter smile from 1st use.",,Swiftwhite,,1
+"2018-06-25 05:42:16","teeth whitening strips",,B076F98R6P,Woya,,2
+"2018-06-25 05:30:44","teeth whitening strips",,B07538S9BF,SWIFTWHITE,,3
+"2018-06-25 05:30:44","teeth whitening strips",,B06XVFQ956,"PURE T SMILE",,4
+"2018-06-25 05:30:44","teeth whitening strips",,B012CWAL4I,"RAY OF SMILE",,5
+"2018-06-25 05:42:16","teeth whitening strips",,B07DSR1MYX,"Luxe Teeth Whitening",,6
+"2018-06-25 05:42:16","teeth whitening strips",,B07DDG56CD,LDREAMAM,,7
+"2018-06-25 05:42:16","teeth whitening strips",,B01M6CR0VW,"Hunter and Finch",,8
+"2018-06-25 05:42:16","teeth whitening strips",,B074M8P3FG,"RAY OF SMILE",,9
+"2018-06-25 05:42:16","teeth whitening strips",,B075KFVB8W,Smile:Now,,10
+"2018-06-25 05:42:17","teeth whitening gel","KAV PLUS",,"KAV PLUS",,1
+"2018-06-25 05:30:44","teeth whitening gel",,B01LYD4W8J,BrightWhiteSmiles,,2
+"2018-06-25 05:42:19","teeth whitening gel",,B012IFADGU,"KAV PLUS",,3
+"2018-06-25 05:42:19","teeth whitening gel",,B0721BN2CY,HARVEY&COCO,,4
+"2018-06-25 05:42:19","teeth whitening gel",,B0798VWZRY,"The Bamboo Factory",,5
+"2018-06-25 05:42:19","teeth whitening gel",,B079QZRCK2,Waterpik,,6
+"2018-06-25 05:42:19","teeth whitening gel",,B01N34KSKC,Waterpik,,7
+"2018-06-25 05:42:17","whitening toothpaste","Charcoal Teeth Whitening  Visible Results in Days",,JoLee,,1
+"2018-06-25 05:42:19","whitening toothpaste",,B078NGF9RW,Coalnaturel,,2
+"2018-06-25 05:30:44","whitening toothpaste",,B06XVFQ956,"PURE T SMILE",,3
+"2018-06-25 05:43:21","whitening toothpaste",,B000KU94IE,,,4
+"2018-06-25 05:30:44","whitening toothpaste",,B0784SF7VB,Colgate,,5
+"2018-06-25 05:30:44","whitening toothpaste",,B07845W3GT,OALEN,,6
+"2018-06-25 05:30:44","whitening toothpaste",,B01LYD4W8J,BrightWhiteSmiles,,7
+"2018-06-25 05:42:22","teeth whitening pen","100% Natural Teeth Whitening Powder That Works",,PROCOAL,,1
+"2018-06-25 05:42:19","teeth whitening pen",,B0798VWZRY,"The Bamboo Factory",,2
+"2018-06-25 05:42:19","teeth whitening pen",,B079QZRCK2,Waterpik,,3
+"2018-06-25 05:30:44","teeth whitening pen",,B0784SF7VB,Colgate,,4
+"2018-06-25 05:42:19","teeth whitening pen",,B01N34KSKC,Waterpik,,5
+"2018-06-25 05:42:24","teeth whitening pen",,B0725VRJ6J,Waterpik,,6
+"2018-06-25 05:42:24","teeth whitening pen",,B06WVMX5G6,Briyte,,7
+"2018-06-25 05:42:22","teeth whitening toothpaste","100% Natural Teeth Whitening Powder That Works",,PROCOAL,,1
+"2018-06-25 05:42:24","teeth whitening toothpaste",,B071X6SDTC,"Coal Collective",,2
+"2018-06-25 05:42:19","teeth whitening toothpaste",,B0798VWZRY,"The Bamboo Factory",,3
+"2018-06-25 05:43:18","teeth whitening toothpaste",,B000KU94IE,,,4
+"2018-06-25 05:42:19","teeth whitening toothpaste",,B079QZRCK2,Waterpik,,5
+"2018-06-25 05:42:19","teeth whitening toothpaste",,B01N34KSKC,Waterpik,,6
+"2018-06-25 05:30:44","teeth whitening toothpaste",,B06XVFQ956,"PURE T SMILE",,7
+"2018-06-25 05:42:22","colgate max white","Unlock the power of your smile",,Colgate,,1
+"2018-06-25 05:30:44","colgate max white",,B0784SF7VB,Colgate,,2
+"2018-06-25 05:42:27","colgate max white",,B0784S15MJ,Colgate,,3
+"2018-06-25 05:42:27","colgate max white",,B00KQHE9B8,Colgate,,4
+"2018-06-25 05:42:27","colgate max white",,B077KLRM4K,JAWINKI,,5
+"2018-06-25 05:42:27","colgate max white",,B00AI0K8UE,Listerine,,6
+"2018-06-25 05:42:27","colgate max white",,B079TTM58J,Colgate,,7
+"2018-06-25 05:42:26","oral b 3d white",,,,,1
+"2018-06-25 05:42:32","oral b 3d white",,B06X963ZM3,Oral-B,,2
+"2018-06-25 05:42:32","oral b 3d white",,B072DTPBHF,Oral-B,,3
+"2018-06-25 05:30:44","oral b 3d white",,B0784SF7VB,Colgate,,4
+"2018-06-25 05:42:32","oral b 3d white",,B07D29RDJ3,QLEBAO,,5
+"2018-06-25 05:42:32","oral b 3d white",,B01DY36X6Y,Oral-B,,6
+"2018-06-25 05:42:32","oral b 3d white",,B0759N6YPJ,Oral-B,,7
+"2018-06-25 05:42:30","mr blanc","Bamboo Charcoal Whitening Polish",,"Mr. Blanc Teeth",,1
+"2018-06-25 05:42:36","mr blanc",,B01M24PTPI,,,2
+"2018-06-25 05:42:36","mr blanc",,B07BGQTLTW,"Mr. Blanc Teeth",,3
+"2018-06-25 05:30:44","mr blanc",,B07538S9BF,SWIFTWHITE,,4
+"2018-06-25 05:42:36","mr blanc",,B071JMD547,Groomarang,,5
+"2018-06-25 05:42:36","mr blanc",,B00RANT18W,"Just Pure Hut",,6
+"2018-06-25 05:42:36","mr blanc",,B01JGFY9D8,PROCOAL,,7
+"2018-06-25 05:42:34","arm and hammer toothpaste",,,,,1
+"2018-06-25 05:42:16","arm and hammer toothpaste",,B01N6ZH1A4,"Arm & Hammer",,2
+"2018-06-25 05:42:41","arm and hammer toothpaste",,B0051G4DY2,Sensodyne,,3
+"2018-06-25 05:42:41","arm and hammer toothpaste",,B008MKD5X4,Sensodyne,,4
+"2018-06-25 05:42:41","arm and hammer toothpaste",,B019DYT6DA,Omron,,5
+"2018-06-25 05:42:36","arm and hammer toothpaste",,B00RANT18W,"Just Pure Hut",,6
+"2018-06-25 05:42:41","arm and hammer toothpaste",,B07CCJNNWJ,"Arm & Hammer",,7
+"2018-06-25 05:42:39","pearl drops",,,,,1
+"2018-06-25 05:42:41","pearl drops",,B0050HWA92,"Pearl Drops",,2
+"2018-06-25 05:42:45","pearl drops",,B01BMLGWNY,"Pearl Drops",,3
+"2018-06-25 05:42:19","pearl drops",,B0721BN2CY,HARVEY&COCO,,4
+"2018-06-25 05:42:45","pearl drops",,B00I98AFI2,"Pearl Drops",,5
+"2018-06-25 05:42:45","pearl drops",,B00I98A85M,"Pearl Drops",,6
+"2018-06-25 05:42:45","pearl drops",,B078JPDSLY,JoLee,,7
+"2018-06-25 05:42:43",whitening,,,,,1
+"2018-06-25 05:31:02",whitening,,B01CWYERWI,"Himalaya Botanique",,2
+"2018-06-25 05:42:45",whitening,,B075RCFVNC,Nano,,3
+"2018-06-25 05:42:49",whitening,,B072YWDB5S,Briyte,,4
+"2018-06-25 05:42:49",whitening,,B00755O9ZA,"Himalaya Botanique",,5
+"2018-06-25 05:42:49",whitening,,B07C5MPCWD,"ZANE HELLAS",,6
+"2018-06-25 05:42:49",whitening,,B00PHDSFSO,OrganiFade,,7
+"2018-06-25 05:42:47","toothpaste janina","Unlock the power of your smile",,Colgate,,1
+"2018-06-25 05:30:44","toothpaste janina",,B07538S9BF,SWIFTWHITE,,2
+"2018-06-25 05:42:36","toothpaste janina",,B01JGFY9D8,PROCOAL,,3
+"2018-06-25 05:42:49","toothpaste janina",,B06WRS71N8,"Cali White",,4
+"2018-06-25 05:42:52","toothpaste janina",,B006WOKJ1S,Janina,,5
+"2018-06-25 05:42:50","blanx toothpaste","Unlock the power of your smile",,Colgate,,1
+"2018-06-25 05:42:19","blanx toothpaste",,B0721BN2CY,HARVEY&COCO,,2
+"2018-06-25 05:30:44","blanx toothpaste",,B0784SF7VB,Colgate,,3
+"2018-06-25 05:42:27","blanx toothpaste",,B00KQHE9B8,Colgate,,4
+"2018-06-25 05:42:52","blanx toothpaste",,B0793JQPCR,APATITE,,5
+"2018-06-25 05:42:49","blanx toothpaste",,B072YWDB5S,Briyte,,6
+"2018-06-25 05:42:52","blanx toothpaste",,B07BPPC6JV,"Beauty Loverzz",,7
+"2018-06-25 05:42:50","blanx white shock",,,,,1
+"2018-06-25 05:42:52","blanx white shock",,B018OSH372,Coswell,,2
+"2018-06-25 05:42:19","blanx white shock",,B0721BN2CY,HARVEY&COCO,,3
+"2018-06-25 05:42:49","blanx white shock",,B072YWDB5S,Briyte,,4
+"2018-06-25 05:30:44","blanx white shock",,B07538S9BF,SWIFTWHITE,,5
+"2018-06-25 05:42:58","blanx white shock",,B01B16K4IO,BlanX,,6
+"2018-06-25 05:42:58","blanx white shock",,B001AVY63U,BlanX,,7
+"2018-06-25 05:42:57",blanx,,,,,1
+"2018-06-25 05:42:19",blanx,,B0721BN2CY,HARVEY&COCO,,2
+"2018-06-25 05:42:57","teeth whitening light","KAV PLUS",,"KAV PLUS",,1
+"2018-06-25 05:42:19","teeth whitening light",,B012IFADGU,"KAV PLUS",,2
+"2018-06-25 05:42:19","teeth whitening light",,B0798VWZRY,"The Bamboo Factory",,3
+"2018-06-25 05:42:19","teeth whitening light",,B079QZRCK2,Waterpik,,4
+"2018-06-25 05:30:44","teeth whitening light",,B06XVFQ956,"PURE T SMILE",,5
+"2018-06-25 05:42:19","teeth whitening light",,B01N34KSKC,Waterpik,,6
+"2018-06-25 05:42:16","teeth whitening light",,B074M8P3FG,"RAY OF SMILE",,7
+"2018-06-25 05:42:57","toothpaste smokers","Unlock the power of your smile",,Colgate,,1
+"2018-06-25 05:42:58","toothpaste smokers",,B0751D2M3B,SEAGO,,2
+"2018-06-25 05:43:03","toothpaste smokers",,B072LF2356,"Cali White",,3
+"2018-06-25 05:42:41","toothpaste smokers",,B0050HWA92,"Pearl Drops",,4
+"2018-06-25 05:42:27","toothpaste smokers",,B00AI0K8UE,Listerine,,5
+"2018-06-25 05:30:44","toothpaste smokers",,B07538S9BF,SWIFTWHITE,,6
+"2018-06-25 05:43:03","toothpaste smokers",,B0746H1CHJ,AOLEVA,,7
+"2018-06-25 05:43:01","whitening mouthwash","Kills up to 97% of germs left after brushing.",,"Johnson & Johnson",,1
+"2018-06-25 05:43:14","whitening mouthwash",,B000KU94IE,,,2
+"2018-06-25 05:43:03","whitening mouthwash",,B00LJ6MUQ6,ANGELINI,,3
+"2018-06-25 05:30:44","whitening mouthwash",,B0784SF7VB,Colgate,,4
+"2018-06-25 05:42:27","whitening mouthwash",,B00AI0K8UE,Listerine,,5
+"2018-06-25 05:43:10","whitening mouthwash",,B004RSUPUG,,,6
+"2018-06-25 05:43:06","whitening mouthwash",,B071GVQ74S,"Boosted Oil Pulling",,7

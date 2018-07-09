@@ -1,0 +1,321 @@
+time,keyword,message,asin,brand,title,position
+"2018-06-26 18:51:36",Keywords,,,,,1
+"2018-06-26 18:51:41",Keywords,,1537222791,,,2
+"2018-06-26 18:51:41",Keywords,,B01APCOKEY,,,3
+"2018-06-26 18:51:36",kaffee,"Nach Geschmack der Werbebranche geröstet.",,"Black Hat Coffee",,1
+"2018-06-26 18:51:41",kaffee,,B079MCDDF3,"ONESTO® Kaffee",,2
+"2018-06-26 18:51:41",kaffee,,B071SB53YG,"360° rundum ehrlich",,3
+"2018-06-26 18:51:41",kaffee,,B01LFABVZQ,"Natural Mojo",,4
+"2018-06-26 18:51:41",kaffee,,B019WQ1RQ8,"Coffee Circle",,5
+"2018-06-26 18:51:41",kaffee,,B01CTBP278,"360° rundum ehrlich",,6
+"2018-06-26 18:51:41",kaffee,,B01FEUYPFQ,"Melitta Professional",,7
+"2018-06-26 18:51:39","nespresso kapseln","Lavazza Nespresso kompatible Kapseln",,"LUIGI LAVAZZA DEUTSCHLAND GMBH",,1
+"2018-06-26 18:51:41","nespresso kapseln",,B072XQJ4K3,Jacobs,,2
+"2018-06-26 18:51:45","nespresso kapseln",,B072XNRDZH,Jacobs,,3
+"2018-06-26 18:51:45","nespresso kapseln",,B078SXM1TS,Alvorada,,4
+"2018-06-26 18:51:45","nespresso kapseln",,B071LLV8YM,Jacobs,,5
+"2018-06-26 18:51:45","nespresso kapseln",,B00MXKBXXS,Gourmesso,,6
+"2018-06-26 18:51:45","nespresso kapseln",,B00J2UR2Y6,Jacobs,,7
+"2018-06-26 18:51:43",espresso,"Nach Geschmack der Werbebranche geröstet.",,"Black Hat Coffee",,1
+"2018-06-26 18:51:45",espresso,,B00LPM2Q4A,"Coffee Circle",,2
+"2018-06-26 18:51:45",espresso,,B076J8S5VG,"GREEN MAYA",,3
+"2018-06-26 18:51:45",espresso,,B00NPYTWVQ,"Coffee Circle",,4
+"2018-06-26 18:51:45",espresso,,B011VI3B8M,Martermühle,,5
+"2018-06-26 18:51:49",espresso,,B00NPZ0FFW,"Coffee Circle",,6
+"2018-06-26 18:51:49",espresso,,B06Y5P7P21,"Coffee Circle",,7
+"2018-06-26 18:51:47",kaffeebohnen,"Fairtrade Bio-Kaffee aus 100% Arabica Bohnen",,"360° rundumehrlich",,1
+"2018-06-26 18:51:41",kaffeebohnen,,B01CTBP278,"360° rundum ehrlich",,2
+"2018-06-26 18:51:49",kaffeebohnen,,B01MQTT824,Martermühle,,3
+"2018-06-26 18:51:49",kaffeebohnen,,B01GQ49XD8,"Coffee Circle",,4
+"2018-06-26 18:51:49",kaffeebohnen,,B077GHXPG9,VOLLMER,,5
+"2018-06-26 18:51:49",kaffeebohnen,,B00XP6WZOU,Martermühle,,6
+"2018-06-26 18:51:49",kaffeebohnen,,B01NCOI0NG,"Roasterbay Coffee",,7
+"2018-06-26 18:51:49",kaffeebohnen,,B00LPL1X7M,"Coffee Circle",,8
+"2018-06-26 18:51:49",kaffeebohnen,,B079VXVMPN,Jacobs,,9
+"2018-06-26 18:51:41",kaffeebohnen,,B071SB53YG,"360° rundum ehrlich",,10
+"2018-06-26 18:51:53",kaffeebohnen,,B01HY78VIO,"Coffee Circle",,11
+"2018-06-26 18:51:53",kaffeebohnen,,B019WQQ2Z4,"Coffee Circle",,12
+"2018-06-26 18:51:53",kaffeebohnen,,B07CGSZWRL,5undzwanzig,,13
+"2018-06-26 18:51:51",melitta,,,,,1
+"2018-06-26 18:51:53",melitta,,B01KHIVTJ0,Melitta,,2
+"2018-06-26 18:51:53",melitta,,B00KKUS6II,Aqualogis,,3
+"2018-06-26 18:51:53",melitta,,B00INSX904,Krups,,4
+"2018-06-26 18:51:53",melitta,,B01MRINR35,"Coffee Gator",,5
+"2018-06-26 18:51:53",melitta,,B01GN5PYCY,"Coffee Gator",,6
+"2018-06-26 18:51:53",melitta,,B01KHIVQ2A,Melitta,,7
+"2018-06-26 18:51:55",kaffeepads,"Senseo Kaffeevielfalt - Jetzt entdecken & genießen",,Senseo,,1
+"2018-06-26 18:51:57",kaffeepads,,B00ZCKICJ4,Dallmayr,,2
+"2018-06-26 18:51:57",kaffeepads,,B004ZM4SCA,Dallmayr,,3
+"2018-06-26 18:51:57",kaffeepads,,B00DW6K98C,Senseo,,4
+"2018-06-26 18:51:57",kaffeepads,,B00SYO4FQO,Senseo,,5
+"2018-06-26 18:51:57",kaffeepads,,B078S5119Y,Senseo,,6
+"2018-06-26 18:51:57",kaffeepads,,B078S3PFT1,Senseo,,7
+"2018-06-26 18:51:55",lavazza,"Lavazza Nespresso kompatible Kapseln",,Lavazza,,1
+"2018-06-26 18:51:57",lavazza,,B01B4REU12,"La Compatibile.it",,2
+"2018-06-26 18:51:57",lavazza,,B00XJK9Z0E,"La Compatibile.it",,3
+"2018-06-26 18:52:01",lavazza,,B01EEUR6IK,"Melitta Professional",,4
+"2018-06-26 18:52:01",lavazza,,B0147C17FI,Melitta,,5
+"2018-06-26 18:52:01",lavazza,,B01N2ZI2SS,"GUGGENHEIMER COFFEE",,6
+"2018-06-26 18:51:41",lavazza,,B01FEUYPFQ,"Melitta Professional",,7
+"2018-06-26 18:51:59",dallmayr,"Ganze Bohne Kaffees für Ihren Vollautomaten",,"Dallmayr ",,1
+"2018-06-26 18:52:01",dallmayr,,B0022U7N60,Dallmayr,,2
+"2018-06-26 18:52:01",dallmayr,,B001BP9UVS,Dallmayr,,3
+"2018-06-26 18:52:01",dallmayr,,B0147C17FI,Melitta,,4
+"2018-06-26 18:52:01",dallmayr,,B0183XFRKI,Dallmayr,,5
+"2018-06-26 18:52:01",dallmayr,,B003JSEK3I,Dallmayr,,6
+"2018-06-26 18:52:01",dallmayr,,B0183XGZIQ,Dallmayr,,7
+"2018-06-26 18:52:03",kaffeefilter,"Trinken Sie besseren Kaffee",,"Coffee Gator",,1
+"2018-06-26 18:52:05",kaffeefilter,,B079J94XKT,Xavax,,2
+"2018-06-26 18:52:05",kaffeefilter,,B079LWFHFW,LinTimes,,3
+"2018-06-26 18:52:05",kaffeefilter,,B06ZY5JL5V,Ecooe,,4
+"2018-06-26 18:51:53",kaffeefilter,,B01MRINR35,"Coffee Gator",,5
+"2018-06-26 18:52:05",kaffeefilter,,B076ZQYSGX,Amazy,,6
+"2018-06-26 18:52:05",kaffeefilter,,B06XQ1B88X,Luxebell,,7
+"2018-06-26 18:52:03",kaffeekapseln,,,,,1
+"2018-06-26 18:51:41",kaffeekapseln,,B072XQJ4K3,Jacobs,,2
+"2018-06-26 18:52:05",kaffeekapseln,,B00J2UR1TM,Jacobs,,3
+"2018-06-26 18:51:45",kaffeekapseln,,B071LLV8YM,Jacobs,,4
+"2018-06-26 18:52:05",kaffeekapseln,,B07DL79GM1,"99 Shots Kaffeekapseln",,5
+"2018-06-26 18:51:45",kaffeekapseln,,B00J2UR2Y6,Jacobs,,6
+"2018-06-26 18:51:45",kaffeekapseln,,B072XNRDZH,Jacobs,,7
+"2018-06-26 18:52:03",jacobs,"Entdecke unsere Expertenröstung für Vollautomaten",,Jacobs,,1
+"2018-06-26 18:52:09",jacobs,,B002OEBMR0,Jacobs,,2
+"2018-06-26 18:52:09",jacobs,,B00RJYV1GW,Jacobs,,3
+"2018-06-26 18:51:49",jacobs,,B079VXVMPN,Jacobs,,4
+"2018-06-26 18:52:09",jacobs,,B01CYTTJJW,"Jaimie Jacobs",,5
+"2018-06-26 18:52:09",jacobs,,B017YWPFX8,Jacobs,,6
+"2018-06-26 18:52:09",jacobs,,B079W7D4ZW,Jacobs,,7
+"2018-06-26 18:52:07",nescafe,,,,,1
+"2018-06-26 18:52:09",nescafe,,B06XSJ4Q1V,Nescafé,,2
+"2018-06-26 18:52:09",nescafe,,B00UOPA1Z0,Nescafé,,3
+"2018-06-26 18:52:09",nescafe,,B00MJ4Q5CC,Nescafé,,4
+"2018-06-26 18:52:09",nescafe,,B004FUUC9U,Nescafé,,5
+"2018-06-26 18:52:13",nescafe,,B00AW89ZNS,Nescafé,,6
+"2018-06-26 18:52:11",espressobohnen,"Handgeröstet - Bio Kaffee aus fairem Handel",,VOLLMER,,1
+"2018-06-26 18:52:13",espressobohnen,,B076J8MXF5,"Green Cup",,2
+"2018-06-26 18:52:13",espressobohnen,,B06Y2H1CF7,"carabica - fine coffee culture",,3
+"2018-06-26 18:52:13",espressobohnen,,B07146LCB5,C°858,,4
+"2018-06-26 18:52:13",espressobohnen,,B00NPYTWYS,"Coffee Circle",,5
+"2018-06-26 18:52:13",espressobohnen,,B06XGJ8D8P,C°858,,6
+"2018-06-26 18:52:13",espressobohnen,,B077H8JL4N,VOLLMER,,7
+"2018-06-26 18:52:11","lavazza kapseln","Lavazza Nespresso kompatible Kapseln",,Lavazza,,1
+"2018-06-26 18:52:13","lavazza kapseln",,B0756KRXX5,"BaristaItaliano DE",,2
+"2018-06-26 18:52:17","lavazza kapseln",,B073Q3M26G,"Il Caffè italiano",,3
+"2018-06-26 18:52:17","lavazza kapseln",,B071K8W9DD,"Il Caffè italiano",,4
+"2018-06-26 18:52:17","lavazza kapseln",,B072J1N9HM,"Il Caffè italiano",,5
+"2018-06-26 18:52:17","lavazza kapseln",,B0758XFWKZ,Myristretto,,6
+"2018-06-26 18:52:17","lavazza kapseln",,B075CQKXZB,Myristretto,,7
+"2018-06-26 18:52:15","lavazza pads senseo","Senseo Kaffeevielfalt - Jetzt entdecken & genießen",,Senseo,,1
+"2018-06-26 18:52:17","lavazza pads senseo",,B0784BNZF5,My-TeaCup,,2
+"2018-06-26 18:51:45","lavazza pads senseo",,B00J2UR2Y6,Jacobs,,3
+"2018-06-26 18:51:57","lavazza pads senseo",,B00ZCKICJ4,Dallmayr,,4
+"2018-06-26 18:52:17","lavazza pads senseo",,B00ZCKICOY,Dallmayr,,5
+"2018-06-26 18:52:17","lavazza pads senseo",,B01CWAX5LG,"Caffè H24",,6
+"2018-06-26 18:52:17","lavazza pads senseo",,B00YOJKTY0,Dallmayr,,7
+"2018-06-26 18:52:19","lavazza espresso","Lavazza Nespresso kompatible Kapseln",,Lavazza,,1
+"2018-06-26 18:52:21","lavazza espresso",,B073Q16K5R,"Il Caffè italiano",,2
+"2018-06-26 18:52:21","lavazza espresso",,B076ZV71GP,Kickkick,,3
+"2018-06-26 18:52:21","lavazza espresso",,B077MFVQC3,My-TeaCup,,4
+"2018-06-26 18:52:21","lavazza espresso",,B0797SWKM4,Alvorada,,5
+"2018-06-26 18:52:17","lavazza espresso",,B071K8W9DD,"Il Caffè italiano",,6
+"2018-06-26 18:52:21","lavazza espresso",,B078TJ1XJW,"Caffè Barbera 1870",,7
+"2018-06-26 18:52:19","lavazza a modo mio","Lavazza Nespresso kompatible Kapseln",,Lavazza,,1
+"2018-06-26 18:52:21","lavazza a modo mio",,B00LWYHBQ4,"Universitea of Tea",,2
+"2018-06-26 18:52:21","lavazza a modo mio",,B00XYBQ0LA,Lavazza,,3
+"2018-06-26 18:52:21","lavazza a modo mio",,B00CFNC8TQ,Severin,,4
+"2018-06-26 18:52:26","lavazza a modo mio",,B01LLYAHOM,"Lavazza A Modo Mio",,5
+"2018-06-26 18:52:26","lavazza a modo mio",,B01C3R6B00,RECAPS,,6
+"2018-06-26 18:52:26","lavazza a modo mio",,B074ND3YDG,"Lavazza A Modo Mio",,7
+"2018-06-26 18:52:23","lavazza kaffeebohnen","Bohnenkaffee im Auftrag des guten Geschmacks.",,"Café Royal Bohnen",,1
+"2018-06-26 18:52:26","lavazza kaffeebohnen",,B079848YTP,O'ccaffe,,2
+"2018-06-26 18:51:41","lavazza kaffeebohnen",,B01FEUYPFQ,"Melitta Professional",,3
+"2018-06-26 18:52:26","lavazza kaffeebohnen",,B00LPMAYDK,"Coffee Circle",,4
+"2018-06-26 18:51:49","lavazza kaffeebohnen",,B077GHXPG9,VOLLMER,,5
+"2018-06-26 18:51:41","lavazza kaffeebohnen",,B01CTBP278,"360° rundum ehrlich",,6
+"2018-06-26 18:52:09","lavazza kaffeebohnen",,B002OEBMR0,Jacobs,,7
+"2018-06-26 18:52:23","kaffee instant",,,,,1
+"2018-06-26 18:52:26","kaffee instant",,B074NCHFR6,Nescafé,,2
+"2018-06-26 18:52:26","kaffee instant",,B078CR4JJ6,GINLAC,,3
+"2018-06-26 18:51:41","kaffee instant",,B01LFABVZQ,"Natural Mojo",,4
+"2018-06-26 18:52:26","kaffee instant",,B00SLWL0LW,"Mighty Matcha",,5
+"2018-06-26 18:52:09","kaffee instant",,B00UOPA1Z0,Nescafé,,6
+"2018-06-26 18:52:29","kaffee instant",,B00L8P6HH6,"Effective Nature",,7
+"2018-06-26 18:52:27","löslicher kaffee","Nescafé Gold - löslicher Premium-Kaffee",,"Nescafé Gold",,1
+"2018-06-26 18:52:29","löslicher kaffee",,B001T6YFJQ,Nescafé,,2
+"2018-06-26 18:52:29","löslicher kaffee",,B07BR9L4Y1,Nescafé,,3
+"2018-06-26 18:52:09","löslicher kaffee",,B00UOPA1Z0,Nescafé,,4
+"2018-06-26 18:52:29","löslicher kaffee",,B00J8UZ3PU,INNOCENTE,,5
+"2018-06-26 18:52:29","löslicher kaffee",,B07BRNPKY6,Nescafé,,6
+"2018-06-26 18:52:29","löslicher kaffee",,B07C9JJ1C9,Nescafé,,7
+"2018-06-26 18:52:27","lavazza a modo mio kapseln","Lavazza Nespresso kompatible Kapseln",,Lavazza,,1
+"2018-06-26 18:52:29","lavazza a modo mio kapseln",,B071K8XB7G,"Il Caffè italiano",,2
+"2018-06-26 18:52:17","lavazza a modo mio kapseln",,B071K8W9DD,"Il Caffè italiano",,3
+"2018-06-26 18:52:17","lavazza a modo mio kapseln",,B072J1N9HM,"Il Caffè italiano",,4
+"2018-06-26 18:52:13","lavazza a modo mio kapseln",,B0756KRXX5,"BaristaItaliano DE",,5
+"2018-06-26 18:52:29","lavazza a modo mio kapseln",,B0753FXVMB,Myristretto,,6
+"2018-06-26 18:52:17","lavazza a modo mio kapseln",,B0758XFWKZ,Myristretto,,7
+"2018-06-26 18:52:31","nespresso kapseln kaffee","Gourmesso - Kaffeekapseln mit Stil & Geschmack",,Gourmesso,,1
+"2018-06-26 18:51:41","nespresso kapseln kaffee",,B072XQJ4K3,Jacobs,,2
+"2018-06-26 18:52:34","nespresso kapseln kaffee",,B01MS3FCZ8,"Viaggio Espresso",,3
+"2018-06-26 18:51:45","nespresso kapseln kaffee",,B072XNRDZH,Jacobs,,4
+"2018-06-26 18:52:34","nespresso kapseln kaffee",,B072XPL12T,Jacobs,,5
+"2018-06-26 18:51:45","nespresso kapseln kaffee",,B00J2UR2Y6,Jacobs,,6
+"2018-06-26 18:51:45","nespresso kapseln kaffee",,B071LLV8YM,Jacobs,,7
+"2018-06-26 18:52:31","espresso gemahlen","Handgeröstet - Bio Kaffee aus fairem Handel",,VOLLMER,,1
+"2018-06-26 18:51:49","espresso gemahlen",,B00NPZ0FFW,"Coffee Circle",,2
+"2018-06-26 18:52:01","espresso gemahlen",,B01N2ZI2SS,"GUGGENHEIMER COFFEE",,3
+"2018-06-26 18:51:49","espresso gemahlen",,B06Y5P7P21,"Coffee Circle",,4
+"2018-06-26 18:52:34","espresso gemahlen",,B07BR3X3MC,Presto,,5
+"2018-06-26 18:52:34","espresso gemahlen",,B00NPZ0FGG,"Coffee Circle",,6
+"2018-06-26 18:52:34","espresso gemahlen",,B00LPLWFU6,"Coffee Circle",,7
+"2018-06-26 18:52:31","a modo mio",,,,,1
+"2018-06-26 18:52:13","a modo mio",,B0756KRXX5,"BaristaItaliano DE",,2
+"2018-06-26 18:52:34","a modo mio",,B075QJDPLG,"Caffè Carbonelli",,3
+"2018-06-26 18:52:17","a modo mio",,B0784BNZF5,My-TeaCup,,4
+"2018-06-26 18:52:34","a modo mio",,B07CSX4XGG,Torrisi,,5
+"2018-06-26 18:52:40","a modo mio",,B075QGSKB5,"Caffè Carbonelli",,6
+"2018-06-26 18:52:40","a modo mio",,B00VTQVFBM,"La Compatibile.it",,7
+"2018-06-26 18:52:35",kaffeemaschine,"Entdecken Sie die Produkte von Russell Hobbs",,"Russell Hobbs",,1
+"2018-06-26 18:52:41",kaffeemaschine,,B079J8PCYL,Aicook,,2
+"2018-06-26 18:52:41",kaffeemaschine,,B079Z1983W,Aicok,,3
+"2018-06-26 18:52:41",kaffeemaschine,,B01JOYVJKC,DeLonghi,,4
+"2018-06-26 18:52:41",kaffeemaschine,,B079JB5571,Aicook,,5
+"2018-06-26 18:52:41",kaffeemaschine,,B079PLDS3Z,Aicok,,6
+"2018-06-26 18:51:53",kaffeemaschine,,B00INSX904,Krups,,7
+"2018-06-26 18:52:35",nespresso,"Lavazza Nespresso kompatible Kapseln",,"LUIGI LAVAZZA DEUTSCHLAND GMBH",,1
+"2018-06-26 18:52:41",nespresso,,B075WB9ZQT,"DR. ANKIO",,2
+"2018-06-26 18:52:41",nespresso,,B01NBEBS9K,Yosoo,,3
+"2018-06-26 18:52:41",nespresso,,B079PYVY5G,Philips,,4
+"2018-06-26 18:52:45",nespresso,,B075ZS9FNN,RECAPS,,5
+"2018-06-26 18:52:45",nespresso,,B079PYNDWF,Philips,,6
+"2018-06-26 18:52:45",nespresso,,B0741DLLFK,U-CAP,,7
+"2018-06-26 18:52:42",espressomaschine,,,,,1
+"2018-06-26 18:52:41",espressomaschine,,B079JB5571,Aicook,,2
+"2018-06-26 18:52:41",espressomaschine,,B079PLDS3Z,Aicok,,3
+"2018-06-26 18:52:41",espressomaschine,,B079J8PCYL,Aicook,,4
+"2018-06-26 18:52:45",espressomaschine,,B077NH2NLH,Wacaco,,5
+"2018-06-26 18:52:45",espressomaschine,,B0797T2FYL,Wacaco,,6
+"2018-06-26 18:52:45",espressomaschine,,B00VTA9F6U,WACACO,,7
+"2018-06-26 18:52:41",espressomaschine,,B01JOYVJKC,DeLonghi,,8
+"2018-06-26 18:51:53",espressomaschine,,B00INSX904,Krups,,9
+"2018-06-26 18:52:45",espressomaschine,,B00OT1CO0U,Krups,,10
+"2018-06-26 18:52:45",espressomaschine,,B071QY4NHW,DeLonghi,,11
+"2018-06-26 18:52:45",espressomaschine,,B01NBOP6FM,KINGTOP,,12
+"2018-06-26 18:52:48",espressomaschine,,B0757QJQJC,Krups,,13
+"2018-06-26 18:52:46",milchschäumer,"Genießen Sie feinen Milchschaum jeden Tag",,VAVA,,1
+"2018-06-26 18:52:48",milchschäumer,,B0733866DC,Aicok,,2
+"2018-06-26 18:52:48",milchschäumer,,B07BQP87FS,kungfuren,,3
+"2018-06-26 18:52:48",milchschäumer,,B071NHS86N,Sedhoom,,4
+"2018-06-26 18:52:48",milchschäumer,,B00AQV7QFU,Severin,,5
+"2018-06-26 18:52:21",milchschäumer,,B00CFNC8TQ,Severin,,6
+"2018-06-26 18:52:48",milchschäumer,,B074Z67WJ2,Aicok,,7
+"2018-06-26 18:52:46",tassimo,"Jetzt die Tassimo Vielfalt entdecken und genießen",,Tassimo,,1
+"2018-06-26 18:52:48",tassimo,,B0095FMJE6,Tassimo,,2
+"2018-06-26 18:52:48",tassimo,,B0093HNCV0,Tassimo,,3
+"2018-06-26 18:52:52",tassimo,,B0095FMHXY,Tassimo,,4
+"2018-06-26 18:52:52",tassimo,,B01NAG76WF,culiclean,,5
+"2018-06-26 18:52:52",tassimo,,B0095FMJBE,Tassimo,,6
+"2018-06-26 18:52:52",tassimo,,B003BZTH28,Tassimo,,7
+"2018-06-26 18:52:50","dolce gusto","Must Espresso - Dolce Gusto kompatibel Kapseln",,"ULTRAMAR CAFFE’ SRL",,1
+"2018-06-26 18:52:52","dolce gusto",,B07DY1BFTJ,Civigroupey,,2
+"2018-06-26 18:52:52","dolce gusto",,B01M0D8MG9,"Caffè Bonini",,3
+"2018-06-26 18:52:52","dolce gusto",,B010RLCH2U,AmazonBasics,,4
+"2018-06-26 18:52:52","dolce gusto",,B077XX2VB9,"Maxxi Clean",,5
+"2018-06-26 18:52:52","dolce gusto",,B00TDQUSDQ,Bosch,,6
+"2018-06-26 18:52:57","dolce gusto",,B076149CD7,Amtido,,7
+"2018-06-26 18:52:54",espressotassen,"Klassiker aus Deutschland - seit 270 Jahren",,"Villeroy & Boch ",,1
+"2018-06-26 18:52:57",espressotassen,,B07BDJQQH7,Sweese,,2
+"2018-06-26 18:52:57",espressotassen,,B079FBKCD7,GuangYang,,3
+"2018-06-26 18:52:57",espressotassen,,B073DWQYVJ,Love-KANKEI,,4
+"2018-06-26 18:52:57",espressotassen,,B072235M77,Unbekannt,,5
+"2018-06-26 18:52:57",espressotassen,,B012H172Q4,Dimono,,6
+"2018-06-26 18:52:57",espressotassen,,B001VG7EHO,WMF,,7
+"2018-06-26 18:52:57",espressotassen,,B0079GVZY8,"Villeroy & Boch",,8
+"2018-06-26 18:52:57",espressotassen,,B06XCGH9H2,RECAPS,,9
+"2018-06-26 18:53:00",espressotassen,,B0749Q8JF1,WMF,,10
+"2018-06-26 18:53:00",espressotassen,,B0000C8Y2Q,"Villeroy & Boch",,11
+"2018-06-26 18:53:00",espressotassen,,B00Y2ESRUA,"Cha Cult",,12
+"2018-06-26 18:53:00",espressotassen,,B00TSOWCWS,"Holland Plastics Original Brand",,13
+"2018-06-26 18:52:58",lavazza,"Lavazza Nespresso kompatible Kapseln",,Lavazza,,1
+"2018-06-26 18:51:57",lavazza,,B01B4REU12,"La Compatibile.it",,2
+"2018-06-26 18:51:57",lavazza,,B00XJK9Z0E,"La Compatibile.it",,3
+"2018-06-26 18:52:01",lavazza,,B01EEUR6IK,"Melitta Professional",,4
+"2018-06-26 18:52:01",lavazza,,B0147C17FI,Melitta,,5
+"2018-06-26 18:52:01",lavazza,,B01N2ZI2SS,"GUGGENHEIMER COFFEE",,6
+"2018-06-26 18:51:41",lavazza,,B01FEUYPFQ,"Melitta Professional",,7
+"2018-06-26 18:52:58","tchibo cafissimo",,,,,1
+"2018-06-26 18:53:00","tchibo cafissimo",,B01MSNN50J,Kitchenista,,2
+"2018-06-26 18:52:52","tchibo cafissimo",,B010RLCH2U,AmazonBasics,,3
+"2018-06-26 18:53:00","tchibo cafissimo",,B00RVYZS78,Kaffeereiniger24,,4
+"2018-06-26 18:53:00","tchibo cafissimo",,B019A2JQCQ,Kitchenista,,5
+"2018-06-26 18:51:53","tchibo cafissimo",,B00INSX904,Krups,,6
+"2018-06-26 18:53:00","tchibo cafissimo",,B01AW9EKEU,balvi,,7
+"2018-06-26 18:53:02",kaffeekapselmaschine,"Hochwertige Kaffeemaschinen von NESPRESSO",,Nespresso,,1
+"2018-06-26 18:52:52",kaffeekapselmaschine,,B00TDQUSDQ,Bosch,,2
+"2018-06-26 18:53:04",kaffeekapselmaschine,,B06ZYLPXMR,"K-fee System",,3
+"2018-06-26 18:53:04",kaffeekapselmaschine,,B01M4J3J4G,Gosear,,4
+"2018-06-26 18:52:52",kaffeekapselmaschine,,B010RLCH2U,AmazonBasics,,5
+"2018-06-26 18:53:02","milchschäumer elektrisch","Genießen Sie feinen Milchschaum jeden Tag",,VAVA,,1
+"2018-06-26 18:52:48","milchschäumer elektrisch",,B0733866DC,Aicok,,2
+"2018-06-26 18:53:04","milchschäumer elektrisch",,B0722NZ6SP,GemEView,,3
+"2018-06-26 18:52:48","milchschäumer elektrisch",,B071NHS86N,Sedhoom,,4
+"2018-06-26 18:52:48","milchschäumer elektrisch",,B00AQV7QFU,Severin,,5
+"2018-06-26 18:52:21","milchschäumer elektrisch",,B00CFNC8TQ,Severin,,6
+"2018-06-26 18:53:04","milchschäumer elektrisch",,B01CQWPYIW,bonVIVO,,7
+"2018-06-26 18:53:02",cremesso,,,,,1
+"2018-06-26 18:53:02","kaffeemaschine kapseln","Jetzt die Tassimo Vielfalt entdecken und genießen",,Tassimo,,1
+"2018-06-26 18:53:04","kaffeemaschine kapseln",,B0717751KM,STARESSO,,2
+"2018-06-26 18:53:04","kaffeemaschine kapseln",,B01NAXMYEZ,"Caffè Barbera",,3
+"2018-06-26 18:53:08","kaffeemaschine kapseln",,B071K8X4GB,"Coffee Gator",,4
+"2018-06-26 18:52:48","kaffeemaschine kapseln",,B0095FMJE6,Tassimo,,5
+"2018-06-26 18:53:00","kaffeemaschine kapseln",,B019A2JQCQ,Kitchenista,,6
+"2018-06-26 18:52:52","kaffeemaschine kapseln",,B00TDQUSDQ,Bosch,,7
+"2018-06-26 18:53:06","kaffeemaschine rot","Hochwertige Kaffeemaschinen von NESPRESSO",,Nespresso,,1
+"2018-06-26 18:53:08","kaffeemaschine rot",,B075GQB7KP,Myristretto,,2
+"2018-06-26 18:53:08","kaffeemaschine rot",,B013HXCBBC,Universal,,3
+"2018-06-26 18:53:08","kaffeemaschine rot",,B073YJYBVY,"Russell Hobbs",,4
+"2018-06-26 18:53:08","kaffeemaschine rot",,B073YK5XPH,"Russell Hobbs",,5
+"2018-06-26 18:53:08","kaffeemaschine rot",,B019DWKXFM,"Russell Hobbs",,6
+"2018-06-26 18:51:53","kaffeemaschine rot",,B00INSX904,Krups,,7
+"2018-06-26 18:53:06","lavazza a modo mio","Lavazza Nespresso kompatible Kapseln",,Lavazza,,1
+"2018-06-26 18:52:21","lavazza a modo mio",,B00LWYHBQ4,"Universitea of Tea",,2
+"2018-06-26 18:52:21","lavazza a modo mio",,B00XYBQ0LA,Lavazza,,3
+"2018-06-26 18:52:21","lavazza a modo mio",,B00CFNC8TQ,Severin,,4
+"2018-06-26 18:52:26","lavazza a modo mio",,B01LLYAHOM,"Lavazza A Modo Mio",,5
+"2018-06-26 18:52:26","lavazza a modo mio",,B01C3R6B00,RECAPS,,6
+"2018-06-26 18:52:26","lavazza a modo mio",,B074ND3YDG,"Lavazza A Modo Mio",,7
+"2018-06-26 18:53:06","kaffeemaschine lavazza",,,,,1
+"2018-06-26 18:53:08","kaffeemaschine lavazza",,B00DB3RSXU,"Universitea of Tea",,2
+"2018-06-26 18:52:41","kaffeemaschine lavazza",,B079JB5571,Aicook,,3
+"2018-06-26 18:53:08","kaffeemaschine lavazza",,B071K8X4GB,"Coffee Gator",,4
+"2018-06-26 18:53:13","kaffeemaschine lavazza",,B008YETL18,DeLonghi,,5
+"2018-06-26 18:53:13","kaffeemaschine lavazza",,B00LFOR84G,AmbiClean,,6
+"2018-06-26 18:53:13","kaffeemaschine lavazza",,B00KYRQ6EI,AmbiClean,,7
+"2018-06-26 18:53:10","kaffeemaschine latte","Hochwertige Kaffeemaschinen von NESPRESSO",,Nespresso,,1
+"2018-06-26 18:52:41","kaffeemaschine latte",,B079J8PCYL,Aicook,,2
+"2018-06-26 18:52:41","kaffeemaschine latte",,B079PLDS3Z,Aicok,,3
+"2018-06-26 18:53:13","kaffeemaschine latte",,B00DZOMJ8E,"Aqua Select",,4
+"2018-06-26 18:52:41","kaffeemaschine latte",,B01JOYVJKC,DeLonghi,,5
+"2018-06-26 18:53:13","kaffeemaschine latte",,B0792CQNX5,"Cafe Bonitas",,6
+"2018-06-26 18:53:13","kaffeemaschine latte",,B076DTSD9D,DeLonghi,,7
+"2018-06-26 18:53:10","kaffeekapselmaschine milch","Einzigartige Milch hat ein einzigartiges Zuhause.",,"Berchtesgadener Land",,1
+"2018-06-26 18:53:13","kaffeekapselmaschine milch",,B01G6TPHKQ,"Il Caffè italiano",,2
+"2018-06-26 18:53:13","kaffeekapselmaschine milch",,B075CRYM5P,Myristretto,,3
+"2018-06-26 18:53:16","kaffeekapselmaschine milch",,B000ODTUHW,Nescafé,,4
+"2018-06-26 18:53:16","kaffeekapselmaschine milch",,B075CLJR7T,Myristretto,,5
+"2018-06-26 18:53:16","kaffeekapselmaschine milch",,B01G6TMG0U,"Il Caffè italiano",,6
+"2018-06-26 18:53:14","kaffeekapselmaschine mini",,,,,1
+"2018-06-26 18:52:52","kaffeekapselmaschine mini",,B010RLCH2U,AmazonBasics,,2
+"2018-06-26 18:53:16","kaffeekapselmaschine mini",,B00J99F8KU,"Krups Dolce Gusto",,3
+"2018-06-26 18:53:14","milchschäumer lavazza",,,,,1
+"2018-06-26 18:52:48","milchschäumer lavazza",,B00AQV7QFU,Severin,,2
+"2018-06-26 18:52:21","milchschäumer lavazza",,B00CFNC8TQ,Severin,,3
+"2018-06-26 18:53:16","milchschäumer lavazza",,B0797SCLVG,VAVA,,4
+"2018-06-26 18:51:53","milchschäumer lavazza",,B01KHIVTJ0,Melitta,,5
+"2018-06-26 18:53:14","a modo mio",,,,,1
+"2018-06-26 18:52:13","a modo mio",,B0756KRXX5,"BaristaItaliano DE",,2
+"2018-06-26 18:52:34","a modo mio",,B075QJDPLG,"Caffè Carbonelli",,3
+"2018-06-26 18:52:17","a modo mio",,B0784BNZF5,My-TeaCup,,4
+"2018-06-26 18:52:34","a modo mio",,B07CSX4XGG,Torrisi,,5
+"2018-06-26 18:52:40","a modo mio",,B075QGSKB5,"Caffè Carbonelli",,6
+"2018-06-26 18:52:40","a modo mio",,B00VTQVFBM,"La Compatibile.it",,7
