@@ -1,0 +1,900 @@
+time,keyword,message,asin,brand,title,position
+"2018-07-22 04:59:32",keyword,,,,,1
+"2018-07-22 04:59:32","capsule caffè","Scopri la gamma di macchine Dolce Gusto®",,"Nescafé Dolce Gusto",,1
+"2018-07-22 04:59:34","capsule caffè",,B01M61UH8Z,"Caffè Carracci",,2
+"2018-07-22 04:59:34","capsule caffè",,B01HF79C54,yespresso,,3
+"2018-07-22 04:59:34","capsule caffè",,B07BHLY13V,"Sax Caffè",,4
+"2018-07-22 04:59:34","capsule caffè",,B079RHW426,Kimbo,,5
+"2018-07-22 04:59:34","capsule caffè",,B01DC80K5G,Kimbo,,6
+"2018-07-22 04:59:34","capsule caffè",,B01GQBX1NO,yespresso,,7
+"2018-07-22 04:59:32","caffè lavazza","Prova le nostre capsule compatibili",,"POP CAFFE'",,1
+"2018-07-22 04:59:34","caffè lavazza",,B01AVGNJPK,BIespresso,,2
+"2018-07-22 04:59:39","caffè lavazza",,B0783QLJK8,BIespresso,,3
+"2018-07-22 04:59:39","caffè lavazza",,B0798RZR3D,O'ccaffe,,4
+"2018-07-22 04:59:39","caffè lavazza",,B079RJFRJV,Kimbo,,5
+"2018-07-22 04:59:39","caffè lavazza",,B07BHL2TB5,"Sax Caffè",,6
+"2018-07-22 04:59:39","caffè lavazza",,B07BHL56DC,"Sax Caffè",,7
+"2018-07-22 04:59:37","caffè macinato","Scopri la gamma di macchine Dolce Gusto®",,"Nescafé Dolce Gusto",,1
+"2018-07-22 04:59:39","caffè macinato",,B07BR3X3MC,"Presto Coffee Roasters",,2
+"2018-07-22 04:59:39","caffè macinato",,B0120S5RZC,,,3
+"2018-07-22 04:59:39","caffè macinato",,B01MTDG9R5,"Caffè Barbera 1870",,4
+"2018-07-22 04:59:39","caffè macinato",,B01N9W4OJK,"Caffè Barbera 1870",,5
+"2018-07-22 04:59:43","caffè macinato",,B07B6RB11P,"Fantastic Flavoured Coffee Co.",,6
+"2018-07-22 04:59:43","caffè macinato",,B0764G2QWS,"Caffè Sardella",,7
+"2018-07-22 04:59:41",lavazza,"Prova le nostre capsule compatibili",,"POP CAFFE'",,1
+"2018-07-22 04:59:43",lavazza,,B00SJN3FGQ,"SELF CAP",,2
+"2018-07-22 04:59:43",lavazza,,B07BV28X8L,"Italian Coffee",,3
+"2018-07-22 04:59:43",lavazza,,B00VTQVI5K,"La Compatibile.it",,4
+"2018-07-22 04:59:43",lavazza,,B00VTQVV02,"La Compatibile.it",,5
+"2018-07-22 04:59:43",lavazza,,B079W4RBC5,"Italian Coffee",,6
+"2018-07-22 04:59:43",lavazza,,B07BV2RRSL,"Italian Coffee",,7
+"2018-07-22 04:59:41","caffè in grani","Scopri la gamma di macchine Dolce Gusto®",,"Nescafé Dolce Gusto",,1
+"2018-07-22 04:59:47","caffè in grani",,B07FNNFJGM,Italcaffè,,2
+"2018-07-22 04:59:47","caffè in grani",,B07CVR5D7W,"Caffè Borbone",,3
+"2018-07-22 04:59:47","caffè in grani",,B079848YTP,O'ccaffe,,4
+"2018-07-22 04:59:47","caffè in grani",,B07124Z2Q2,"Cooper's Cask Coffee",,5
+"2018-07-22 04:59:47","caffè in grani",,B07C82BTGL,"Aroma Club",,6
+"2018-07-22 04:59:47","caffè in grani",,B01G9BR6QE,"Emily's Coffee",,7
+"2018-07-22 04:59:45",caffè,"Scopri la gamma di macchine Dolce Gusto®",,"Nescafé Dolce Gusto",,1
+"2018-07-22 04:59:47",caffè,,B01LQQQWG2,"Caffè Borbone",,2
+"2018-07-22 04:59:47",caffè,,B01H8MYITQ,RECAPS,,3
+"2018-07-22 04:59:47",caffè,,B01M1DB5LT,"Caffè Carracci",,4
+"2018-07-22 04:59:51",caffè,,B019S0LUX8,"Il Caffè Italiano",,5
+"2018-07-22 04:59:51",caffè,,B06XKYTVST,Illy,,6
+"2018-07-22 04:59:34",caffè,,B01M61UH8Z,"Caffè Carracci",,7
+"2018-07-22 04:59:49","caffè espresso","Scopri la gamma di macchine Dolce Gusto®",,"Nescafé Dolce Gusto",,1
+"2018-07-22 04:59:51","caffè espresso",,B07BQZN7J5,"Presto Coffee Roaster",,2
+"2018-07-22 04:59:47","caffè espresso",,B07FNNFJGM,Italcaffè,,3
+"2018-07-22 04:59:39","caffè espresso",,B0798RZR3D,O'ccaffe,,4
+"2018-07-22 04:59:39","caffè espresso",,B079RJFRJV,Kimbo,,5
+"2018-07-22 04:59:34","caffè espresso",,B01DC80K5G,Kimbo,,6
+"2018-07-22 04:59:39","caffè espresso",,B07BHL56DC,"Sax Caffè",,7
+"2018-07-22 04:59:49","cialde lavazza","Capsule Lavazza, il gusto del vero caffè Italiano",,Lavazza,,1
+"2018-07-22 04:59:51","cialde lavazza",,B077T6WCDG,"Espresso Experience",,2
+"2018-07-22 04:59:51","cialde lavazza",,B0075GLW9K,Lavazza,,3
+"2018-07-22 04:59:39","cialde lavazza",,B079RJFRJV,Kimbo,,4
+"2018-07-22 04:59:51","cialde lavazza",,B01GG9L9GM,Kimbo,,5
+"2018-07-22 04:59:51","cialde lavazza",,B07BT7GX2Z,"Caffè Carracci",,6
+"2018-07-22 04:59:39","cialde lavazza",,B07BHL56DC,"Sax Caffè",,7
+"2018-07-22 04:59:49","capsule caffè italy","Scopri la gamma di macchine Dolce Gusto®",,"Nescafé Dolce Gusto",,1
+"2018-07-22 04:59:55","capsule caffè italy",,B01LB2EZCY,"Cute Nutrition",,2
+"2018-07-22 04:59:39","capsule caffè italy",,B079RJFRJV,Kimbo,,3
+"2018-07-22 04:59:34","capsule caffè italy",,B01DC80K5G,Kimbo,,4
+"2018-07-22 04:59:51","capsule caffè italy",,B01GG9L9GM,Kimbo,,5
+"2018-07-22 04:59:55","capsule caffè italy",,B01DBRK1I4,Kimbo,,6
+"2018-07-22 04:59:55","capsule caffè italy",,B01GG9L92Q,Kimbo,,7
+"2018-07-22 04:59:53",espresso,,,,,1
+"2018-07-22 04:59:55",espresso,,B074DCW2RV,GATTOPARDO,,2
+"2018-07-22 04:59:55",espresso,,B00E9CX1NI,Kamira,,3
+"2018-07-22 04:59:55",espresso,,B01N772B6E,ZNYSTAR,,4
+"2018-07-22 04:59:55",espresso,,B01N0FPJG7,ZNYSTAR,,5
+"2018-07-22 04:59:55",espresso,,B01N5497J9,ZNYSTAR,,6
+"2018-07-22 04:59:55",espresso,,B0725PHTLS,AOOSY,,7
+"2018-07-22 04:59:57",nespresso,,,,,1
+"2018-07-22 04:59:59",nespresso,,B01NAZEDLR,2xCAP,,2
+"2018-07-22 04:59:59",nespresso,,B010RLCH2U,AmazonBasics,,3
+"2018-07-22 04:59:59",nespresso,,B01N97DB4W,HiveNets,,4
+"2018-07-22 04:59:47",nespresso,,B01LQQQWG2,"Caffè Borbone",,5
+"2018-07-22 04:59:59",nespresso,,B06XJ63M45,RECAPS,,6
+"2018-07-22 04:59:55",nespresso,,B01GG9L92Q,Kimbo,,7
+"2018-07-22 04:59:57","cialde nespresso","Scopri l’espresso di Napoli",,Kimbo,,1
+"2018-07-22 04:59:59","cialde nespresso",,B01MXXDHW3,"Caffè Carracci",,2
+"2018-07-22 04:59:59","cialde nespresso",,B01NAZEDLR,2xCAP,,3
+"2018-07-22 04:59:59","cialde nespresso",,B01DC8F088,Kimbo,,4
+"2018-07-22 04:59:59","cialde nespresso",,B01N97DB4W,HiveNets,,5
+"2018-07-22 04:59:55","cialde nespresso",,B01GG9L92Q,Kimbo,,6
+"2018-07-22 05:00:03","cialde nespresso",,B06VXSJ45Z,"Caffè Carracci",,7
+"2018-07-22 05:00:01","nespresso capsule","Scopri l’espresso di Napoli",,Kimbo,,1
+"2018-07-22 05:00:03","nespresso capsule",,B00T4FELUW,"La Compatibile.it",,2
+"2018-07-22 05:00:03","nespresso capsule",,B06VXSJ45Z,"Caffè Carracci",,3
+"2018-07-22 05:00:03","nespresso capsule",,B00KAUYX5S,"THE SUB",,4
+"2018-07-22 05:00:03","nespresso capsule",,B07C2JB8ML,Pirahã,,5
+"2018-07-22 04:59:59","nespresso capsule",,B010RLCH2U,AmazonBasics,,6
+"2018-07-22 05:00:03","nespresso capsule",,B019S0M3DY,"Il Caffè Italiano",,7
+"2018-07-22 05:00:01","a modo mio","Prova le nostre capsule compatibili",,"POP CAFFE'",,1
+"2018-07-22 05:00:03","a modo mio",,B06XY9MWLD,"Lavazza A Modo Mio",,2
+"2018-07-22 05:00:03","a modo mio",,B07DH6MTZ6,"Caffè Borbone",,3
+"2018-07-22 05:00:07","a modo mio",,B019S0M2N0,"Il Caffè Italiano",,4
+"2018-07-22 05:00:07","a modo mio",,B019S0M186,"Il Caffè Italiano",,5
+"2018-07-22 05:00:07","a modo mio",,B073BJY8FY,"Caffè Borbone",,6
+"2018-07-22 05:00:07","a modo mio",,B078L21348,WhiFan,,7
+"2018-07-22 05:00:05","lavazza a modo mio","Prova le nostre capsule compatibili",,"POP CAFFE'",,1
+"2018-07-22 05:00:05","capsule a modo mio","Prova le nostre capsule compatibili",,"POP CAFFE'",,1
+"2018-07-22 05:00:07","capsule a modo mio",,B07BFB59SF,"Lavazza A Modo Mio",,2
+"2018-07-22 05:00:03","capsule a modo mio",,B06XY9MWLD,"Lavazza A Modo Mio",,3
+"2018-07-22 05:00:07","capsule a modo mio",,B07CBJH5PX,"Lavazza A Modo Mio",,4
+"2018-07-22 05:00:07","capsule a modo mio",,B07DRCB8F2,"Healthy Fusion",,5
+"2018-07-22 05:00:07","capsule a modo mio",,B072BXF77M,yespresso,,6
+"2018-07-22 05:00:11","capsule a modo mio",,B078TJ1XJW,"Caffè Barbera 1870",,7
+"2018-07-22 05:00:09","capsule lavazza a modo mio","Capsule Lavazza, il gusto del vero caffè Italiano",,Lavazza,,1
+"2018-07-22 05:00:11","capsule lavazza a modo mio",,B071HW8FJF,yespresso,,2
+"2018-07-22 05:00:11","capsule lavazza a modo mio",,B078PRCWQP,"DICOSOLACAFFE' S.G.L. VENDING SNC",,3
+"2018-07-22 04:59:39","capsule lavazza a modo mio",,B079RJFRJV,Kimbo,,4
+"2018-07-22 04:59:51","capsule lavazza a modo mio",,B01GG9L9GM,Kimbo,,5
+"2018-07-22 04:59:55","capsule lavazza a modo mio",,B01GG9L92Q,Kimbo,,6
+"2018-07-22 04:59:51","capsule lavazza a modo mio",,B07BT7GX2Z,"Caffè Carracci",,7
+"2018-07-22 05:00:09","cialde lavazza a modo mio","Capsule Lavazza, il gusto del vero caffè Italiano",,Lavazza,,1
+"2018-07-22 05:00:11","cialde lavazza a modo mio",,B077R52LKQ,RossoCrema,,2
+"2018-07-22 05:00:11","cialde lavazza a modo mio",,B06X92DTW1,"Caffè Sammarco",,3
+"2018-07-22 04:59:51","cialde lavazza a modo mio",,B07BT7GX2Z,"Caffè Carracci",,4
+"2018-07-22 05:00:11","cialde lavazza a modo mio",,B071HW8FJF,yespresso,,5
+"2018-07-22 05:00:11","cialde lavazza a modo mio",,B01M7ZFZ8C,yespresso,,6
+"2018-07-22 05:00:11","cialde lavazza a modo mio",,B01N4D5RD8,BIespresso,,7
+"2018-07-22 05:00:13",cialde,"Scegli la qualità dei nostri caffè espressi",,"Nescafé Dolce Gusto",,1
+"2018-07-22 05:00:18",cialde,,B074K7S654,"Caffè Borbone",,2
+"2018-07-22 05:00:18",cialde,,B06XBHVX38,"Caffè Borbone",,3
+"2018-07-22 05:00:18",cialde,,B00C6F2ZL4,"NESCAFÉ Dolce Gusto",,4
+"2018-07-22 05:00:18",cialde,,B003U6VDGQ,"NESCAFÉ Dolce Gusto",,5
+"2018-07-22 05:00:18",cialde,,B071R9W8P4,"Caffè Borbone",,6
+"2018-07-22 05:00:18",cialde,,B06ZZ9KL95,"Caffè Borbone",,7
+"2018-07-22 05:00:13","capsule espresso","Capsule compatibili Nespresso®. Qualità italiana.",,"Caffè Carracci",,1
+"2018-07-22 04:59:34","capsule espresso",,B01DC80K5G,Kimbo,,2
+"2018-07-22 05:00:18","capsule espresso",,B077GXYTX9,"POP CAFFE'",,3
+"2018-07-22 04:59:39","capsule espresso",,B079RJFRJV,Kimbo,,4
+"2018-07-22 05:00:18","capsule espresso",,B01N2S5A1Q,BIespresso,,5
+"2018-07-22 05:00:18","capsule espresso",,B01N6F26NL,BIespresso,,6
+"2018-07-22 05:00:18","capsule espresso",,B01N2S4ZJ3,BIespresso,,7
+"2018-07-22 05:00:20","caffè nespresso","Scopri l’espresso di Napoli",,Kimbo,,1
+"2018-07-22 05:00:22","caffè nespresso",,B019S0M1Z4,"Il Caffè Italiano",,2
+"2018-07-22 05:00:22","caffè nespresso",,B019S0LVPU,"Il Caffè Italiano",,3
+"2018-07-22 04:59:59","caffè nespresso",,B01N97DB4W,HiveNets,,4
+"2018-07-22 05:00:22","caffè nespresso",,B019S0LXG2,"Il Caffè Italiano",,5
+"2018-07-22 05:00:20","capsule compatibili nespresso","Scopri l’espresso di Napoli",,Kimbo,,1
+"2018-07-22 05:00:22","capsule compatibili nespresso",,B071939XSX,Pellini,,2
+"2018-07-22 05:00:22","capsule compatibili nespresso",,B0768P9B26,Pellini,,3
+"2018-07-22 05:00:22","capsule compatibili nespresso",,B01N0SJCRQ,"Caffè Borbone",,4
+"2018-07-22 05:00:22","capsule compatibili nespresso",,B075BL4KCN,"ITALIAN COFFEE FOR ESPRESSO LOVERS",,5
+"2018-07-22 05:00:22","capsule compatibili nespresso",,B071WWQ7TR,Pellini,,6
+"2018-07-22 04:59:34","capsule compatibili nespresso",,B01GQBX1NO,yespresso,,7
+"2018-07-22 05:00:26","capsule compatibili nespresso",,B075MG62QH,"Caffè H24",,8
+"2018-07-22 05:00:26","capsule compatibili nespresso",,B01EX39GMM,"Caffè H24",,9
+"2018-07-22 04:59:34","capsule compatibili nespresso",,B01DC80K5G,Kimbo,,10
+"2018-07-22 05:00:26","capsule compatibili nespresso",,B00ST7MHFW,"La Compatibile.it",,11
+"2018-07-22 05:00:26","capsule compatibili nespresso",,B00MXKBXXS,Gourmesso,,12
+"2018-07-22 05:00:26","capsule compatibili nespresso",,B00MDTYP2K,cialdissima,,13
+"2018-07-22 05:00:24","cialde compatibili nespresso","Scopri l’espresso di Napoli",,Kimbo,,1
+"2018-07-22 04:59:59","cialde compatibili nespresso",,B01MXXDHW3,"Caffè Carracci",,2
+"2018-07-22 04:59:34","cialde compatibili nespresso",,B01GQBX1NO,yespresso,,3
+"2018-07-22 05:00:22","cialde compatibili nespresso",,B071939XSX,Pellini,,4
+"2018-07-22 05:00:26","cialde compatibili nespresso",,B00MXKBXXS,Gourmesso,,5
+"2018-07-22 05:00:26","cialde compatibili nespresso",,B075BGB821,"ITALIAN COFFEE FOR ESPRESSO LOVERS",,6
+"2018-07-22 05:00:26","cialde compatibili nespresso",,B075MG62QH,"Caffè H24",,7
+"2018-07-22 05:00:24","capsule compatibili lavazza a modo mio","Capsule Lavazza, il gusto del vero caffè Italiano",,Lavazza,,1
+"2018-07-22 05:00:33","capsule compatibili lavazza a modo mio",,B07572ZGQ9,"Caffè H24",,2
+"2018-07-22 05:00:11","capsule compatibili lavazza a modo mio",,B071HW8FJF,yespresso,,3
+"2018-07-22 05:00:33","capsule compatibili lavazza a modo mio",,B071K8W9DD,"Il Caffè Italiano",,4
+"2018-07-22 05:00:33","capsule compatibili lavazza a modo mio",,B01MQV81AN,BIespresso,,5
+"2018-07-22 05:00:33","capsule compatibili lavazza a modo mio",,B01CWAX5LG,"Caffè H24",,6
+"2018-07-22 05:00:26","capsule compatibili lavazza a modo mio",,B01EX39GMM,"Caffè H24",,7
+"2018-07-22 05:00:33","capsule compatibili lavazza a modo mio",,B07BTJQRMC,"Caffè Carracci",,8
+"2018-07-22 05:00:33","capsule compatibili lavazza a modo mio",,B01KO7P724,"NESCAFÉ Dolce Gusto",,9
+"2018-07-22 04:59:34","capsule compatibili lavazza a modo mio",,B01M61UH8Z,"Caffè Carracci",,10
+"2018-07-22 05:00:33","capsule compatibili lavazza a modo mio",,B01N9GSPFQ,BIespresso,,11
+"2018-07-22 05:00:22","capsule compatibili lavazza a modo mio",,B075BL4KCN,"ITALIAN COFFEE FOR ESPRESSO LOVERS",,12
+"2018-07-22 05:00:11","capsule compatibili lavazza a modo mio",,B01N4D5RD8,BIespresso,,13
+"2018-07-22 05:00:28","caffè borbone","Prova le nostre capsule compatibili",,"POP CAFFE'",,1
+"2018-07-22 05:00:33","caffè borbone",,B0733B89HT,,,2
+"2018-07-22 05:00:33","caffè borbone",,B073HDZ7BC,"Caffè Borbone",,3
+"2018-07-22 05:00:33","caffè borbone",,B01EG3E3P4,borbone,,4
+"2018-07-22 04:59:34","caffè borbone",,B079RHW426,Kimbo,,5
+"2018-07-22 04:59:47","caffè borbone",,B07CVR5D7W,"Caffè Borbone",,6
+"2018-07-22 05:00:37","caffè borbone",,B0733C9J5H,,,7
+"2018-07-22 05:00:35","caffè cialde",,,,,1
+"2018-07-22 04:59:39","caffè cialde",,B079RJFRJV,Kimbo,,2
+"2018-07-22 05:00:37","caffè cialde",,B07BHL31YD,"Sax Caffè",,3
+"2018-07-22 04:59:51","caffè cialde",,B01GG9L9GM,Kimbo,,4
+"2018-07-22 04:59:55","caffè cialde",,B01DBRK1I4,Kimbo,,5
+"2018-07-22 05:00:37","caffè cialde",,B01HI24152,"Caffè Musetti",,6
+"2018-07-22 04:59:55","caffè cialde",,B01GG9L92Q,Kimbo,,7
+"2018-07-22 05:00:35","cialde borbone","Un espresso come al bar, in capsule compatibili",,"Caffè Pellini",,1
+"2018-07-22 05:00:37","cialde borbone",,B07D1Z6XLP,"Caffè Borbone",,2
+"2018-07-22 05:00:37","cialde borbone",,B07D1YJLQP,"Caffè Borbone",,3
+"2018-07-22 04:59:39","cialde borbone",,B079RJFRJV,Kimbo,,4
+"2018-07-22 04:59:51","cialde borbone",,B077T6WCDG,"Espresso Experience",,5
+"2018-07-22 05:00:37","cialde borbone",,B005J3I4BU,"Chupa Chups",,6
+"2018-07-22 05:00:37","cialde borbone",,B079V12TGG,"NERO ESPRESSO",,7
+"2018-07-22 05:00:35","cialde caffè","Scopri la gamma di macchine Dolce Gusto®",,"Nescafé Dolce Gusto",,1
+"2018-07-22 04:59:39","cialde caffè",,B079RJFRJV,Kimbo,,2
+"2018-07-22 05:00:37","cialde caffè",,B07BHL31YD,"Sax Caffè",,3
+"2018-07-22 04:59:34","cialde caffè",,B01DC80K5G,Kimbo,,4
+"2018-07-22 04:59:51","cialde caffè",,B01GG9L9GM,Kimbo,,5
+"2018-07-22 04:59:34","cialde caffè",,B07BHLY13V,"Sax Caffè",,6
+"2018-07-22 05:00:37","cialde caffè",,B01HI24152,"Caffè Musetti",,7
+"2018-07-22 05:00:39","cialde caffè borbone","Prova le nostre capsule compatibili",,"POP CAFFE'",,1
+"2018-07-22 05:00:41","cialde caffè borbone",,B06ZY52HW6,"Caffè Borbone",,2
+"2018-07-22 05:00:41","cialde caffè borbone",,B06ZYFLP4Y,"Caffè Borbone",,3
+"2018-07-22 05:00:41","cialde caffè borbone",,B01EG3K03I,borbone,,4
+"2018-07-22 05:00:33","cialde caffè borbone",,B01EG3E3P4,borbone,,5
+"2018-07-22 04:59:39","cialde caffè borbone",,B079RJFRJV,Kimbo,,6
+"2018-07-22 05:00:37","cialde caffè borbone",,B01HI24152,"Caffè Musetti",,7
+"2018-07-22 05:00:39","capsule caffè borbone","Prova le nostre capsule compatibili",,"POP CAFFE'",,1
+"2018-07-22 05:00:03","capsule caffè borbone",,B07DH6MTZ6,"Caffè Borbone",,2
+"2018-07-22 05:00:41","capsule caffè borbone",,B07DH5R5XQ,"Caffè Borbone",,3
+"2018-07-22 05:00:41","capsule caffè borbone",,B01EG3K03I,borbone,,4
+"2018-07-22 05:00:33","capsule caffè borbone",,B01EG3E3P4,borbone,,5
+"2018-07-22 05:00:33","capsule caffè borbone",,B0733B89HT,,,6
+"2018-07-22 05:00:41","capsule caffè borbone",,B076J26Q3C,"GREEN MAYA",,7
+"2018-07-22 05:00:39",Bertolli,,,,,1
+"2018-07-22 05:00:39",monini,,,,,1
+"2018-07-22 05:00:42","olio d oliva extravergine",,,,,1
+"2018-07-22 05:00:44","olio d oliva extravergine",,B01N4OZ8LG,"Piana del Lentisco",,2
+"2018-07-22 05:00:44","olio d oliva extravergine",,B07CBCNSN1,"Tenuta Romano",,3
+"2018-07-22 05:00:44","olio d oliva extravergine",,B01DDB4ZG2,"Hacienda Ortigosa",,4
+"2018-07-22 05:00:44","olio d oliva extravergine",,B01DDB4VPM,"Hacienda Ortigosa",,5
+"2018-07-22 05:00:44","olio d oliva extravergine",,B00Q78C1EW,"Seven Minerals",,6
+"2018-07-22 05:00:44","olio d oliva extravergine",,B01N366SDE,"Piana del Lentisco",,7
+"2018-07-22 05:00:42","olio extravergine",,,,,1
+"2018-07-22 05:00:44","olio extravergine",,B01DDB4ZG2,"Hacienda Ortigosa",,2
+"2018-07-22 05:00:44","olio extravergine",,B01DDB4VPM,"Hacienda Ortigosa",,3
+"2018-07-22 05:00:48","olio extravergine",,B01DDB4V5C,"Hacienda Ortigosa",,4
+"2018-07-22 05:00:48","olio extravergine",,B013GBN8MG,MeaVita,,5
+"2018-07-22 05:00:48","olio extravergine",,B00LBTLOJA,"Pietro Coricelli",,6
+"2018-07-22 05:00:48","olio extravergine",,B079ZCVMNL,"Pietro Coricelli",,7
+"2018-07-22 05:00:46","olio extravergine d'oliva","Estratto a freddo, delicato, acidità solo 0,12%",,"Greek Flavours",,1
+"2018-07-22 05:00:44","olio extravergine d'oliva",,B07CBCNSN1,"Tenuta Romano",,2
+"2018-07-22 05:00:48","olio extravergine d'oliva",,B07D9W6K55,Mimì,,3
+"2018-07-22 05:00:44","olio extravergine d'oliva",,B01DDB4ZG2,"Hacienda Ortigosa",,4
+"2018-07-22 05:00:44","olio extravergine d'oliva",,B01DDB4VPM,"Hacienda Ortigosa",,5
+"2018-07-22 05:00:44","olio extravergine d'oliva",,B00Q78C1EW,"Seven Minerals",,6
+"2018-07-22 05:00:48","olio extravergine d'oliva",,B076BZ323X,Arol,,7
+"2018-07-22 05:00:46","olio extravergine di oliva",,,,,1
+"2018-07-22 05:00:48","olio extravergine di oliva",,B07B2YDL23,Lucius,,2
+"2018-07-22 05:00:48","olio extravergine di oliva",,B07B2YX9TL,Lucius,,3
+"2018-07-22 05:00:44","olio extravergine di oliva",,B01DDB4ZG2,"Hacienda Ortigosa",,4
+"2018-07-22 05:00:44","olio extravergine di oliva",,B07CBCNSN1,"Tenuta Romano",,5
+"2018-07-22 05:00:54","olio extravergine di oliva",,B07BXTVKKB,"Tenuta Romano",,6
+"2018-07-22 05:00:54","olio extravergine di oliva",,B00IC9SXDM,"Pietro Coricelli",,7
+"2018-07-22 05:00:50","olio extravergine di oliva italiano","Olio Clemente - Le Masserie del Parco",,"Clemente Olearia",,1
+"2018-07-22 05:00:54","olio extravergine di oliva italiano",,B07C9S4NTW,"MESSER FRANCESCO 1640 - FAMIGLIA MALVETANI",,2
+"2018-07-22 05:00:44","olio extravergine di oliva italiano",,B01DDB4VPM,"Hacienda Ortigosa",,3
+"2018-07-22 05:00:44","olio extravergine di oliva italiano",,B01DDB4ZG2,"Hacienda Ortigosa",,4
+"2018-07-22 05:00:48","olio extravergine di oliva italiano",,B01DDB4V5C,"Hacienda Ortigosa",,5
+"2018-07-22 05:00:48","olio extravergine di oliva italiano",,B07D9W6K55,Mimì,,6
+"2018-07-22 05:00:54","olio extravergine di oliva italiano",,B0714Q5G7G,"Olivares de Altomira",,7
+"2018-07-22 05:00:52","Olio monini","Olio di mandorle bio per cura naturale del corpo",,"Satin Naturel",,1
+"2018-07-22 05:00:54","Olio monini",,B00LBTLUDK,"Pietro Coricelli",,2
+"2018-07-22 05:00:44","Olio monini",,B01DDB4ZG2,"Hacienda Ortigosa",,3
+"2018-07-22 05:00:54","Olio monini",,B072XHL9CN,CLEMENTE,,4
+"2018-07-22 05:00:54","Olio monini",,B072VRQ9MX,CLEMENTE,,5
+"2018-07-22 05:00:52","olio oliva","Estratto a freddo, delicato, acidità solo 0,12%",,"Greek Flavours",,1
+"2018-07-22 05:00:44","olio oliva",,B01DDB4VPM,"Hacienda Ortigosa",,2
+"2018-07-22 05:00:44","olio oliva",,B01DDB4ZG2,"Hacienda Ortigosa",,3
+"2018-07-22 05:00:57","olio oliva",,B071P9FVSC,"valle santa",,4
+"2018-07-22 05:00:57","olio oliva",,B079RK5ZJ3,"Il Boschetto",,5
+"2018-07-22 05:00:57","olio oliva",,B072MJN2M8,Eterno,,6
+"2018-07-22 05:00:57","olio oliva",,B072JZ38S1,Eterno,,7
+"2018-07-22 05:00:56",Keywords,,,,,1
+"2018-07-22 05:00:56","olio extravergine di oliva","Olio Clemente - Le Masserie del Parco",,"Clemente Olearia",,1
+"2018-07-22 05:00:48","olio extravergine di oliva",,B07B2YDL23,Lucius,,2
+"2018-07-22 05:00:48","olio extravergine di oliva",,B07B2YX9TL,Lucius,,3
+"2018-07-22 05:00:44","olio extravergine di oliva",,B01DDB4ZG2,"Hacienda Ortigosa",,4
+"2018-07-22 05:00:44","olio extravergine di oliva",,B07CBCNSN1,"Tenuta Romano",,5
+"2018-07-22 05:00:54","olio extravergine di oliva",,B07BXTVKKB,"Tenuta Romano",,6
+"2018-07-22 05:00:54","olio extravergine di oliva",,B00IC9SXDM,"Pietro Coricelli",,7
+"2018-07-22 05:00:56","olio extravergine","Estratto a freddo, delicato, acidità solo 0,12%",,"Greek Flavours",,1
+"2018-07-22 05:00:44","olio extravergine",,B01DDB4ZG2,"Hacienda Ortigosa",,2
+"2018-07-22 05:00:44","olio extravergine",,B01DDB4VPM,"Hacienda Ortigosa",,3
+"2018-07-22 05:00:48","olio extravergine",,B01DDB4V5C,"Hacienda Ortigosa",,4
+"2018-07-22 05:00:48","olio extravergine",,B013GBN8MG,MeaVita,,5
+"2018-07-22 05:00:48","olio extravergine",,B00LBTLOJA,"Pietro Coricelli",,6
+"2018-07-22 05:00:48","olio extravergine",,B079ZCVMNL,"Pietro Coricelli",,7
+"2018-07-22 05:00:56","olio extravergine di oliva italiano","Olio Clemente - Le Masserie del Parco",,"Clemente Olearia",,1
+"2018-07-22 05:00:54","olio extravergine di oliva italiano",,B07C9S4NTW,"MESSER FRANCESCO 1640 - FAMIGLIA MALVETANI",,2
+"2018-07-22 05:00:44","olio extravergine di oliva italiano",,B01DDB4VPM,"Hacienda Ortigosa",,3
+"2018-07-22 05:00:44","olio extravergine di oliva italiano",,B01DDB4ZG2,"Hacienda Ortigosa",,4
+"2018-07-22 05:00:48","olio extravergine di oliva italiano",,B01DDB4V5C,"Hacienda Ortigosa",,5
+"2018-07-22 05:00:48","olio extravergine di oliva italiano",,B07D9W6K55,Mimì,,6
+"2018-07-22 05:00:54","olio extravergine di oliva italiano",,B0714Q5G7G,"Olivares de Altomira",,7
+"2018-07-22 05:00:56","olio oliva","Estratto a freddo, delicato, acidità solo 0,12%",,"Greek Flavours",,1
+"2018-07-22 05:00:44","olio oliva",,B01DDB4VPM,"Hacienda Ortigosa",,2
+"2018-07-22 05:00:44","olio oliva",,B01DDB4ZG2,"Hacienda Ortigosa",,3
+"2018-07-22 05:00:57","olio oliva",,B071P9FVSC,"valle santa",,4
+"2018-07-22 05:00:57","olio oliva",,B079RK5ZJ3,"Il Boschetto",,5
+"2018-07-22 05:00:57","olio oliva",,B072MJN2M8,Eterno,,6
+"2018-07-22 05:00:57","olio oliva",,B072JZ38S1,Eterno,,7
+"2018-07-22 05:00:59","olio extravergine d'oliva","Estratto a freddo, delicato, acidità solo 0,12%",,"Greek Flavours",,1
+"2018-07-22 05:00:44","olio extravergine d'oliva",,B07CBCNSN1,"Tenuta Romano",,2
+"2018-07-22 05:00:48","olio extravergine d'oliva",,B07D9W6K55,Mimì,,3
+"2018-07-22 05:00:44","olio extravergine d'oliva",,B01DDB4ZG2,"Hacienda Ortigosa",,4
+"2018-07-22 05:00:44","olio extravergine d'oliva",,B01DDB4VPM,"Hacienda Ortigosa",,5
+"2018-07-22 05:00:44","olio extravergine d'oliva",,B00Q78C1EW,"Seven Minerals",,6
+"2018-07-22 05:00:48","olio extravergine d'oliva",,B076BZ323X,Arol,,7
+"2018-07-22 05:00:59",monini,,,,,1
+"2018-07-22 05:00:59","Olio monini","Olio di mandorle bio per cura naturale del corpo",,"Satin Naturel",,1
+"2018-07-22 05:00:54","Olio monini",,B00LBTLUDK,"Pietro Coricelli",,2
+"2018-07-22 05:00:44","Olio monini",,B01DDB4ZG2,"Hacienda Ortigosa",,3
+"2018-07-22 05:00:54","Olio monini",,B072XHL9CN,CLEMENTE,,4
+"2018-07-22 05:00:54","Olio monini",,B072VRQ9MX,CLEMENTE,,5
+"2018-07-22 05:00:59","olio d oliva extravergine",,,,,1
+"2018-07-22 05:00:44","olio d oliva extravergine",,B01N4OZ8LG,"Piana del Lentisco",,2
+"2018-07-22 05:00:44","olio d oliva extravergine",,B07CBCNSN1,"Tenuta Romano",,3
+"2018-07-22 05:00:44","olio d oliva extravergine",,B01DDB4ZG2,"Hacienda Ortigosa",,4
+"2018-07-22 05:00:44","olio d oliva extravergine",,B01DDB4VPM,"Hacienda Ortigosa",,5
+"2018-07-22 05:00:44","olio d oliva extravergine",,B00Q78C1EW,"Seven Minerals",,6
+"2018-07-22 05:00:44","olio d oliva extravergine",,B01N366SDE,"Piana del Lentisco",,7
+"2018-07-22 05:00:59",Bertolli,,,,,1
+"2018-07-22 05:00:59",keywords,,,,,1
+"2018-07-22 05:00:59",pane,"Alimenti senza glutine, gusto e nutrimento.",,"Farmo Spa",,1
+"2018-07-22 05:00:59",farro,,,,,1
+"2018-07-22 05:01:00",farro,,B0769YGT56,"Birkkala Farm",,2
+"2018-07-22 05:01:00",farro,,B0769VSWPD,"Birkkala Farm",,3
+"2018-07-22 05:01:19",farro,,B0769VL726,"Birkkala Farm",,4
+"2018-07-22 05:01:19",farro,,B0196SYSQI,Biojoy,,5
+"2018-07-22 05:01:19",farro,,B01975RUF6,Biojoy,,6
+"2018-07-22 05:01:19",farro,,B079CXTFD5,"Molin di Pepe",,7
+"2018-07-22 05:01:17",mais,"Percorso Salute® dalla Valtellina alla tua tavola",,Galbusera,,1
+"2018-07-22 05:01:19",mais,,B0797WSBVM,Celigustiamo,,2
+"2018-07-22 05:01:19",mais,,B0797SFJXX,Celigustiamo,,3
+"2018-07-22 05:01:19",mais,,B0797SSGR7,Celigustiamo,,4
+"2018-07-22 05:01:19",mais,,B07DPFFTBQ,Galbusera,,5
+"2018-07-22 05:01:19",mais,,B07DP6J8HN,Galbusera,,6
+"2018-07-22 05:01:23",mais,,B07DPFG4X9,Galbusera,,7
+"2018-07-22 05:01:21",kamut,,,,,1
+"2018-07-22 05:01:23",kamut,,B01IFHP1T4,Felicetti,,2
+"2018-07-22 05:01:23",kamut,,B01IFHP5OK,Felicetti,,3
+"2018-07-22 05:01:23",kamut,,B01LHTLUO2,"Pastificio Felicetti",,4
+"2018-07-22 05:01:23",kamut,,B07BY14Y2P,"Pastificio Felicetti",,5
+"2018-07-22 05:01:21",crostini,,,,,1
+"2018-07-22 05:01:23",crostini,,B01KFMI1US,"Duke Gifts",,2
+"2018-07-22 05:01:23",crostini,,B01KFMH3LG,"Duke Gifts",,3
+"2018-07-22 05:01:23",crostini,,B01KFMFPB6,"Duke Gifts",,4
+"2018-07-22 05:01:25",taralli,,,,,1
+"2018-07-22 05:01:27",taralli,,B07D92V18D,Spina,,2
+"2018-07-22 05:01:27",taralli,,B07D92YL2J,Spina,,3
+"2018-07-22 05:01:27",taralli,,B07D91CS1N,Spina,,4
+"2018-07-22 05:01:27",taralli,,B0789LRH5F,"Bell'Olio di Puglia",,5
+"2018-07-22 05:01:27",taralli,,B079D9T12N,"Bell'Olio di Puglia",,6
+"2018-07-22 05:01:27",taralli,,B079Y8LNLN,"Bell'Olio di Puglia",,7
+"2018-07-22 05:01:25",grissini,"Alimenti senza glutine, gusto e nutrimento.",,"Farmo Spa",,1
+"2018-07-22 05:01:27",grissini,,B0174SR7HY,"Duke Gifts",,2
+"2018-07-22 05:01:27",grissini,,B01KFMIWZC,"Duke Gifts",,3
+"2018-07-22 05:01:31",grissini,,B017XUIM72,"Duke Gifts",,4
+"2018-07-22 05:01:31",grissini,,B017XUMKDE,"Duke Gifts",,5
+"2018-07-22 05:01:29","fette biscottate",,,,,1
+"2018-07-22 05:01:31","fette biscottate",,B01FW6D1W0,Probios,,2
+"2018-07-22 05:01:31","fette biscottate",,B00XRPEDTO,"Mulino Bianco",,3
+"2018-07-22 05:01:31","fette biscottate",,B079H56LH1,Matt,,4
+"2018-07-22 05:01:31","fette biscottate",,B01LY0VMAC,Matt,,5
+"2018-07-22 05:01:31","fette biscottate",,B0174SM3PK,"Duke Gifts",,6
+"2018-07-22 05:01:29",gallette,,,,,1
+"2018-07-22 05:01:31",gallette,,B01LY0VMAC,Matt,,2
+"2018-07-22 05:01:35",gallette,,B06XHSSZL8,Agrinovanta,,3
+"2018-07-22 05:01:31",gallette,,B079H56LH1,Matt,,4
+"2018-07-22 05:01:33","fette biscottate mulino bianco",,,,,1
+"2018-07-22 05:01:33","crostini buitoni",,,,,1
+"2018-07-22 05:01:33","grissini torinesi",,,,,1
+"2018-07-22 05:01:33","fette biscottate gentilini",,,,,1
+"2018-07-22 05:01:31","fette biscottate gentilini",,B01FW6D1W0,Probios,,2
+"2018-07-22 05:01:31","fette biscottate gentilini",,B01LY0VMAC,Matt,,3
+"2018-07-22 05:01:31","fette biscottate gentilini",,B079H56LH1,Matt,,4
+"2018-07-22 05:01:33","grissini integrali",,,,,1
+"2018-07-22 05:01:33",pasta,"Kitchenaid, Elettrodomestici di Alta Qualità.",,KitchenAid,,1
+"2018-07-22 05:01:35",pasta,,B01IYIY5JG,"Kitchen Aid",,2
+"2018-07-22 05:01:35",pasta,,B01N4061WW,"Hasbro Play-Doh",,3
+"2018-07-22 05:01:35",pasta,,B000VKHCEQ,KitchenAid,,4
+"2018-07-22 05:01:39",pasta,,B01H6QNNZY,"Kitchen Aid",,5
+"2018-07-22 05:01:39",pasta,,B000VZ4VQ8,KitchenAid,,6
+"2018-07-22 05:01:39",pasta,,B073VMV5C8,HOHT,,7
+"2018-07-22 05:01:37",barilla,,,,,1
+"2018-07-22 05:01:39",barilla,,B01LD5E37G,Nesquik,,2
+"2018-07-22 05:01:39",barilla,,B01LD5FBOU,Nesquik,,3
+"2018-07-22 05:01:37",spaghetti,,,,,1
+"2018-07-22 05:01:39",spaghetti,,B074PBV673,Rummo,,2
+"2018-07-22 05:01:37",glutine,"Testa la tua salute comodamente da casa",,PRIMA,,1
+"2018-07-22 05:01:39",glutine,,B074PD5B3J,Rummo,,2
+"2018-07-22 05:01:39",glutine,,B074PBV673,Rummo,,3
+"2018-07-22 05:01:43",glutine,,B07FB53566,"Trade Wholesale Company",,4
+"2018-07-22 05:01:43",glutine,,B01M7QTN0M,Brubaker,,5
+"2018-07-22 05:01:43",glutine,,B00MAMSPA8,NaturaForte,,6
+"2018-07-22 05:01:43",glutine,,B003YTB1YS,Dual,,7
+"2018-07-22 05:01:41",tagliatelle,,,,,1
+"2018-07-22 05:01:43",tagliatelle,,B072HX1S9Z,D'andrea,,2
+"2018-07-22 05:01:43",tagliatelle,,B06XTW7YT3,Tianfengyu,,3
+"2018-07-22 05:01:41",ricotta,,,,,1
+"2018-07-22 05:01:41",trofie,,,,,1
+"2018-07-22 05:01:41","senza glutine","Supercibi di alta qualità per la tua salute",,"Nutri Superfoods",,1
+"2018-07-22 05:01:47","senza glutine",,B0767M2W2G,pipkin,,2
+"2018-07-22 05:01:47","senza glutine",,B01M1LQM69,"San Pellegrino",,3
+"2018-07-22 05:01:47","senza glutine",,B075QHBDHQ,Saturo,,4
+"2018-07-22 05:01:47","senza glutine",,B07C8PFTYL,FARMO,,5
+"2018-07-22 05:01:47","senza glutine",,B07BLGYRD4,FARMO,,6
+"2018-07-22 05:01:47","senza glutine",,B01MQ5VGLG,NutriZing,,7
+"2018-07-22 05:01:45",integrale,"Percorso Salute® dalla Valtellina alla tua tavola",,Galbusera,,1
+"2018-07-22 05:01:47",integrale,,B07DPFFYH5,Galbusera,,2
+"2018-07-22 05:01:47",integrale,,B071NDVGLF,Galbusera,,3
+"2018-07-22 05:01:47",integrale,,B00ZFQWKC0,Steens,,4
+"2018-07-22 05:01:51",integrale,,B00KHLLMUE,Steens,,5
+"2018-07-22 05:01:51",integrale,,B0769XM6QK,"Birkkala Farm",,6
+"2018-07-22 05:01:39",integrale,,B074PBV673,Rummo,,7
+"2018-07-22 05:01:49",cannolicchi,,,,,1
+"2018-07-22 05:01:49","pasta integrale","Cucina come un grande chef",,"My Cooking Box",,1
+"2018-07-22 05:01:51","pasta integrale",,B01HGR5GJ4,PROMETEO,,2
+"2018-07-22 05:01:51","pasta integrale",,B01HGR5ATK,Prometeo,,3
+"2018-07-22 05:01:51","pasta integrale",,B07C8LQHF5,D'andrea,,4
+"2018-07-22 05:01:51","pasta integrale",,B07CQ5B6W5,PastaPro,,5
+"2018-07-22 05:01:51","pasta integrale",,B00K65YPMS,,,6
+"2018-07-22 05:01:51","pasta integrale",,B076KM3HW6,"Pastificio De Matteis",,7
+"2018-07-22 05:01:54",linguine,,,,,1
+"2018-07-22 05:01:54","pasta all'uovo",,,,,1
+"2018-07-22 05:01:56","pasta all'uovo",,B07BL4YTL4,"Pasta Santoni",,2
+"2018-07-22 05:01:56","pasta all'uovo",,B07BL4H8F9,"Pasta Santoni",,3
+"2018-07-22 05:01:56","pasta all'uovo",,B07BL5HG25,"Pasta Santoni",,4
+"2018-07-22 05:01:56","pasta all'uovo",,B075F6XJ1J,"Pastificio di Amante",,5
+"2018-07-22 05:01:56","pasta all'uovo",,B07BL5PYTQ,"Pasta Santoni",,6
+"2018-07-22 05:01:56","pasta all'uovo",,B071F32HKD,Fiordimonte,,7
+"2018-07-22 05:01:54",fusilli,,,,,1
+"2018-07-22 05:01:23",fusilli,,B01IFHP1T4,Felicetti,,2
+"2018-07-22 05:01:56",fusilli,,B07CDVSZ4B,"Pastificio Felicetti",,3
+"2018-07-22 05:02:00",fusilli,,B071VMF783,D'andrea,,4
+"2018-07-22 05:02:00",fusilli,,B007Q0GOKM,CarbZone,,5
+"2018-07-22 05:01:58","pasta rummo",,,,,1
+"2018-07-22 05:01:39","pasta rummo",,B074PD5B3J,Rummo,,2
+"2018-07-22 05:01:39","pasta rummo",,B074PBV673,Rummo,,3
+"2018-07-22 05:02:00","pasta rummo",,B075RKQ7Q9,"VISCIANO - Sapore Italiano",,4
+"2018-07-22 05:02:00","pasta rummo",,B018OEL5EI,"La Hita",,5
+"2018-07-22 05:01:58","pasta barilla",,,,,1
+"2018-07-22 05:02:00","pasta barilla",,B002LY89MO,Barilla,,2
+"2018-07-22 05:02:00","pasta barilla",,B00XUM48CG,Barilla,,3
+"2018-07-22 05:01:43","pasta barilla",,B07FB53566,"Trade Wholesale Company",,4
+"2018-07-22 05:01:39","pasta barilla",,B01LD5E37G,Nesquik,,5
+"2018-07-22 05:02:00","pasta barilla",,B075RKQ7Q9,"VISCIANO - Sapore Italiano",,6
+"2018-07-22 05:01:58","spaghetti di riso","Percorso Salute® dalla Valtellina alla tua tavola",,Galbusera,,1
+"2018-07-22 05:02:13","spaghetti di riso",,B0185OQUVK,"Miracle Noodle",,2
+"2018-07-22 05:01:43","spaghetti di riso",,B06XTW7YT3,Tianfengyu,,3
+"2018-07-22 05:02:13","spaghetti di riso",,B01JLHNLD0,TTLIFE,,4
+"2018-07-22 05:02:03","de cecco",,,,,1
+"2018-07-22 05:02:13","de cecco",,B003OW7JN2,"De Cecco",,2
+"2018-07-22 05:02:13","de cecco",,B01MG8XFG2,"De Cecco",,3
+"2018-07-22 05:02:13","de cecco",,B077JZZLLY,"De Cecco",,4
+"2018-07-22 05:02:13","de cecco",,B077JRJVT7,"De Cecco",,5
+"2018-07-22 05:02:13","de cecco",,B076Z5SSCC,"Cecchi e Cecchi",,6
+"2018-07-22 05:02:13","de cecco",,B01FFBXJSS,ENROSE,,7
+"2018-07-22 05:02:03","pasta senza glutine","È sempre l'ora del Cous Cous con Probios",,"Probios: bio dal 1978",,1
+"2018-07-22 05:01:39","pasta senza glutine",,B074PD5B3J,Rummo,,2
+"2018-07-22 05:02:20","pasta senza glutine",,B0733CZGJL,CelDiaVeg,,3
+"2018-07-22 05:01:39","pasta senza glutine",,B074PBV673,Rummo,,4
+"2018-07-22 04:59:55","pasta senza glutine",,B01LB2EZCY,"Cute Nutrition",,5
+"2018-07-22 05:02:20","pasta senza glutine",,B0772T7R1G,SENS,,6
+"2018-07-22 05:02:20","pasta senza glutine",,B0777LHYNZ,SENS,,7
+"2018-07-22 05:02:15",rummo,,,,,1
+"2018-07-22 05:01:39",rummo,,B074PBV673,Rummo,,2
+"2018-07-22 05:01:39",rummo,,B074PD5B3J,Rummo,,3
+"2018-07-22 05:02:15",melanzane,,,,,1
+"2018-07-22 05:02:20",melanzane,,B07FHLLX38,"Il Pollino a Tavola",,2
+"2018-07-22 05:02:20",melanzane,,B07D91BXCV,Spina,,3
+"2018-07-22 05:02:20",melanzane,,B07FHLYHXF,"Il Pollino a Tavola",,4
+"2018-07-22 05:02:20",melanzane,,B07F468ZN3,"Il Pollino a Tavola",,5
+"2018-07-22 05:02:20",melanzane,,B00LFLWX1M,Lotuscrafts,,6
+"2018-07-22 05:02:20",melanzane,,B07D92SMT8,Spina,,7
+"2018-07-22 05:02:18",nduja,"Produttori di Eccellenze Gastronomiche dal 1998",,"Valle del Crati",,1
+"2018-07-22 05:02:24",nduja,,B01N7ERTE6,"Valle del Crati",,2
+"2018-07-22 05:02:22","funghi porcini",,,,,1
+"2018-07-22 05:02:24","funghi porcini",,B075KCG3TP,"Moretti Voglie di Bosco",,2
+"2018-07-22 05:02:24","funghi porcini",,B06XXNMLYN,"Sulpizio Tartufi",,3
+"2018-07-22 05:02:24","funghi porcini",,B06XXKXYTD,"Sulpizio Tartufi",,4
+"2018-07-22 05:02:24","funghi porcini",,B075KG56S5,"Moretti Voglie di Bosco",,5
+"2018-07-22 05:02:24","funghi porcini",,B01EX8PPWW,"Molino Pellegrini",,6
+"2018-07-22 05:02:24","funghi porcini",,B074YHV2NS,"JOHNLEEMUSHROOM RESELLER",,7
+"2018-07-22 05:02:22",salsiccia,"Giochi e attività per un divertimento senza fine",,"Giochi Preziosi Italy",,1
+"2018-07-22 05:02:24",salsiccia,,B0793M4QTB,Aobosi,,2
+"2018-07-22 05:02:28",salsiccia,,B01HQ18K84,Wellcoda,,3
+"2018-07-22 05:02:28",salsiccia,,B01N1JKGU8,Wellcoda,,4
+"2018-07-22 05:02:28",salsiccia,,B06XY3GWY6,Wellcoda,,5
+"2018-07-22 05:02:26",pesto,,,,,1
+"2018-07-22 05:02:28",pesto,,B002LY6JYO,Biffi,,2
+"2018-07-22 05:02:28",pesto,,B01M0ZPNUE,CioMod,,3
+"2018-07-22 05:02:28",pesto,,B01GEFUJM8,bofrost*,,4
+"2018-07-22 05:02:28",pesto,,B01LXQT5QM,CioMod,,5
+"2018-07-22 05:02:26",vongole,"Tonno, Acciughe e Vongole di Qualità ""Amati""",,Amati,,1
+"2018-07-22 05:02:26",ragu,"La Tradizione Gastronomica Italiana dal 1852",,Biffi,,1
+"2018-07-22 05:02:32",ragu,,B01KU02CBY,Biffi,,2
+"2018-07-22 05:02:30",bolognese,,,,,1
+"2018-07-22 05:02:30","ragu alla bolognese",,,,,1
+"2018-07-22 05:02:30","pomodori secchi",,,,,1
+"2018-07-22 05:02:32","pomodori secchi",,B06Y52X7QC,VidiFood,,2
+"2018-07-22 05:02:32","pomodori secchi",,B019O9NFHM,"MASTROTOTARO FOOD",,3
+"2018-07-22 05:02:32","pomodori secchi",,B01DWG2HJ0,Campisi,,4
+"2018-07-22 05:02:32","pomodori secchi",,B01MR1B95H,"Agricola Quinto",,5
+"2018-07-22 05:02:32","pomodori secchi",,B073JNDYR2,"La Mangonesina",,6
+"2018-07-22 05:02:32","pomodori secchi",,B076VM1SQ5,"Vivandera Italian Food",,7
+"2018-07-22 05:02:34","ragu bolognese",,,,,1
+"2018-07-22 05:02:34","funghi champignon",,,,,1
+"2018-07-22 05:02:36","funghi champignon",,B00PW371SE,"Himalayas Mushroom & Truffles",,2
+"2018-07-22 05:02:36","funghi champignon",,B00IZMFV90,Osumex,,3
+"2018-07-22 05:02:36","funghi champignon",,B01CMEDU0S,Tomax,,4
+"2018-07-22 05:02:34",sugo,,,,,1
+"2018-07-22 05:02:32",sugo,,B01KU02CBY,Biffi,,2
+"2018-07-22 05:02:36",sugo,,B06XXDWRQJ,"Sulpizio Tartufi",,3
+"2018-07-22 05:02:36",sugo,,B0759KGTDF,"Bell'Olio di Puglia",,4
+"2018-07-22 05:02:34",mutti,,,,,1
+"2018-07-22 05:02:34","sugo per pasta","Kitchenaid, Elettrodomestici di Alta Qualità.",,KitchenAid,,1
+"2018-07-22 05:02:38","sugo amatriciana",,,,,1
+"2018-07-22 05:02:38","sugo di pomodoro",,,,,1
+"2018-07-22 05:02:40","sugo di pomodoro",,B0005YY9O4,Barilla,,2
+"2018-07-22 05:02:40","sugo di pomodoro",,B06XJXG59R,Lazzari,,3
+"2018-07-22 05:02:36","sugo di pomodoro",,B06XXDWRQJ,"Sulpizio Tartufi",,4
+"2018-07-22 05:02:40","sugo di pomodoro",,B07FNNY8PK,"Gustibus Alimentari",,5
+"2018-07-22 05:02:38",gravy,,,,,1
+"2018-07-22 05:02:38","sugo ai funghi",,,,,1
+"2018-07-22 05:02:40","sugo ai funghi",,B072PSLFX5,"Tocchi Di Puglia",,2
+"2018-07-22 05:02:24","sugo ai funghi",,B075KG56S5,"Moretti Voglie di Bosco",,3
+"2018-07-22 05:02:38","nduja calabrese","Produttori di Eccellenze Gastronomiche dal 1998",,"Valle del Crati",,1
+"2018-07-22 05:02:24","nduja calabrese",,B01N7ERTE6,"Valle del Crati",,2
+"2018-07-22 05:02:40","nduja calabrese",,B07B3TXTK6,Cantafio,,3
+"2018-07-22 05:02:47","nduja calabrese",,B07CW1H1XG,MiVizio,,4
+"2018-07-22 05:02:47","nduja calabrese",,B07B3W5J6S,Cantafio,,5
+"2018-07-22 05:02:47","nduja calabrese",,B075SC3FSC,MiVizio,,6
+"2018-07-22 05:02:42",biscotti,"Latte Crescita Plasmon Nutri-mune",,Plasmon,,1
+"2018-07-22 05:02:47",biscotti,,B071KGFCVJ,"Ann Clark Cookie Cutters",,2
+"2018-07-22 05:02:47",biscotti,,B072KFT7YK,"Ann Clark Cookie Cutters",,3
+"2018-07-22 05:02:47",biscotti,,B01LZSJ7EH,"Ann Clark Cookie Cutters",,4
+"2018-07-22 05:02:47",biscotti,,B00IYTOSNE,"Daelmans Banket B.V.",,5
+"2018-07-22 05:02:47",biscotti,,B072KLKQMH,"Ann Clark Cookie Cutters",,6
+"2018-07-22 05:02:47",biscotti,,B01DMUEMCG,Anokay,,7
+"2018-07-22 05:02:45","mulino bianco",,,,,1
+"2018-07-22 05:02:52","mulino bianco",,B00PA2JPTA,"Mulino Bianco",,2
+"2018-07-22 05:02:52","mulino bianco",,B00XUONBFY,"Mulino Bianco",,3
+"2018-07-22 05:02:52","mulino bianco",,B00R8CN7OE,"Mulino Bianco",,4
+"2018-07-22 05:00:37","mulino bianco",,B005J3I4BU,"Chupa Chups",,5
+"2018-07-22 05:01:31","mulino bianco",,B00XRPEDTO,"Mulino Bianco",,6
+"2018-07-22 05:02:50",ferrero,,,,,1
+"2018-07-22 05:00:37",ferrero,,B005J3I4BU,"Chupa Chups",,2
+"2018-07-22 05:02:50","muffin al cioccolato",,,,,1
+"2018-07-22 05:02:52","muffin al cioccolato",,B07D7TP2YB,Ndier,,2
+"2018-07-22 05:02:52","muffin al cioccolato",,B078RMH7XH,NiceButy,,3
+"2018-07-22 05:02:52","muffin al cioccolato",,B07BWFMY2L,YuCool,,4
+"2018-07-22 05:02:52","muffin al cioccolato",,B07F61JMJ3,Asien,,5
+"2018-07-22 05:02:52","muffin al cioccolato",,B07F634B6N,Asien,,6
+"2018-07-22 05:03:00","muffin al cioccolato",,B01JYBP7R6,Senhai,,7
+"2018-07-22 05:02:55",cookies,,,,,1
+"2018-07-22 05:02:55",motta,,,,,1
+"2018-07-22 05:02:55",buondi,,,,,1
+"2018-07-22 05:02:55","pan di stelle",,,,,1
+"2018-07-22 05:03:00","pan di stelle",,B00ADK5NMC,"Mulino Bianco",,2
+"2018-07-22 05:02:55",croissant,,,,,1
+"2018-07-22 05:02:55","biscotti al cioccolato","Alimenti senza glutine, gusto e nutrimento.",,"Farmo Spa",,1
+"2018-07-22 05:03:00","biscotti al cioccolato",,B075NB1MN2,"Dolci Aveja",,2
+"2018-07-22 05:03:00","biscotti al cioccolato",,B00JJURGEA,Tisanoreica,,3
+"2018-07-22 05:03:00","biscotti al cioccolato",,B0075XBFAE,Herbalife,,4
+"2018-07-22 05:03:00","biscotti al cioccolato",,B01LB2F172,"Cute Nutrition",,5
+"2018-07-22 05:02:20","biscotti al cioccolato",,B0777LHYNZ,SENS,,6
+"2018-07-22 05:00:37","biscotti al cioccolato",,B005J3I4BU,"Chupa Chups",,7
+"2018-07-22 05:02:58","biscotti mulino bianco",,,,,1
+"2018-07-22 05:02:52","biscotti mulino bianco",,B00PA2JPTA,"Mulino Bianco",,2
+"2018-07-22 05:03:00","biscotti mulino bianco",,B01AM5Z8HW,"Mulino Bianco",,3
+"2018-07-22 05:00:37","biscotti mulino bianco",,B005J3I4BU,"Chupa Chups",,4
+"2018-07-22 05:03:00","biscotti mulino bianco",,B00XRPHM0Q,"Mulino Bianco",,5
+"2018-07-22 05:02:58",loacker,,,,,1
+"2018-07-22 05:03:02",bauli,"Thunderdog cesti decorativi",,Thunderdog,,1
+"2018-07-22 05:03:04",bauli,,B06Y663J7Q,"Pieffe Mobili",,2
+"2018-07-22 05:03:04",bauli,,B00ZR9V3E6,"Pieffe Mobili",,3
+"2018-07-22 05:03:04",bauli,,B01EX678SS,"Pieffe Mobili",,4
+"2018-07-22 05:03:04",bauli,,B01MZ810S6,"Pieffe Mobili",,5
+"2018-07-22 05:03:02","buondi motta",,,,,1
+"2018-07-22 05:03:02",ringo,,,,,1
+"2018-07-22 05:03:04",ringo,,B007ZYPOCI,"Kruuse Uk Limited",,2
+"2018-07-22 05:03:02","kinder bueno",,,,,1
+"2018-07-22 05:00:37","kinder bueno",,B005J3I4BU,"Chupa Chups",,2
+"2018-07-22 05:03:04","kinder bueno",,B07BZVBH2V,Ciocopassion,,3
+"2018-07-22 05:03:08","kinder bueno",,B0189GKAEW,Nestle,,4
+"2018-07-22 05:03:08","kinder bueno",,B01ELMQWU4,BOUNTY,,5
+"2018-07-22 05:03:06",snack,"Percorso Salute® dalla Valtellina alla tua tavola",,Galbusera,,1
+"2018-07-22 05:03:08",snack,,B0716S5NLD,CarbZone,,2
+"2018-07-22 05:03:08",snack,,B01CI4BVAS,Parmareggio,,3
+"2018-07-22 05:03:08",snack,,B0776T9DZ6,"Avicenna BIO Food",,4
+"2018-07-22 05:03:08",snack,,B01MYBQWHX,"Jack Link's",,5
+"2018-07-22 05:01:27",snack,,B079Y8LNLN,"Bell'Olio di Puglia",,6
+"2018-07-22 05:03:08",snack,,B079Y8NQKJ,"Bell'Olio di Puglia",,7
+"2018-07-22 05:03:06",cornetti,,,,,1
+"2018-07-22 05:03:06",galbusera,"Percorso Salute® dalla Valtellina alla tua tavola",,Galbusera,,1
+"2018-07-22 05:01:19",galbusera,,B07DPFFTBQ,Galbusera,,2
+"2018-07-22 05:03:12",galbusera,,B07DPFV3GV,Galbusera,,3
+"2018-07-22 05:03:12",galbusera,,B07DPFYVJ8,Galbusera,,4
+"2018-07-22 05:01:19",galbusera,,B07DP6J8HN,Galbusera,,5
+"2018-07-22 05:03:10","kinder delice",,,,,1
+"2018-07-22 05:03:08","kinder delice",,B01ELMQWU4,BOUNTY,,2
+"2018-07-22 05:03:10",wafer,,,,,1
+"2018-07-22 05:03:12",wafer,,B07DPFPDW6,Tremarie,,2
+"2018-07-22 05:03:12",wafer,,B07DP7BGVL,Tremarie,,3
+"2018-07-22 05:03:12",wafer,,B07DPFBRY3,Tremarie,,4
+"2018-07-22 05:03:12",wafer,,B01N6D8CGP,"Net Integratori",,5
+"2018-07-22 05:03:12",wafer,,B07DP6J8GY,Tremarie,,6
+"2018-07-22 05:03:10","cereali integrali",,,,,1
+"2018-07-22 05:03:15","cereali integrali",,B074X78678,Prozis,,2
+"2018-07-22 05:03:14",pavesini,,,,,1
+"2018-07-22 05:03:14",merendine,,,,,1
+"2018-07-22 05:03:14",merende,,,,,1
+"2018-07-22 05:03:14",baiocchi,,,,,1
+"2018-07-22 05:03:14",keywords,,,,,1
+"2018-07-22 05:03:14",pane,"Alimenti senza glutine, gusto e nutrimento.",,"Farmo Spa",,1
+"2018-07-22 05:03:14",farro,"È sempre l'ora del Cous Cous con Probios",,"Probios: bio dal 1978",,1
+"2018-07-22 05:01:00",farro,,B0769YGT56,"Birkkala Farm",,2
+"2018-07-22 05:01:00",farro,,B0769VSWPD,"Birkkala Farm",,3
+"2018-07-22 05:01:19",farro,,B0769VL726,"Birkkala Farm",,4
+"2018-07-22 05:01:19",farro,,B0196SYSQI,Biojoy,,5
+"2018-07-22 05:01:19",farro,,B01975RUF6,Biojoy,,6
+"2018-07-22 05:01:19",farro,,B079CXTFD5,"Molin di Pepe",,7
+"2018-07-22 05:03:14",mais,"Percorso Salute® dalla Valtellina alla tua tavola",,Galbusera,,1
+"2018-07-22 05:01:19",mais,,B0797WSBVM,Celigustiamo,,2
+"2018-07-22 05:01:19",mais,,B0797SFJXX,Celigustiamo,,3
+"2018-07-22 05:01:19",mais,,B0797SSGR7,Celigustiamo,,4
+"2018-07-22 05:01:19",mais,,B07DPFFTBQ,Galbusera,,5
+"2018-07-22 05:01:19",mais,,B07DP6J8HN,Galbusera,,6
+"2018-07-22 05:01:23",mais,,B07DPFG4X9,Galbusera,,7
+"2018-07-22 05:03:14",kamut,,,,,1
+"2018-07-22 05:01:23",kamut,,B01IFHP1T4,Felicetti,,2
+"2018-07-22 05:01:23",kamut,,B01IFHP5OK,Felicetti,,3
+"2018-07-22 05:01:23",kamut,,B01LHTLUO2,"Pastificio Felicetti",,4
+"2018-07-22 05:01:23",kamut,,B07BY14Y2P,"Pastificio Felicetti",,5
+"2018-07-22 05:03:17",crostini,,,,,1
+"2018-07-22 05:01:23",crostini,,B01KFMI1US,"Duke Gifts",,2
+"2018-07-22 05:01:23",crostini,,B01KFMH3LG,"Duke Gifts",,3
+"2018-07-22 05:01:23",crostini,,B01KFMFPB6,"Duke Gifts",,4
+"2018-07-22 05:03:17",taralli,,,,,1
+"2018-07-22 05:01:27",taralli,,B07D92V18D,Spina,,2
+"2018-07-22 05:01:27",taralli,,B07D92YL2J,Spina,,3
+"2018-07-22 05:01:27",taralli,,B07D91CS1N,Spina,,4
+"2018-07-22 05:01:27",taralli,,B0789LRH5F,"Bell'Olio di Puglia",,5
+"2018-07-22 05:01:27",taralli,,B079D9T12N,"Bell'Olio di Puglia",,6
+"2018-07-22 05:01:27",taralli,,B079Y8LNLN,"Bell'Olio di Puglia",,7
+"2018-07-22 05:03:17",grissini,"Alimenti senza glutine, gusto e nutrimento.",,"Farmo Spa",,1
+"2018-07-22 05:01:27",grissini,,B0174SR7HY,"Duke Gifts",,2
+"2018-07-22 05:01:27",grissini,,B01KFMIWZC,"Duke Gifts",,3
+"2018-07-22 05:01:31",grissini,,B017XUIM72,"Duke Gifts",,4
+"2018-07-22 05:01:31",grissini,,B017XUMKDE,"Duke Gifts",,5
+"2018-07-22 05:03:17","fette biscottate",,,,,1
+"2018-07-22 05:01:31","fette biscottate",,B01FW6D1W0,Probios,,2
+"2018-07-22 05:01:31","fette biscottate",,B00XRPEDTO,"Mulino Bianco",,3
+"2018-07-22 05:01:31","fette biscottate",,B079H56LH1,Matt,,4
+"2018-07-22 05:01:31","fette biscottate",,B01LY0VMAC,Matt,,5
+"2018-07-22 05:01:31","fette biscottate",,B0174SM3PK,"Duke Gifts",,6
+"2018-07-22 05:03:17",gallette,,,,,1
+"2018-07-22 05:01:31",gallette,,B01LY0VMAC,Matt,,2
+"2018-07-22 05:01:35",gallette,,B06XHSSZL8,Agrinovanta,,3
+"2018-07-22 05:01:31",gallette,,B079H56LH1,Matt,,4
+"2018-07-22 05:03:17","fette biscottate mulino bianco",,,,,1
+"2018-07-22 05:01:31","fette biscottate mulino bianco",,B00XRPEDTO,"Mulino Bianco",,2
+"2018-07-22 05:03:17","crostini buitoni",,,,,1
+"2018-07-22 05:03:17","grissini torinesi",,,,,1
+"2018-07-22 05:03:17","fette biscottate gentilini",,,,,1
+"2018-07-22 05:01:31","fette biscottate gentilini",,B01FW6D1W0,Probios,,2
+"2018-07-22 05:01:31","fette biscottate gentilini",,B01LY0VMAC,Matt,,3
+"2018-07-22 05:01:31","fette biscottate gentilini",,B079H56LH1,Matt,,4
+"2018-07-22 05:03:17","grissini integrali",,,,,1
+"2018-07-22 05:03:19",pasta,"Kitchenaid, Elettrodomestici di Alta Qualità.",,KitchenAid,,1
+"2018-07-22 05:01:35",pasta,,B01IYIY5JG,"Kitchen Aid",,2
+"2018-07-22 05:01:35",pasta,,B01N4061WW,"Hasbro Play-Doh",,3
+"2018-07-22 05:01:35",pasta,,B000VKHCEQ,KitchenAid,,4
+"2018-07-22 05:01:39",pasta,,B01H6QNNZY,"Kitchen Aid",,5
+"2018-07-22 05:01:39",pasta,,B01H6QNNZY,"Kitchen Aid",,6
+"2018-07-22 05:01:39",pasta,,B073VMV5C8,HOHT,,7
+"2018-07-22 05:03:19",barilla,,,,,1
+"2018-07-22 05:01:39",barilla,,B01LD5E37G,Nesquik,,2
+"2018-07-22 05:01:39",barilla,,B01LD5FBOU,Nesquik,,3
+"2018-07-22 05:03:19",spaghetti,"Scopri i prodotti più iconici di Alessi",,"Alessi S.p.A.",,1
+"2018-07-22 05:01:39",spaghetti,,B074PBV673,Rummo,,2
+"2018-07-22 05:03:19",glutine,"Testa la tua salute comodamente da casa",,PRIMA,,1
+"2018-07-22 05:01:39",glutine,,B074PD5B3J,Rummo,,2
+"2018-07-22 05:01:39",glutine,,B074PBV673,Rummo,,3
+"2018-07-22 05:01:43",glutine,,B07FB53566,"Trade Wholesale Company",,4
+"2018-07-22 05:01:43",glutine,,B01M7QTN0M,Brubaker,,5
+"2018-07-22 05:01:43",glutine,,B00MAMSPA8,NaturaForte,,6
+"2018-07-22 05:01:43",glutine,,B003YTB1YS,Dual,,7
+"2018-07-22 05:03:19",tagliatelle,,,,,1
+"2018-07-22 05:01:43",tagliatelle,,B072HX1S9Z,D'andrea,,2
+"2018-07-22 05:01:43",tagliatelle,,B06XTW7YT3,Tianfengyu,,3
+"2018-07-22 05:03:19",ricotta,,,,,1
+"2018-07-22 05:03:19",trofie,,,,,1
+"2018-07-22 05:03:19","senza glutine","Supercibi di alta qualità per la tua salute",,"Nutri Superfoods",,1
+"2018-07-22 05:01:47","senza glutine",,B0767M2W2G,pipkin,,2
+"2018-07-22 05:01:47","senza glutine",,B01M1LQM69,"San Pellegrino",,3
+"2018-07-22 05:01:47","senza glutine",,B075QHBDHQ,Saturo,,4
+"2018-07-22 05:01:47","senza glutine",,B07C8PFTYL,FARMO,,5
+"2018-07-22 05:01:47","senza glutine",,B07BLGYRD4,FARMO,,6
+"2018-07-22 05:01:47","senza glutine",,B01MQ5VGLG,NutriZing,,7
+"2018-07-22 05:03:19",integrale,"Percorso Salute® dalla Valtellina alla tua tavola",,Galbusera,,1
+"2018-07-22 05:01:47",integrale,,B07DPFFYH5,Galbusera,,2
+"2018-07-22 05:01:47",integrale,,B071NDVGLF,Galbusera,,3
+"2018-07-22 05:01:47",integrale,,B00ZFQWKC0,Steens,,4
+"2018-07-22 05:01:51",integrale,,B00KHLLMUE,Steens,,5
+"2018-07-22 05:01:51",integrale,,B0769XM6QK,"Birkkala Farm",,6
+"2018-07-22 05:01:39",integrale,,B074PBV673,Rummo,,7
+"2018-07-22 05:03:19",cannolicchi,,,,,1
+"2018-07-22 05:03:21","pasta integrale","Cucina come un grande chef",,"My Cooking Box",,1
+"2018-07-22 05:01:51","pasta integrale",,B01HGR5GJ4,PROMETEO,,2
+"2018-07-22 05:01:51","pasta integrale",,B01HGR5ATK,Prometeo,,3
+"2018-07-22 05:01:51","pasta integrale",,B07C8LQHF5,D'andrea,,4
+"2018-07-22 05:01:51","pasta integrale",,B07CQ5B6W5,PastaPro,,5
+"2018-07-22 05:01:51","pasta integrale",,B00K65YPMS,,,6
+"2018-07-22 05:01:51","pasta integrale",,B076KM3HW6,"Pastificio De Matteis",,7
+"2018-07-22 05:03:21",linguine,,,,,1
+"2018-07-22 05:03:21","pasta all'uovo",,,,,1
+"2018-07-22 05:01:56","pasta all'uovo",,B07BL4YTL4,"Pasta Santoni",,2
+"2018-07-22 05:01:56","pasta all'uovo",,B07BL4H8F9,"Pasta Santoni",,3
+"2018-07-22 05:01:56","pasta all'uovo",,B07BL5HG25,"Pasta Santoni",,4
+"2018-07-22 05:01:56","pasta all'uovo",,B075F6XJ1J,"Pastificio di Amante",,5
+"2018-07-22 05:01:56","pasta all'uovo",,B07BL5PYTQ,"Pasta Santoni",,6
+"2018-07-22 05:01:56","pasta all'uovo",,B071F32HKD,Fiordimonte,,7
+"2018-07-22 05:03:21",fusilli,,,,,1
+"2018-07-22 05:01:23",fusilli,,B01IFHP1T4,Felicetti,,2
+"2018-07-22 05:01:56",fusilli,,B07CDVSZ4B,"Pastificio Felicetti",,3
+"2018-07-22 05:02:00",fusilli,,B071VMF783,D'andrea,,4
+"2018-07-22 05:02:00",fusilli,,B007Q0GOKM,CarbZone,,5
+"2018-07-22 05:03:21","pasta rummo",,,,,1
+"2018-07-22 05:01:39","pasta rummo",,B074PD5B3J,Rummo,,2
+"2018-07-22 05:01:39","pasta rummo",,B074PBV673,Rummo,,3
+"2018-07-22 05:02:00","pasta rummo",,B075RKQ7Q9,"VISCIANO - Sapore Italiano",,4
+"2018-07-22 05:02:00","pasta rummo",,B018OEL5EI,"La Hita",,5
+"2018-07-22 05:03:21","pasta barilla",,,,,1
+"2018-07-22 05:02:00","pasta barilla",,B002LY89MO,Barilla,,2
+"2018-07-22 05:02:00","pasta barilla",,B00XUM48CG,Barilla,,3
+"2018-07-22 05:01:43","pasta barilla",,B07FB53566,"Trade Wholesale Company",,4
+"2018-07-22 05:01:39","pasta barilla",,B01LD5E37G,Nesquik,,5
+"2018-07-22 05:02:00","pasta barilla",,B075RKQ7Q9,"VISCIANO - Sapore Italiano",,6
+"2018-07-22 05:03:21","spaghetti di riso","Percorso Salute® dalla Valtellina alla tua tavola",,Galbusera,,1
+"2018-07-22 05:02:13","spaghetti di riso",,B0185OQUVK,"Miracle Noodle",,2
+"2018-07-22 05:01:43","spaghetti di riso",,B06XTW7YT3,Tianfengyu,,3
+"2018-07-22 05:02:13","spaghetti di riso",,B01JLHNLD0,TTLIFE,,4
+"2018-07-22 05:03:21","de cecco",,,,,1
+"2018-07-22 05:02:13","de cecco",,B003OW7JN2,"De Cecco",,2
+"2018-07-22 05:02:13","de cecco",,B01MG8XFG2,"De Cecco",,3
+"2018-07-22 05:02:13","de cecco",,B077JZZLLY,"De Cecco",,4
+"2018-07-22 05:02:13","de cecco",,B077JRJVT7,"De Cecco",,5
+"2018-07-22 05:02:13","de cecco",,B076Z5SSCC,"Cecchi e Cecchi",,6
+"2018-07-22 05:02:13","de cecco",,B01FFBXJSS,ENROSE,,7
+"2018-07-22 05:03:21","pasta senza glutine","È sempre l'ora del Cous Cous con Probios",,"Probios: bio dal 1978",,1
+"2018-07-22 05:01:39","pasta senza glutine",,B074PD5B3J,Rummo,,2
+"2018-07-22 05:02:20","pasta senza glutine",,B0733CZGJL,CelDiaVeg,,3
+"2018-07-22 05:01:39","pasta senza glutine",,B074PBV673,Rummo,,4
+"2018-07-22 04:59:55","pasta senza glutine",,B01LB2EZCY,"Cute Nutrition",,5
+"2018-07-22 05:02:20","pasta senza glutine",,B0772T7R1G,SENS,,6
+"2018-07-22 05:02:20","pasta senza glutine",,B0777LHYNZ,SENS,,7
+"2018-07-22 05:03:21",rummo,,,,,1
+"2018-07-22 05:01:39",rummo,,B074PBV673,Rummo,,2
+"2018-07-22 05:01:39",rummo,,B074PD5B3J,Rummo,,3
+"2018-07-22 05:03:23",melanzane,,,,,1
+"2018-07-22 05:02:20",melanzane,,B07FHLLX38,"Il Pollino a Tavola",,2
+"2018-07-22 05:02:20",melanzane,,B07D91BXCV,Spina,,3
+"2018-07-22 05:02:20",melanzane,,B07FHLYHXF,"Il Pollino a Tavola",,4
+"2018-07-22 05:02:20",melanzane,,B07F468ZN3,"Il Pollino a Tavola",,5
+"2018-07-22 05:02:20",melanzane,,B00LFLWX1M,Lotuscrafts,,6
+"2018-07-22 05:02:20",melanzane,,B07D92SMT8,Spina,,7
+"2018-07-22 05:03:23",nduja,"Produttori di Eccellenze Gastronomiche dal 1998",,"Valle del Crati",,1
+"2018-07-22 05:02:24",nduja,,B01N7ERTE6,"Valle del Crati",,2
+"2018-07-22 05:03:23","funghi porcini",,,,,1
+"2018-07-22 05:02:24","funghi porcini",,B075KCG3TP,"Moretti Voglie di Bosco",,2
+"2018-07-22 05:02:24","funghi porcini",,B06XXNMLYN,"Sulpizio Tartufi",,3
+"2018-07-22 05:02:24","funghi porcini",,B06XXKXYTD,"Sulpizio Tartufi",,4
+"2018-07-22 05:02:24","funghi porcini",,B075KG56S5,"Moretti Voglie di Bosco",,5
+"2018-07-22 05:02:24","funghi porcini",,B01EX8PPWW,"Molino Pellegrini",,6
+"2018-07-22 05:02:24","funghi porcini",,B074YHV2NS,"JOHNLEEMUSHROOM RESELLER",,7
+"2018-07-22 05:03:23",salsiccia,"Giochi e attività per un divertimento senza fine",,"Giochi Preziosi Italy",,1
+"2018-07-22 05:02:24",salsiccia,,B0793M4QTB,Aobosi,,2
+"2018-07-22 05:03:24",salsiccia,,B01HQ18MSC,Wellcoda,,3
+"2018-07-22 05:02:28",salsiccia,,B01N1JKGU8,Wellcoda,,4
+"2018-07-22 05:02:28",salsiccia,,B06XY3GWY6,Wellcoda,,5
+"2018-07-22 05:03:23",pesto,,,,,1
+"2018-07-22 05:02:28",pesto,,B002LY6JYO,Biffi,,2
+"2018-07-22 05:02:28",pesto,,B01M0ZPNUE,CioMod,,3
+"2018-07-22 05:02:28",pesto,,B01GEFUJM8,bofrost*,,4
+"2018-07-22 05:02:28",pesto,,B01LXQT5QM,CioMod,,5
+"2018-07-22 05:03:23",vongole,,,,,1
+"2018-07-22 05:03:23",ragu,"La Tradizione Gastronomica Italiana dal 1852",,Biffi,,1
+"2018-07-22 05:02:32",ragu,,B01KU02CBY,Biffi,,2
+"2018-07-22 05:03:23",bolognese,,,,,1
+"2018-07-22 05:03:23","ragu alla bolognese",,,,,1
+"2018-07-22 05:03:26","pomodori secchi",,,,,1
+"2018-07-22 05:02:32","pomodori secchi",,B06Y52X7QC,VidiFood,,2
+"2018-07-22 05:02:32","pomodori secchi",,B019O9NFHM,"MASTROTOTARO FOOD",,3
+"2018-07-22 05:02:32","pomodori secchi",,B01DWG2HJ0,Campisi,,4
+"2018-07-22 05:02:32","pomodori secchi",,B01MR1B95H,"Agricola Quinto",,5
+"2018-07-22 05:02:32","pomodori secchi",,B073JNDYR2,"La Mangonesina",,6
+"2018-07-22 05:02:32","pomodori secchi",,B076VM1SQ5,"Vivandera Italian Food",,7
+"2018-07-22 05:03:26","ragu bolognese",,,,,1
+"2018-07-22 05:03:26","funghi champignon",,,,,1
+"2018-07-22 05:02:36","funghi champignon",,B00PW371SE,"Himalayas Mushroom & Truffles",,2
+"2018-07-22 05:02:36","funghi champignon",,B00IZMFV90,Osumex,,3
+"2018-07-22 05:02:36","funghi champignon",,B01CMEDU0S,Tomax,,4
+"2018-07-22 05:03:26",sugo,,,,,1
+"2018-07-22 05:02:32",sugo,,B01KU02CBY,Biffi,,2
+"2018-07-22 05:02:36",sugo,,B06XXDWRQJ,"Sulpizio Tartufi",,3
+"2018-07-22 05:02:36",sugo,,B0759KGTDF,"Bell'Olio di Puglia",,4
+"2018-07-22 05:03:26",mutti,,,,,1
+"2018-07-22 05:03:26","sugo per pasta","Kitchenaid, Elettrodomestici di Alta Qualità.",,KitchenAid,,1
+"2018-07-22 05:03:26","sugo amatriciana",,,,,1
+"2018-07-22 05:03:26","sugo di pomodoro",,,,,1
+"2018-07-22 05:02:40","sugo di pomodoro",,B0005YY9O4,Barilla,,2
+"2018-07-22 05:02:40","sugo di pomodoro",,B06XJXG59R,Lazzari,,3
+"2018-07-22 05:02:36","sugo di pomodoro",,B06XXDWRQJ,"Sulpizio Tartufi",,4
+"2018-07-22 05:02:40","sugo di pomodoro",,B07FNNY8PK,"Gustibus Alimentari",,5
+"2018-07-22 05:03:26",gravy,,,,,1
+"2018-07-22 05:03:26","sugo ai funghi",,,,,1
+"2018-07-22 05:02:40","sugo ai funghi",,B072PSLFX5,"Tocchi Di Puglia",,2
+"2018-07-22 05:02:24","sugo ai funghi",,B075KG56S5,"Moretti Voglie di Bosco",,3
+"2018-07-22 05:03:28","nduja calabrese","Produttori di Eccellenze Gastronomiche dal 1998",,"Valle del Crati",,1
+"2018-07-22 05:02:24","nduja calabrese",,B01N7ERTE6,"Valle del Crati",,2
+"2018-07-22 05:02:40","nduja calabrese",,B07B3TXTK6,Cantafio,,3
+"2018-07-22 05:02:47","nduja calabrese",,B07CW1H1XG,MiVizio,,4
+"2018-07-22 05:02:47","nduja calabrese",,B07B3W5J6S,Cantafio,,5
+"2018-07-22 05:02:47","nduja calabrese",,B075SC3FSC,MiVizio,,6
+"2018-07-22 05:03:28",biscotti,"Latte Crescita Plasmon Nutri-mune",,Plasmon,,1
+"2018-07-22 05:02:47",biscotti,,B071KGFCVJ,"Ann Clark Cookie Cutters",,2
+"2018-07-22 05:02:47",biscotti,,B072KFT7YK,"Ann Clark Cookie Cutters",,3
+"2018-07-22 05:02:47",biscotti,,B01LZSJ7EH,"Ann Clark Cookie Cutters",,4
+"2018-07-22 05:02:47",biscotti,,B00IYTOSNE,"Daelmans Banket B.V.",,5
+"2018-07-22 05:02:47",biscotti,,B072KLKQMH,"Ann Clark Cookie Cutters",,6
+"2018-07-22 05:02:47",biscotti,,B01DMUEMCG,Anokay,,7
+"2018-07-22 05:03:28","mulino bianco",,,,,1
+"2018-07-22 05:02:52","mulino bianco",,B00PA2JPTA,"Mulino Bianco",,2
+"2018-07-22 05:02:52","mulino bianco",,B00XUONBFY,"Mulino Bianco",,3
+"2018-07-22 05:02:52","mulino bianco",,B00R8CN7OE,"Mulino Bianco",,4
+"2018-07-22 05:00:37","mulino bianco",,B005J3I4BU,"Chupa Chups",,5
+"2018-07-22 05:01:31","mulino bianco",,B00XRPEDTO,"Mulino Bianco",,6
+"2018-07-22 05:03:28",ferrero,,,,,1
+"2018-07-22 05:00:37",ferrero,,B005J3I4BU,"Chupa Chups",,2
+"2018-07-22 05:03:28","muffin al cioccolato",,,,,1
+"2018-07-22 05:02:52","muffin al cioccolato",,B07D7TP2YB,Ndier,,2
+"2018-07-22 05:02:52","muffin al cioccolato",,B078RMH7XH,NiceButy,,3
+"2018-07-22 05:02:52","muffin al cioccolato",,B07BWFMY2L,YuCool,,4
+"2018-07-22 05:02:52","muffin al cioccolato",,B07F61JMJ3,Asien,,5
+"2018-07-22 05:02:52","muffin al cioccolato",,B07F634B6N,Asien,,6
+"2018-07-22 05:03:00","muffin al cioccolato",,B01JYBP7R6,Senhai,,7
+"2018-07-22 05:03:28",cookies,,,,,1
+"2018-07-22 05:03:28",motta,,,,,1
+"2018-07-22 05:03:28",buondi,,,,,1
+"2018-07-22 05:03:28","pan di stelle",,,,,1
+"2018-07-22 05:03:00","pan di stelle",,B00ADK5NMC,"Mulino Bianco",,2
+"2018-07-22 05:03:28",croissant,,,,,1
+"2018-07-22 05:03:30","biscotti al cioccolato","Alimenti senza glutine, gusto e nutrimento.",,"Farmo Spa",,1
+"2018-07-22 05:03:00","biscotti al cioccolato",,B075NB1MN2,"Dolci Aveja",,2
+"2018-07-22 05:03:00","biscotti al cioccolato",,B00JJURGEA,Tisanoreica,,3
+"2018-07-22 05:03:00","biscotti al cioccolato",,B0075XBFAE,Herbalife,,4
+"2018-07-22 05:03:00","biscotti al cioccolato",,B01LB2F172,"Cute Nutrition",,5
+"2018-07-22 05:02:20","biscotti al cioccolato",,B0777LHYNZ,SENS,,6
+"2018-07-22 05:00:37","biscotti al cioccolato",,B005J3I4BU,"Chupa Chups",,7
+"2018-07-22 05:03:30","biscotti mulino bianco",,,,,1
+"2018-07-22 05:02:52","biscotti mulino bianco",,B00PA2JPTA,"Mulino Bianco",,2
+"2018-07-22 05:03:00","biscotti mulino bianco",,B01AM5Z8HW,"Mulino Bianco",,3
+"2018-07-22 05:00:37","biscotti mulino bianco",,B005J3I4BU,"Chupa Chups",,4
+"2018-07-22 05:03:00","biscotti mulino bianco",,B00XRPHM0Q,"Mulino Bianco",,5
+"2018-07-22 05:03:30",loacker,,,,,1
+"2018-07-22 05:03:30",bauli,"Thunderdog cesti decorativi",,Thunderdog,,1
+"2018-07-22 05:03:04",bauli,,B06Y663J7Q,"Pieffe Mobili",,2
+"2018-07-22 05:03:04",bauli,,B00ZR9V3E6,"Pieffe Mobili",,3
+"2018-07-22 05:03:04",bauli,,B01EX678SS,"Pieffe Mobili",,4
+"2018-07-22 05:03:04",bauli,,B01MZ810S6,"Pieffe Mobili",,5
+"2018-07-22 05:03:30","buondi motta",,,,,1
+"2018-07-22 05:03:30",ringo,,,,,1
+"2018-07-22 05:03:04",ringo,,B007ZYPOCI,"Kruuse Uk Limited",,2
+"2018-07-22 05:03:30","kinder bueno",,,,,1
+"2018-07-22 05:00:37","kinder bueno",,B005J3I4BU,"Chupa Chups",,2
+"2018-07-22 05:03:04","kinder bueno",,B07BZVBH2V,Ciocopassion,,3
+"2018-07-22 05:03:08","kinder bueno",,B0189GKAEW,Nestle,,4
+"2018-07-22 05:03:08","kinder bueno",,B01ELMQWU4,BOUNTY,,5
+"2018-07-22 05:03:30",snack,"Percorso Salute® dalla Valtellina alla tua tavola",,Galbusera,,1
+"2018-07-22 05:03:08",snack,,B0716S5NLD,CarbZone,,2
+"2018-07-22 05:03:08",snack,,B01CI4BVAS,Parmareggio,,3
+"2018-07-22 05:03:08",snack,,B0776T9DZ6,"Avicenna BIO Food",,4
+"2018-07-22 05:03:08",snack,,B01MYBQWHX,"Jack Link's",,5
+"2018-07-22 05:01:27",snack,,B079Y8LNLN,"Bell'Olio di Puglia",,6
+"2018-07-22 05:03:08",snack,,B079Y8NQKJ,"Bell'Olio di Puglia",,7
+"2018-07-22 05:03:30",cornetti,,,,,1
+"2018-07-22 05:03:30",galbusera,"Percorso Salute® dalla Valtellina alla tua tavola",,Galbusera,,1
+"2018-07-22 05:01:19",galbusera,,B07DPFFTBQ,Galbusera,,2
+"2018-07-22 05:03:12",galbusera,,B07DPFV3GV,Galbusera,,3
+"2018-07-22 05:03:12",galbusera,,B07DPFYVJ8,Galbusera,,4
+"2018-07-22 05:01:47",galbusera,,B07DPFFYH5,Galbusera,,5
+"2018-07-22 05:03:32","kinder delice",,,,,1
+"2018-07-22 05:03:08","kinder delice",,B01ELMQWU4,BOUNTY,,2
+"2018-07-22 05:03:32",wafer,,,,,1
+"2018-07-22 05:03:12",wafer,,B07DPFPDW6,Tremarie,,2
+"2018-07-22 05:03:12",wafer,,B07DP7BGVL,Tremarie,,3
+"2018-07-22 05:03:12",wafer,,B07DPFBRY3,Tremarie,,4
+"2018-07-22 05:03:12",wafer,,B01N6D8CGP,"Net Integratori",,5
+"2018-07-22 05:03:33",wafer,,B07DPFCK3H,Tremarie,,6
+"2018-07-22 05:03:32","cereali integrali","Quinoa biologica premium",,Rewild,,1
+"2018-07-22 05:03:15","cereali integrali",,B074X78678,Prozis,,2
+"2018-07-22 05:03:32",pavesini,,,,,1
+"2018-07-22 05:03:32",merendine,,,,,1
+"2018-07-22 05:03:32",merende,,,,,1
+"2018-07-22 05:03:32",baiocchi,,,,,1

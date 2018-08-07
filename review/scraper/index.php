@@ -9,7 +9,9 @@
 			 
 			<br>
 			<form  role="form" target="iframe_a"  action= "sellerDataToFile.php" method="get"  style="text-align:center;" enctype="multipart/form-data">  
-			<button type="submit" class="btn btn-success">Just Click to get the CSV file with ASIN</button>
+			
+<input type="hidden" name="folder" val="dir">
+<button type="submit" class="btn btn-success">Just Click to get the CSV file with ASIN</button>
 			</form>
 			
 			<br> 

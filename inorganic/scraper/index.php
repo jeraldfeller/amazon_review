@@ -16,6 +16,7 @@ $select ='<select name="marketplace">
 			<br><h1>SCRAPER For Inorgainc Adds From AMAZON</h1> 
 			<br>
 			<form  role="form" target="iframe_a"  action= "sellerDataToFile.php" method="get"  style="text-align:center;" enctype="multipart/form-data">  
+			 <input type="hidden" value="dir" name="folder">
 			<?php echo $select ; ?>
 			<button type="submit" class="btn btn-success">Just Click to get the CSV file with ASIN</button>
 			</form>

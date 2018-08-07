@@ -7,7 +7,7 @@
 	$table ='inorganic';
 	$table1 ='inorganic1';
 	//$table1 ='UPCTOASIN3';
-	$results = selectDBField($table,"status",'0',false,10); 
+	$results = selectDBField($table,"status",'0',false,1000); 
 	print_r($results);
 	if($results){
 		foreach($results as $result){

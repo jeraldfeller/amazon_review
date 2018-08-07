@@ -4,7 +4,7 @@
 	error_reporting(0);
 	include_once('includes/functions.php');  
 	echo "<pre>";
-	$table ='inorganic';
+	$table ='inorganic1';
 	$table1 ='inorganic1';
 	//$table1 ='UPCTOASIN3';
 	$results = selectDBField($table,"status",'2',false,1); 
